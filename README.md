@@ -28,11 +28,11 @@ There are two sub-folders inside: **Classification** and **Information Extractio
 
 In **Classification**, the format of each file (i.e., script of each performance) is as follows:
 
-1 Actor A: ...
+1 *Actor A:* ...
 
-0 Actor B: ...
+0 *Actor B:* ...
 
-1 Actor A: ...
+1 *Actor A:* ...
 
 ...
 
@@ -40,21 +40,21 @@ Therefore, this is actually a binary sentence classification problem. 1 indicate
 
 In **Information Extraction**, the format of each file is:
 
-Actor A : word1 word2 word3 O O O B-Happy I-Happy
+*Actor A : word1 word2 word3* O O O B-Happy I-Happy
 
 #### * CONLL-Format
 
 **Each file has following content:**
 
-word1 O
+*word1* O
 
-word2 O
+*word2* O
 
-word3 B-Happy
+*word3* B-Happy
 
-word4 I-Happy
+*word4* I-Happy
 
-word5 O
+*word5* O
 
 ...
 
