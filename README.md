@@ -108,3 +108,12 @@ In **Information Extraction**, the format of each file is:
 *Information Extraction Baselines*
 - [HMM, CRF, BiLSTM, BiLSTM-CRF](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 - [Bert-tiny, small and base](https://github.com/dbiir/UER-py) (The pre-trained model used for berts can be found [here](https://github.com/dbiir/UER-py/wiki/Modelzoo))
+
+This is the command I used for bert mdoels. (You can also find how to use these bert models in official documents. I just put what I used here in case it may help you to more quickly set up the running experiments)
+```
+! python3 run_ner.py --pretrained_model_path models/mixed_large_bert_tiny_model.bin --config_path models/bert_tiny_config.json --vocab_path models/google_zh_vocab.txt \
+                   --train_path 0.train.uer --dev_path 0.test.uer --test_path 0.test.uer \
+                   --epochs_num 5 --batch_size 16 --encoder bert
+```
+
+> !Note: The information extraction evaluation used relax-match precision, recall and f-scores. Please find more information in the paper.
