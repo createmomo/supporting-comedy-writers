@@ -103,7 +103,8 @@ In **Information Extraction**, the format of each file is:
 ## Code
 *Classification Baselines*
 - [CNN, RCNN, BiLSTM, BiLSTM + Attention, FastText, DPCNN, Transformer](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
-- Bert-tiny, small and base
+- [Bert-tiny, small and base](https://github.com/dbiir/UER-py) (The pre-trained model used for berts can be found [here](https://github.com/dbiir/UER-py/wiki/Modelzoo))
 
 *Information Extraction Baselines*
 - [HMM, CRF, BiLSTM, BiLSTM-CRF](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
+- [Bert-tiny, small and base](https://github.com/dbiir/UER-py) (The pre-trained model used for berts can be found [here](https://github.com/dbiir/UER-py/wiki/Modelzoo))
