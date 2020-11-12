@@ -101,8 +101,9 @@ In **Information Extraction**, the format of each file is:
 ```
 
 ## Code
-*Classification*
-- [HMM, CRF, BiLSTM, BiLSTM-CRF](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
+*Classification Baselines*
+- [CNN, RCNN, BiLSTM, BiLSTM + Attention, FastText, DPCNN, Transformer](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 - Bert-tiny, small and base
 
-*Information Extraction*
+*Information Extraction Baselines*
+- [HMM, CRF, BiLSTM, BiLSTM-CRF](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
