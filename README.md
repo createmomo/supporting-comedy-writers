@@ -29,16 +29,55 @@ This folder contains the data split used for our experiments described in the pa
 **Each file has following content:**
 
 word1 O
+
 word2 O
+
 word3 B-Happy
+
 word4 I-Happy
+
 word5 O
+
 ...
 
 #### JSON-Format (There are 2 types of json and choose the one you like)
-##### *.json
-
-
 ##### *.json1
+```json
+{
+   "id":12, # sentence id, you can ignore this field
+   "text":"文松：太神奇了，我踩你腰了，那我怎么一点感觉都没有啊。",
+   "meta":{ # you can ignore this field
+      
+   },
+   "annotation_approver":null, # you can ignore this field
+   "labels":[ 
+      [
+         18, # start index
+         26, # end index
+         "Happy" # class
+      ]
+   ]
+}
+```
+
+##### *.json
+```json
+{
+   "id":12, # sentence id, you can ignore this field
+   "text":"文松：太神奇了，我踩你腰了，那我怎么一点感觉都没有啊。",
+   "annotations":[
+      {
+         "label":1,
+         "start_offset":18,
+         "end_offset":26,
+         "user":1 # you can ignore this field
+      }
+   ],
+   "meta":{ # you can ignore this field
+      
+   },
+   "annotation_approver":null # you can ignore this field
+}
+```
 
 ## Code
