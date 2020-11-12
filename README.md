@@ -2,7 +2,7 @@
 
 We would like to express our sincere appreciation to **all comedians** and **backstage teams** for their hard work to make audiences happy!
 
-*Paper:* [waiting the link address] 
+**Paper:** [waiting the link address] 
 
 ![NLP for Comedy Scripts](/Slides/Supporting%20Comedy%20Writers%20-%20Predicting%20Audience's%20Response%20from%20Sketch%20Comedy%20and%20Crosstalk%20Scripts.png)
 
