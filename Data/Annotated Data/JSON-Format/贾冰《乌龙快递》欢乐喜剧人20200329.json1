@@ -1,0 +1,195 @@
+{"id": 4306, "text": "快递哥：（电话）哎哎哎，对对对，不是，我一手拿快递，这一手拿电话，我属实感觉我的手有点长少了，那什么，我开免提你跟我说，好嘞，我看这，可能是到家门口了，你确定让我这样做吗，你在听吗，你听在吗。", "meta": {}, "annotation_approver": null, "labels": [[8, 11, "Happy"], [91, 95, "Happy"]]}
+{"id": 4307, "text": "护士：（电话）我在听我在听。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4308, "text": "快递哥：（电话）我现在心里有点胆秃，我毕竟是第一事干这次。", "meta": {}, "annotation_approver": null, "labels": [[22, 28, "Happy"]]}
+{"id": 4309, "text": "护士：（电话）你紧张什么呀，我一时半会儿回不去，就是想请你帮我把快递放屋里，门密码不都告诉你了吗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4310, "text": "快递哥：（电话）不是，关键你家这门密码密密麻麻的，我记得有点不是特别的太住。", "meta": {}, "annotation_approver": null, "labels": [[32, 37, "Happy"]]}
+{"id": 4311, "text": "护士：（电话）圆周率没学过吗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4312, "text": "快递哥：（电话）学过呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4313, "text": "护士：（电话）前八位。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4314, "text": "快递哥：（电话）漂亮，多一位我都不会，我就会八位，你让我寻找一下我失去的记忆，3.1415926，是八位吗。", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "Happy"], [39, 48, "Happy"]]}
+{"id": 4315, "text": "护士：（电话）是呀，八位数字。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4316, "text": "快递哥：（电话）你等我一下，3.1415926，哎，哎，我怎么数出九位，我\"涨芝士\"啦。", "meta": {}, "annotation_approver": null, "labels": [[26, 27, "Happy"], [37, 43, "Happy"]]}
+{"id": 4317, "text": "护士：（电话）哎呀，没有点。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4318, "text": "快递哥：（电话）没点，3，没点1415926，我开挂了吗，这还是九位呀。", "meta": {}, "annotation_approver": null, "labels": [[13, 22, "Happy"], [30, 35, "Happy"]]}
+{"id": 4319, "text": "护士：（电话）行了行了大哥，我说你输。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4320, "text": "快递哥：（电话）好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4321, "text": "护士：（电话）31415926。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4322, "text": "快递哥：（电话）你早说没点的事就完了，行了，这个快递我给你放进屋那个桌子上了，我走了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4323, "text": "护士：（电话）哎，等一下大哥。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4324, "text": "快递哥：（电话）怎么的了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4325, "text": "护士：（电话）你看着门口桌子上那把刀了吗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4326, "text": "快递哥：（电话）看着了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4327, "text": "护士：（电话）拿起来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4328, "text": "快递哥：（电话）这干什么，咱有话能不能好好说呀。", "meta": {}, "annotation_approver": null, "labels": [[16, 23, "Happy"]]}
+{"id": 4329, "text": "护士：（电话）是跟你好好说呀，帮我把快递划开。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4330, "text": "快递哥：（电话）啊，开了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4331, "text": "护士：（电话）你帮我看看里面吃的潮没潮。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4332, "text": "快递哥：（电话）没潮，那叫\"嘎嘣\"脆，另外这是健康食品吗，一点都不咸。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4333, "text": "护士：（电话）狗不能吃太咸的。", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "Happy"]]}
+{"id": 4334, "text": "快递哥：（电话）那没事我走了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4335, "text": "护士：（电话）哎哎哎，大哥，你说你进都进来了，顺便帮我喂一下狗吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4336, "text": "快递哥：（电话）那你早说，这是你终极目标不就完了，你折腾我干什么呢，狗盆在哪儿。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4337, "text": "护士：（电话）你这样，你站到沙发后面，向右转。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4338, "text": "快递哥：（电话）好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4339, "text": "护士：（电话）向右转。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4340, "text": "快递哥：（电话）好，转了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4341, "text": "护士：（电话）向右转。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4342, "text": "快递哥：（电话）好了，转了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4343, "text": "护士：（电话）再向右转。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4344, "text": "快递哥：（电话）好了，转了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4345, "text": "护士：（电话）看着没。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4346, "text": "快递哥：（电话）没看着啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4347, "text": "护士：（电话）那你向左跨一步。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4348, "text": "快递哥：（电话）看着了，你直接让我向左跨一步不就完了吗，你遛我干什么呀你呀，你说我今天本来就是歇班，为了给你送快递，我还加了个班，咱俩要是有仇的话能不能翻篇，我只想当一个快乐的快递小哥哥，并不是礼拜天，你在那儿过我呢。", "meta": {}, "annotation_approver": null, "labels": [[8, 11, "Happy"], [29, 37, "Happy"], [102, 108, "Happy"]]}
+{"id": 4349, "text": "护士：（电话）对不起，对不起，我不是怕你找不着吗，谢谢你啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4350, "text": "快递哥：（电话）不用谢，再说你这是狗盆吗，你这不澡盆吗，这什么狗吃这么多呀，\"菲律宾塞班\"吗。", "meta": {}, "annotation_approver": null, "labels": [[39, 44, "Happy"]]}
+{"id": 4351, "text": "护士：（电话）我平常工作忙，所以一次性就给它准备一个月的量。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4352, "text": "快递哥：（电话）那你这行，你那狗叫什么名字。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4353, "text": "护士：（电话）喂，哎，大哥，我这儿信号不好，先挂了啊，出门记得帮我把门关好，谢谢您啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4354, "text": "快递哥：（电话）不是，哎呀，你这信号怎么就老。又挂了，这信号老是不好，这一天天，那你告诉我狗叫什么名，我得跟它交流一下子啊，菲律宾\"塞班\"\"塞班\"，出来吃食了\"塞班\"，塞塞。", "meta": {}, "annotation_approver": null, "labels": [[66, 68, "Happy"], [70, 72, "Happy"], [80, 82, "Happy"]]}
+{"id": 4355, "text": "物业：你好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4356, "text": "快递哥：你好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4357, "text": "物业：你干什么呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4358, "text": "快递哥：我等\"塞班\"呢，你干什么呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4359, "text": "物业：我物业值班的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4360, "text": "快递哥：哦，吃饭没。", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "Happy"]]}
+{"id": 4361, "text": "物业：这事跟饭不挨着，我为水而来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4362, "text": "快递哥：我给你整水去，那你用什么喝，用盆喝吗，撒地上舔吗。", "meta": {}, "annotation_approver": null, "labels": [[18, 22, "Happy"]]}
+{"id": 4363, "text": "物业：我不喝水，收水费。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4364, "text": "快递哥：收水费啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4365, "text": "物业：嗯。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4366, "text": "快递哥：那你找我没用，我不是业主。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4367, "text": "物业：嗯。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4368, "text": "快递哥：不用瞪我，瞪我也不是业主，不信你问，你问，你问\"塞班\"\"塞班\"\"塞班\"。", "meta": {}, "annotation_approver": null, "labels": [[32, 34, "Happy"]]}
+{"id": 4369, "text": "物业：先生你别喊了，我这都上门来收了，关键今天我不是一个人，我们经理也来了，你可以不给我面子，但你不能不给经理面子，我们经理是散打冠军，他脾气不好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4370, "text": "快递哥：你在这儿念经呢，你跟我对话能不能有点抑扬顿挫呀，再说你收个水费值当喊人吗，你欺负我初来乍到，我没人是怎么的，\"塞班\"，\"塞班\"你出来一次，让我见一下主人公闪亮登场行不行。", "meta": {}, "annotation_approver": null, "labels": [[5, 11, "Happy"], [59, 61, "Happy"]]}
+{"id": 4371, "text": "经理：别叫了别叫了别叫了，就你不交水费呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4372, "text": "快递哥：谁呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4373, "text": "物业：我们经理呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4374, "text": "快递哥：散打那个。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4375, "text": "物业：嗯。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4376, "text": "快递哥：散打那个啊。", "meta": {}, "annotation_approver": null, "labels": [[4, 9, "Happy"]]}
+{"id": 4377, "text": "物业：没错。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4378, "text": "快递哥：这是被打散了，多少公斤级的，六斤二两的，满月以后就没打过比赛吧。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "Happy"], [18, 23, "Happy"], [28, 35, "Happy"]]}
+{"id": 4379, "text": "经理：都是以前的事，江湖朋友给个名而已。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4380, "text": "快递哥：你这名跟我肾差不多呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4381, "text": "经理：什么意思。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4382, "text": "快递哥：虚呗。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"]]}
+{"id": 4383, "text": "经理：您是业主，愿意怎么说就怎么说，只要交水费就行。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4384, "text": "快递哥：我刚刚好不是业主。", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "Happy"]]}
+{"id": 4385, "text": "经理：那你是。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4386, "text": "快递哥：我是送快递的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4387, "text": "经理：那你怎么进来的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4388, "text": "快递哥：圆周率呀。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "Happy"]]}
+{"id": 4389, "text": "经理：哦。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4390, "text": "物业：经理你明白了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4391, "text": "经理：明白了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4392, "text": "物业：什么意思。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4393, "text": "经理：他是实在编不下去了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4394, "text": "快递哥：我编什么，送快递，有圆周率。", "meta": {}, "annotation_approver": null, "labels": [[13, 17, "Happy"]]}
+{"id": 4395, "text": "经理：先生，一共就35块钱，你是吃不起还是喝不起。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4396, "text": "快递哥：你早说35（元）不就完了，我给她垫上不就完了，这一天，给给给。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4397, "text": "经理：来，收据。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4398, "text": "快递哥：哎呦我跟你费这劲都犯不上。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4399, "text": "经理：走吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4400, "text": "物业：走。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4401, "text": "快递哥：赶紧走吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4402, "text": "阿南：等会儿，你俩谁呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4403, "text": "物业：物业，收水费的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4404, "text": "阿南：那他是谁呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4405, "text": "经理：这家业主啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4406, "text": "阿南：那照片这女的是谁呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4407, "text": "经理：人家媳妇呗。", "meta": {}, "annotation_approver": null, "labels": [[3, 8, "Happy"]]}
+{"id": 4408, "text": "阿南：那我是谁呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4409, "text": "经理：你爱谁谁，给我问躁了，我散打冠军，脾气一上来我给你一下子。", "meta": {}, "annotation_approver": null, "labels": [[26, 31, "Happy"]]}
+{"id": 4410, "text": "物业：走走走。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4411, "text": "快递哥：哎呀，我明白了，我要没猜错的话这个照片中这个女子是你女朋友吧，小伙子。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4412, "text": "阿南：别别别，别叫小伙子，以咱俩现在这层人物关系，你得尊我一声前辈。", "meta": {}, "annotation_approver": null, "labels": [[26, 33, "Happy"]]}
+{"id": 4413, "text": "快递哥：前辈怎么干出来的，你也送过快递吗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4414, "text": "阿南：送什么快递，哎，我就纳闷了，以我这个长相，我这个年纪，没看中我看中你了，怎么的，她五行缺爹呀。", "meta": {}, "annotation_approver": null, "labels": [[44, 49, "Happy"]]}
+{"id": 4415, "text": "快递哥：你给我上一边去，你家五行是金木水火爹呀，我就是个老给她送快递的，一个可爱的快递小哥哥而已。", "meta": {}, "annotation_approver": null, "labels": [[16, 23, "Happy"]]}
+{"id": 4416, "text": "阿南：你怎么进的这门。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4417, "text": "快递哥：这密码就是那个照片中的女子告诉我的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4418, "text": "阿南：我与那女子好了一年半她没告诉我密码，把密码告诉你了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4419, "text": "快递哥：那自然界不经常会发生一些奇观吗。", "meta": {}, "annotation_approver": null, "labels": [[8, 19, "Happy"]]}
+{"id": 4420, "text": "阿南：我明白了，难怪天天跟我俩说忙，没时间，这是忙你身上来了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4421, "text": "快递哥：不，忙的事你不知道啊，那我得找你唠唠了，她忙你得包容她，你必须得，你得像我一样包容她，我现在干这些事都属于包容她的范围之内的。", "meta": {}, "annotation_approver": null, "labels": [[54, 66, "Happy"]]}
+{"id": 4422, "text": "阿南：过得这么和谐吗，你俩进展到哪一步了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4423, "text": "快递哥：最后一步。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4424, "text": "阿南：干什么。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4425, "text": "快递哥：见\"塞班\"。", "meta": {}, "annotation_approver": null, "labels": [[6, 8, "Happy"]]}
+{"id": 4426, "text": "阿南：见\"塞班\"，你家长啊。", "meta": {}, "annotation_approver": null, "labels": [[10, 13, "Happy"]]}
+{"id": 4427, "text": "快递哥：你家长，你二姨父，\"塞班\"是条狗。", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "Happy"]]}
+{"id": 4428, "text": "阿南：她养的狗叫旺财，不叫\"塞班\"，随你姓了。", "meta": {}, "annotation_approver": null, "labels": [[18, 22, "Happy"]]}
+{"id": 4429, "text": "快递哥：上一边去，它怎么还随我姓，不是，你这个智商是不是给自己治伤的时候把自己的智商给致伤了你。", "meta": {}, "annotation_approver": null, "labels": [[36, 47, "Happy"]]}
+{"id": 4430, "text": "阿南：拉倒吧，我今天来也是跟她说分手的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4431, "text": "快递哥：你分什么手啊，你别因为这事分手，再说，你分手我也不一定愿意接手，你打个电话给她解释一下不就完了，咱俩在这儿磨叽什么，你不打我打来。", "meta": {}, "annotation_approver": null, "labels": [[26, 35, "Happy"]]}
+{"id": 4432, "text": "护士：阿南，你怎么来了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4433, "text": "阿南：对，我是不该来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4434, "text": "快递哥：你可算回来了，我刚刚要给你打电话，你赶紧跟他解释解释，不行这小子可能闹天宫呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4435, "text": "护士：我跟他解释什么呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4436, "text": "阿南：解释都不解释一下吗，就过得这么理所当然吗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4437, "text": "护士：你怎么了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4438, "text": "阿南：也是，我说你最近跟我俩不冷不热的，原来你这是金屋藏娇啊，不是，金屋藏爹呀。", "meta": {}, "annotation_approver": null, "labels": [[34, 39, "Happy"]]}
+{"id": 4439, "text": "子惠：阿南，你干什么呀，你肯定是误会了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4440, "text": "阿南：子惠，别劝了，处什么呀，分手吧，我走了，对了，麻烦跟旺财打声招呼，它现在随他姓了，你瞅什么呀，以我为戒吧，历史总会惊人地相似的，塞先生。", "meta": {}, "annotation_approver": null, "labels": [[39, 43, "Happy"], [56, 70, "Happy"]]}
+{"id": 4441, "text": "子惠：哎，不是。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4442, "text": "快递哥：老妹啊，首先我对你这个事表示沉痛的哀悼。", "meta": {}, "annotation_approver": null, "labels": [[11, 23, "Happy"]]}
+{"id": 4443, "text": "护士：不是，你说什么呢，大哥。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4444, "text": "快递哥：我就是关心你一下，你俩的事解决完了，你赶紧把咱俩的事解决一下子吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4445, "text": "护士：咱俩什么事啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4446, "text": "子惠：怎么的，你是性别男，你就想接盘。", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "Happy"]]}
+{"id": 4447, "text": "快递哥：那我要性别女，我还不能娶了，你在那儿巴巴什么呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4448, "text": "子惠：你别整那没用的，到底想说什么。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4449, "text": "快递哥：我跟她解决一下钱的事。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4450, "text": "子惠：什么钱。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4451, "text": "快递哥：水费没交，我给你垫的，35（元）。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4452, "text": "子惠：35块钱在这儿磨叽。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4453, "text": "护士：行了，小惠，别为难他了，大哥，我转给你，嘘，别说话，我爸视频。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4454, "text": "子惠：哦哦哦。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4455, "text": "快递哥：她跟她爸有仇怎么的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4456, "text": "护士：嘘。（视频）喂，爸。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4457, "text": "爸爸：（视频）哎，闺女，你在哪儿呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4458, "text": "护士：（视频）我在家呢，准备一会儿去机场，出国玩去了，你看，小惠跟我在一块儿呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4459, "text": "子惠：（视频）叔叔好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4460, "text": "快递哥：（视频）哎。", "meta": {}, "annotation_approver": null, "labels": [[8, 9, "Happy"]]}
+{"id": 4461, "text": "爸爸：（视频）这是小惠的爸爸吧，来送你们，你好啊老哥。", "meta": {}, "annotation_approver": null, "labels": [[21, 26, "Happy"]]}
+{"id": 4462, "text": "快递哥：（视频）这怎么老哥，你这眼神得看看了，叔啊，我呀，我是那个。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4463, "text": "子惠：（视频）叔叔，他是我的男朋友。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4464, "text": "护士：（视频）对对。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4465, "text": "爸爸：（视频）哎呀，小惠这是五行缺爹了。", "meta": {}, "annotation_approver": null, "labels": [[12, 19, "Happy"]]}
+{"id": 4466, "text": "快递哥：（视频）不是，你这怎么的，我这长得老是贴脑门上了我这是。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4467, "text": "爸爸：（视频）闺女。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4468, "text": "护士：（视频）哎。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4469, "text": "爸爸：（视频）这两天你妈身体不太好，我想问问你什么时候回家看看呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4470, "text": "护士：（视频）爸，还不一定呢，这次出国的事早就定好了，票也挺贵的，要不，等我回来再去看你们啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4471, "text": "子惠：（视频）对，叔叔你别担心，出国的钱我男朋友全包了。", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "Happy"]]}
+{"id": 4472, "text": "护士：（视频）对对对。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4473, "text": "爸爸：（视频）那行，你们注意安全，早点回来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4474, "text": "护士：（视频）放心吧，爸，我不跟你说了，到了我跟你发信息啊，拜拜。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4475, "text": "快递哥：挂利索没，撒开，干什么呢抱着不放，我是人参，你怕我跑了呀，我35块钱你还没给我，这会儿加上旅游钱我包了，我凭什么呀，不过我说你两句，我发现我看错人了，我早知道你这样的话，撒谎这么溜，我就不会帮你这帮你那，帮你这那的，你们年轻人喜欢出去玩我可以理解，但是你自己的妈不都病了，你不抽空回去看一下子，你还出国，你孝在何处。", "meta": {}, "annotation_approver": null, "labels": [[9, 11, "Happy"]]}
+{"id": 4476, "text": "子惠：她也没笑啊。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "Happy"]]}
+{"id": 4477, "text": "快递哥：不是不是\"嘿嘿\"那个笑，我说的孝就是孝心的孝，我还在这儿跟你俩开玩笑呢，做人得讲人情，一个人要没人情的话，身边的人会越来越少的，我相信那个\"塞班\"都会离你而去的，还有你，你给我站起来，凭什么我就成你对象了，凭什么，你用什么方法掠走了我的芳心。", "meta": {}, "annotation_approver": null, "labels": [[6, 15, "Happy"], [74, 76, "Happy"], [117, 124, "Happy"]]}
+{"id": 4478, "text": "子惠：你知道我们是干什么的吗你就在这儿瞎说。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4479, "text": "快递哥：骗天骗地骗爹呗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4480, "text": "子惠：你再说一遍。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4481, "text": "护士：行了行了，小惠，别说了啊。大哥，你说的话都对，实话告诉你吧，我们俩是医院的护士，疫情一发生，我们俩就向医院递交了请战书，刚接到通知，今天晚上我们俩呀就跟同事们赶赴疫区了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4482, "text": "快递哥：去那边呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4483, "text": "护士：（点头）。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4484, "text": "快递哥：哎呀，你看这，我可能是误会了，哦，那就是说你们出国旅游这个事得往后推了吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4485, "text": "子惠：推什么呀，说出国旅游那不是怕家里人担心吗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4486, "text": "快递哥：那你跟你对象分手不拦着也怕他担心。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4487, "text": "护士：我想等我回来，他一切就都明白了吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4488, "text": "快递哥：那我可能真是误会了，行，那你那个\"塞班\"，就是原名旺财那狗怎么办。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4489, "text": "护士：没事，大哥，我们再想办法。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4490, "text": "快递哥：哦，哎，咱们能加个微信吗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4491, "text": "护士：哦哦，对，我得把钱转你呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4492, "text": "快递哥：小了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4493, "text": "子惠：啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4494, "text": "快递哥：小了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4495, "text": "子惠：什么小了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4496, "text": "快递哥：格局小了，你们做出这么大的奉献我还能要那35块钱，我良心呢，叫\"塞班\"吃了啊，我不但加你微信，我还得加你微信，另外，我嘱咐你们一句，出门以后，就这个圆周率这密码不许变。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "Happy"], [34, 42, "Happy"]]}
+{"id": 4497, "text": "子惠：不是，我们出差还不换密码，你到底想干嘛呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4498, "text": "快递哥：我想帮她喂狗，但是我有个条件，你们到了那边以后，不管多忙，不管多累，你就抽空每天给我这个手机上发一个笑脸，让我知道你们都好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4499, "text": "护士：（点头）。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 4500, "text": "快递哥：你们爸妈不担心你们是因为他们不知道，但是我知道了，我担心你们，你别以为这肉麻，就当你俩五行缺爹了吧，一定要平安回来，一定要平安回来，一定要平安回来，我们在这儿等你们。", "meta": {}, "annotation_approver": null, "labels": [[44, 53, "Happy"], [78, 86, "Happy"]]}

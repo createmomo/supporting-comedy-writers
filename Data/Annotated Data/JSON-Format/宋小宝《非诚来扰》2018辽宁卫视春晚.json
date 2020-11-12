@@ -1,0 +1,357 @@
+{"id": 347, "text": "赵海燕：主持人呐，小伙子，主持人。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 348, "text": "王龙：哎，赵阿姨。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 349, "text": "赵海燕：这都几点了？这男嘉宾还不来呢？那我们不录了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 350, "text": "王龙：你别，别不录啊，我估计呀，男嘉宾知道是您在家换衣服呢，得打扮漂亮的，才来相亲呢。", "annotations": [{"label": 3, "start_offset": 30, "end_offset": 36, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 351, "text": "赵海燕：孩子还挺会说话，那意思男嘉宾还挺重视我呗。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 352, "text": "王龙：那肯定得重视啊，您长的这么漂亮，对吧？赵阿姨呀，您说您一共十个老太太来相亲，都有九个老太太牵手成功了，今天呢，您也加把劲儿争取牵手成功，咱们就十全十美了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 353, "text": "赵海燕：这孩子，你这是拿我凑数呢？", "annotations": [{"label": 3, "start_offset": 8, "end_offset": 16, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 354, "text": "王龙：不是拿您凑数呢，您说您的眼光太高了，没有一个老头相中，今天来的男嘉宾可以说是老优秀了，一高一矮、一胖一瘦、一黑一白总有一款适合你。", "annotations": [{"label": 3, "start_offset": 60, "end_offset": 67, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 355, "text": "赵海燕：来六个人呀？", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 356, "text": "王龙：俩人呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 357, "text": "赵海燕：这孩子那话说的像来六个人似的。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 358, "text": "王龙：我就是形容优秀嘛，您等一会儿。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 359, "text": "赵海燕：行行行，那天冷道滑，你让他慢点走吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 360, "text": "王龙：好，您坐一会儿啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 361, "text": "程野：老宋，我说我就别去了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 362, "text": "宋小宝：哎呀，你可拉倒吧，你说你干啥呀？你这个时候你打退堂鼓，你是怕丢人呐？", "annotations": [{"label": 3, "start_offset": 31, "end_offset": 37, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 363, "text": "程野：我可不怕你丢人嘛，咱俩去相亲，你说我这形象、这气质都在这放着呢，颜值也比你高，你说要万一相中我了，你再上点火，这大过年的，犯不上啊。", "annotations": [{"label": 3, "start_offset": 35, "end_offset": 41, "user": 1}, {"label": 3, "start_offset": 64, "end_offset": 68, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 364, "text": "宋小宝：你可拉倒吧，咱俩都掐一辈子了，从小到大哪次你赢过？", "annotations": [{"label": 3, "start_offset": 23, "end_offset": 28, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 365, "text": "程野：你小时候是挺厉害，那家跟我掐的。我要养个猫吧，他就养个狗；我要养个驴吧，他就养个马；我寻思啥也不养了我养个猴吧，最后他出现了。", "annotations": [{"label": 3, "start_offset": 59, "end_offset": 65, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 366, "text": "宋小宝：别说那没有用的了，今天呢也是对咱们这么多年一个总结，比完以后，咱俩以后就再也不比了，必须分出个高低，走。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 367, "text": "程野：老宋，是那个人不？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 368, "text": "宋小宝：那个你回去吧。", "annotations": [{"label": 3, "start_offset": 6, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 369, "text": "程野：我有一种想恋爱的冲动呢？", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 370, "text": "宋小宝：趁天亮，天黑你该走丢了，回去吧。", "annotations": [{"label": 3, "start_offset": 16, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 371, "text": "程野：不，我要跟你公平竞争。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 13, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 372, "text": "宋小宝：小王啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 373, "text": "王龙：哎呀，你俩怎么才来呢啊？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 374, "text": "宋小宝：不是，他要回家，你让他回去吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 375, "text": "程野：不是，我捯饬捯饬，我来跟他竞争一下子。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 376, "text": "王龙：那个两位大爷。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 377, "text": "宋小宝：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 378, "text": "王龙：今天呢你也看着了，赵阿姨长得也特别漂亮，也特别优秀，你俩可把我住啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 379, "text": "宋小宝：啊，几期没牵手成功？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 380, "text": "王龙：啊，九期了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 381, "text": "宋小宝：九期都没牵成功？那她是不是有啥毛病啊？", "annotations": [{"label": 3, "start_offset": 14, "end_offset": 22, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 382, "text": "程野：那肯定是有问题呗。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 383, "text": "王龙：啥毛病没有，就是择偶标准呢，高。无论是文化呀、诗词歌赋啊、音乐呀、长相啊都特别挑。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 384, "text": "程野：哎呀，那我准备得太丰富了，我这先天条件搁着呢。", "annotations": [{"label": 3, "start_offset": 18, "end_offset": 25, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 385, "text": "宋小宝：那我都没事，我都把关于西游记的所有书籍，我都搜集全了，我就来防备这件事的。", "annotations": [{"label": 3, "start_offset": 25, "end_offset": 30, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 386, "text": "王龙：啊，有准备就行。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 387, "text": "宋小宝：对，有准备。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 388, "text": "王龙：赵阿姨准备了不少问题。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 389, "text": "宋小宝：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 390, "text": "王龙：所以说你们俩加把劲儿，有一个牵手成功那就行。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 391, "text": "宋小宝：那妥。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 392, "text": "王龙：我呢给你俩使眼色完你看着点，好不？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 393, "text": "宋小宝：OK。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 394, "text": "王龙：进来吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 395, "text": "程野：这个事我定了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 396, "text": "王龙：来，灯光，音响咱们做好准备啊，咱，你俩干啥呀？回去。", "annotations": [{"label": 3, "start_offset": 18, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 397, "text": "程野：啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 398, "text": "王龙：来灯光、音响做好准备，咱们马上录。哎大爷。", "annotations": [{"label": 3, "start_offset": 20, "end_offset": 23, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 399, "text": "宋小宝：啊？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 400, "text": "王龙：干啥去呀？回到位置上。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 401, "text": "程野：你说你也不说明白，你说说说。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 402, "text": "王龙：快快快，回来回来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 403, "text": "程野：看图说话，那家伙事是你的。", "annotations": [{"label": 3, "start_offset": 8, "end_offset": 15, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 404, "text": "王龙：都准备好没？行了啊？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 405, "text": "宋小宝：行，没问题。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 406, "text": "王龙：加油啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 407, "text": "宋小宝：啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 408, "text": "王龙：既然二位已经准备就绪，那么我宣布老年相亲节目，最美不过夕阳红，现在开始。好，两位大爷，我先说一下规则，我们相亲过程当中，男嘉宾会经过自我介绍接受问答，爱情陈述等几个环节的比拼，最后得分超过50分的，将会有机会和我们赵阿姨牵手。那么现在，为了能给女嘉宾留下更好的印象，男嘉宾亮个相。", "annotations": [{"label": 3, "start_offset": 136, "end_offset": 142, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 409, "text": "程野：下来。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 5, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 410, "text": "王龙：那个，那个宋大爷。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 411, "text": "宋小宝：啊？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 412, "text": "王龙：咱先，咱先下来呗？", "annotations": [{"label": 3, "start_offset": 6, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 413, "text": "宋小宝：不是，我看西游记里我跟悟空学的。", "annotations": [{"label": 3, "start_offset": 13, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 414, "text": "王龙：先别着急，咱们先回去，亮相亮完了以后呢？这样，说出你们俩的爱情宣言。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 415, "text": "宋小宝：啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 416, "text": "王龙：好不好？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 417, "text": "程野：那我宣一下子呗。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 418, "text": "王龙：程大爷先来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 419, "text": "程野：我的爱情宣言是女嘉宾看你是，蒹葭苍苍，白露上霜，你是佳人，我血气方刚。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 420, "text": "王龙：好。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 4, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 421, "text": "宋小宝：美女看不少，除了歪瓜就裂枣，放眼海角天涯，此处有我芳草。", "annotations": [{"label": 3, "start_offset": 10, "end_offset": 17, "user": 1}, {"label": 3, "start_offset": 25, "end_offset": 31, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 422, "text": "王龙：二位大爷都说出了各自的爱情宣言，接下来请女嘉宾还有亲友团打分，先可程大爷先来，打分。好，程大爷是20分，接下来是宋大爷，打分，宋大爷是15分，看来女嘉宾和亲友团对程大爷挺看好。", "annotations": [{"label": 3, "start_offset": 66, "end_offset": 73, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 423, "text": "程野：回去吧，要不然一会儿你容易丢人呢。", "annotations": [{"label": 3, "start_offset": 13, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 424, "text": "宋小宝：你别的，下面是不还有环节呢？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 425, "text": "王龙：有啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 426, "text": "宋小宝：有环节我就坚持，不到最后一刻，我绝对不放手，开始继续。", "annotations": [{"label": 3, "start_offset": 19, "end_offset": 25, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 427, "text": "王龙：好，那么下一环节是自我介绍，开始。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 428, "text": "程野：我叫程大碗，今年65岁，家住三合堡村，我的家庭条件比较好，自己一个人花钱花不了，我靠我勤劳的双手、智慧的大脑，把我的女儿送进了大学，然后呢，考上了博士，我是衣食无忧啊。女嘉宾我的生活特别有情调，平时呢，爱喝点果酒，我觉得喝果酒啊，你就跟我学，嘴要不喝紫了豪青的，那根本就不上劲儿。哎，睡觉前呢，现在还有个习惯不喝咖啡不行，必须整两杯，要不睡不着觉，不道是不是毛病。", "annotations": [{"label": 3, "start_offset": 134, "end_offset": 142, "user": 1}, {"label": 3, "start_offset": 170, "end_offset": 176, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 429, "text": "宋小宝：你那是浪的，介绍那玩意儿多磨叽。", "annotations": [{"label": 3, "start_offset": 5, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 430, "text": "程野：那你说，你说你说。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 431, "text": "宋小宝：我呢叫宋有才，是上个世纪五十年代中国制造的，采用全人工智能，经过这60多年的不停运转，我这各零部件呀，还算齐全，属于信得过产品，到目前保持七成新，我这产品呢，如果你不满意呀，可以包退包换，磨砂面、黑漆、不烧油、不烧气，一天两碗大米粒儿，完事。", "annotations": [{"label": 3, "start_offset": 20, "end_offset": 25, "user": 1}, {"label": 3, "start_offset": 55, "end_offset": 59, "user": 1}, {"label": 3, "start_offset": 71, "end_offset": 76, "user": 1}, {"label": 3, "start_offset": 102, "end_offset": 104, "user": 1}, {"label": 3, "start_offset": 113, "end_offset": 121, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 432, "text": "王龙：好，两位大爷。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 433, "text": "宋小宝：你看看。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 434, "text": "王龙：介绍完了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 435, "text": "宋小宝：完事。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 436, "text": "王龙：那么女嘉宾自我介绍。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 437, "text": "赵海燕：主持人好、两位男嘉宾好、观众朋友们大家好，我叫赵淑芬，这个今年刚退休没啥要求，就是找一个志同道合的伴，我这人有点不多，缺点不少，饭也不会做、家务也不会弄都老伴给惯的，哎呀，就是说白了吧，就是懒，反正希望男嘉宾多多包涵。", "annotations": [{"label": 3, "start_offset": 16, "end_offset": 24, "user": 1}, {"label": 3, "start_offset": 80, "end_offset": 86, "user": 1}, {"label": 3, "start_offset": 97, "end_offset": 100, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 438, "text": "程野：我要是我的话，我特别包涵，懒点不是病，那是富贵命，生命在于静止，我比你还懒呢。", "annotations": [{"label": 3, "start_offset": 11, "end_offset": 15, "user": 1}, {"label": 3, "start_offset": 36, "end_offset": 41, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 439, "text": "宋小宝：那个。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 440, "text": "程野：但是咱条件好了不用整饭，花钱下馆子呗。", "annotations": [{"label": 3, "start_offset": 15, "end_offset": 21, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 441, "text": "宋小宝：那个女嘉宾你的意思就是凡是伸手的活，你都不能干呗？那我问一下子，就假如说一会儿俺俩牵手成功了，一会儿牵手的时候那个手，你能不能伸出来？如果这个手你能伸出来的话，我觉得一切都不是毛病，我这人最大的毛病我就愿意伺候人，就别说伺候人，我就伺候那老母猪，我就能伺候到400来斤我告诉你。", "annotations": [{"label": 3, "start_offset": 23, "end_offset": 28, "user": 1}, {"label": 3, "start_offset": 64, "end_offset": 70, "user": 1}, {"label": 3, "start_offset": 85, "end_offset": 94, "user": 1}, {"label": 3, "start_offset": 129, "end_offset": 142, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 442, "text": "程野：哎，不是，你是来相亲来了还是为主来了，你呀？你说这话，女嘉宾人能爱听吗？", "annotations": [{"label": 3, "start_offset": 22, "end_offset": 24, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 443, "text": "宋小宝：我就做个比喻。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 444, "text": "程野：就嫌人给你打这分少。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 445, "text": "宋小宝：上亿边去，女嘉宾不是那种胸怀的人，她能理解，我比喻对不？", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 8, "user": 1}, {"label": 3, "start_offset": 29, "end_offset": 31, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 446, "text": "赵海燕：对。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 447, "text": "王龙：行了，那个两位大爷你俩也别吵了，咱毕竟是相亲的，对不对？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 448, "text": "宋小宝：对。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 449, "text": "王龙：那咱们进入下一环节？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 450, "text": "宋小宝：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 451, "text": "王龙：知识问答，这一环节呢。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 452, "text": "宋小宝：知识要提知识，我告诉你我这一摞书，我都拿来了，他跟我比不了。", "annotations": [{"label": 3, "start_offset": 27, "end_offset": 33, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 453, "text": "程野：你拿那些书有啥用啊？新学现卖呀啊？我这是满腹经纶。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 454, "text": "宋小宝：你可拉倒吧，要不咱俩先整一下子？", "annotations": [{"label": 3, "start_offset": 15, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 455, "text": "程野：整我怕你呀？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 456, "text": "宋小宝：你先整一个。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 457, "text": "程野：那我给你整一个，不知识问答吗？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 458, "text": "王龙：对。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 459, "text": "程野：我俩先考一下子啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 460, "text": "王龙：你俩就先别。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 461, "text": "宋小宝：你别管，这是我俩之间的事。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 462, "text": "王龙：你先。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 463, "text": "宋小宝：我先分个高低出来，你不嘚瑟吗？", "annotations": [{"label": 3, "start_offset": 14, "end_offset": 18, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 464, "text": "程野：老宋你看着啊，我给你个幼儿园的啊，说幼儿园买了5斤苹果，一个孩子分7个。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 465, "text": "宋小宝：7个。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 466, "text": "程野：少5个，一个孩子分5个多7个，请问这些孩子能打起来不？", "annotations": [{"label": 3, "start_offset": 11, "end_offset": 17, "user": 1}, {"label": 3, "start_offset": 24, "end_offset": 29, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 467, "text": "宋小宝：我想打死你，这啥题呀？老师在那就不能打起来。", "annotations": [{"label": 3, "start_offset": 5, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 468, "text": "程野：那你没答出来呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 469, "text": "宋小宝：我给你，我给你出一个。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 470, "text": "程野：来吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 471, "text": "宋小宝：说高速公路上有一台摩托，第一个小时呢以每小时120迈的速度在行驶；第二个小时，以每小时240迈的速度在行驶；第三个小时以每小时360迈的速度在行驶，问这台摩托在哪买的？", "annotations": [{"label": 3, "start_offset": 83, "end_offset": 87, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 472, "text": "程野：去一边拉去。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 473, "text": "宋小宝：他就是不行。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 474, "text": "王龙：两位大爷，你俩这题吧有点任性，那咱们淡定一点，赵阿姨也不想听到你们这些题，还是由我来考好不好？赵阿姨。", "annotations": [{"label": 3, "start_offset": 13, "end_offset": 17, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 475, "text": "赵海燕：好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 476, "text": "王龙：这样啊，答对了有10分，答错了咱们不扣分好不好？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 477, "text": "宋小宝：好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 478, "text": "王龙：那个宋大爷还有程大爷听好题。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 479, "text": "宋小宝：出点简单的。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 480, "text": "王龙：好好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 481, "text": "程野：眼吧前的，大道沿儿的。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 13, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 482, "text": "王龙：加把劲儿啊，那么先是那个宋大爷您来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 483, "text": "宋小宝：啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 484, "text": "王龙：啊，请听题说马拉松的长度是42公里左右，那么请问一个选手跑完马拉松全程需要多少里？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 485, "text": "宋小宝：十万八千里。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 486, "text": "程野：人家问的是马拉松。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 487, "text": "宋小宝：马拉松啊？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 488, "text": "王龙：啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 489, "text": "宋小宝：我听差了，我以为他说孙悟空呢，我这西游记看多了，看杂了。", "annotations": [{"label": 3, "start_offset": 14, "end_offset": 18, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 490, "text": "王龙：考程大爷吧还是。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 491, "text": "程野：十万八，你咋不翻丢了你？", "annotations": [{"label": 3, "start_offset": 8, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 492, "text": "王龙：程大爷那个你来啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 493, "text": "程野：来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 494, "text": "王龙：众所周知，珠穆朗玛峰是世界第一高峰。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 495, "text": "程野：对。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 496, "text": "王龙：那么世界第一高峰是什么峰？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 497, "text": "程野：喜马拉雅山。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 498, "text": "王龙：我说峰。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 499, "text": "宋小宝：啊，对对，那那峰，那我知道，我现在答来得及不？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 500, "text": "王龙：你知道，来得及。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 501, "text": "宋小宝：那你重问，你重问。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 502, "text": "王龙：你知道了是吧？", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 503, "text": "宋小宝：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 504, "text": "王龙：珠穆朗玛峰是世界第一高峰，对不对？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 505, "text": "宋小宝：对。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 506, "text": "王龙：世界第一高峰是什么峰？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 507, "text": "宋小宝：青藏高原。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 508, "text": "程野：啥玩意儿，你听谁说的？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 509, "text": "宋小宝：亚拉呀。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 7, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 510, "text": "程野：她咋说的？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 511, "text": "宋小宝：亚拉索，那就是青藏高。", "annotations": [{"label": 3, "start_offset": 9, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 512, "text": "王龙：停。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 513, "text": "宋小宝：原，你得让亚拉说完呢。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 514, "text": "王龙：那亚拉现在说完没？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 515, "text": "宋小宝：说完了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 516, "text": "王龙：咱们那个还是换下一话题吧，好不好？咱们来点来点抢答题，行不行？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 517, "text": "宋小宝：好的。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 518, "text": "王龙：抢答题这样啊，我再换点题啊，赵阿姨。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 519, "text": "赵海燕：好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 520, "text": "王龙：抢答题呢是谁先抢到了谁回答，答对了加10分，答错了扣5分。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 521, "text": "宋小宝：好的。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 522, "text": "王龙：请听题，请问爱情之神是谁？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 523, "text": "宋小宝：谢大脚。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 7, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 524, "text": "王龙：错，扣5分。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 525, "text": "程野：是月老。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 526, "text": "王龙：答对了，加10分。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 527, "text": "宋小宝：月老是谁呀？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 528, "text": "程野：谢大脚她姥。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 529, "text": "王龙：宋大爷得努力了啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 530, "text": "宋小宝：啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 531, "text": "王龙：那么下一题，请问传说中化蝶的一对情侣是谁？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 532, "text": "程野：梁山伯与菊花台。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 533, "text": "宋小宝：梁山伯与祝英台。", "annotations": [{"label": 3, "start_offset": 8, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 534, "text": "王龙：对了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 535, "text": "宋小宝：还梁山伯与菊花台，你咋不说梁山伯与周杰伦呢？", "annotations": [{"label": 3, "start_offset": 21, "end_offset": 25, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 536, "text": "程野：我整串台了，是吧？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 537, "text": "王龙：这一道题呢，宋大爷得了10分，你扣了5分，请接下一话题。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 538, "text": "宋小宝：好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 539, "text": "王龙：那么历史上对媳妇最好的人是谁？宋大爷抢到了，宋大爷回答。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 540, "text": "宋小宝：我好像有点懵住了。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 12, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 541, "text": "王龙：那你敲什么呀？扣5分。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 542, "text": "程野：是西门庆。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 7, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 543, "text": "宋小宝：潘安。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 6, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 544, "text": "王龙：答对了，加10分。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 6, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 545, "text": "赵海燕：主持人呢。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 546, "text": "王龙：哎，赵阿姨。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 547, "text": "赵海燕：主持人，那个我想提个建议啊，两位男嘉宾。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 548, "text": "宋小宝：哎。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 549, "text": "赵海燕：可能你们俩是为了活跃气氛，刚才出的这些题呀、问答题呀可能都这个门坎比较低，那么接下来我看这嘉宾都带书来的，人家是准备好了呀，咱们能不能考点文学方面的常识？主持人，可以吗？", "annotations": [{"label": 3, "start_offset": 35, "end_offset": 40, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 550, "text": "王龙：可以。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 551, "text": "宋小宝：那是什么题呀？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 552, "text": "赵海燕：那个主持人。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 553, "text": "宋小宝：必答题还是抢答题？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 554, "text": "王龙：抢答题。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 555, "text": "赵海燕：抢答题吧。两位男嘉宾准备好了啊，请听题疑是银河落九天的上一句是什么？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 556, "text": "宋小宝：不知道。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 7, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 557, "text": "赵海燕：错。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 558, "text": "王龙：扣5分。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 559, "text": "宋小宝：扣他的。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 7, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 560, "text": "程野：你咋像个欠儿似的你呀啊？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 561, "text": "宋小宝：我就知道你不知道。", "annotations": [{"label": 3, "start_offset": 6, "end_offset": 12, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 562, "text": "王龙：好，下一题。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 563, "text": "赵海燕：男嘉宾请听题，身无彩凤双飞翼的下一句是什么？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 564, "text": "程野：他也不知道。", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 565, "text": "宋小宝：你咋这样呢？好的你不学就在这一方面，咱俩是心有灵犀一点通。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 566, "text": "赵海燕：对了。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 6, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 567, "text": "王龙：加10分。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 568, "text": "宋小宝：我问一下子，谁答的？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 569, "text": "王龙：不你说的嘛，心有灵犀一点通嘛。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 570, "text": "宋小宝：妈呀，答对了。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 571, "text": "程野：不是，蒙的也算呢？", "annotations": [{"label": 3, "start_offset": 6, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 572, "text": "宋小宝：不是蒙的，我正儿八经答的。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 573, "text": "王龙：不管蒙不蒙经过这一环节比拼，宋大爷35比15，那么进行下一环节，女嘉宾自由提问。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 574, "text": "赵海燕：两位男嘉宾准备好了吗？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 575, "text": "程野：准备好了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 576, "text": "赵海燕：接下来呢，我再问的问题就跟现实有关了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 577, "text": "程野：对对，整点现实的。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 578, "text": "赵海燕：我是说假如，假如我跟二位其中的任何一位牵手成功的话，您能给我一个什么样的生活？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 579, "text": "程野：我能给你特别幸福的生活，现在咱生活好了，咱们要能牵手的话，一天都不在家待着，知道这啥吗？车钥匙，而且是房车钥匙，我带你全国溜达，全世界溜达，不有一首歌唱的好嘛，我要带你去那浪漫的土耳其。", "annotations": [{"label": 3, "start_offset": 9, "end_offset": 14, "user": 1}, {"label": 3, "start_offset": 89, "end_offset": 95, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 580, "text": "宋小宝：顶天是从皇姑到铁西，别听他忽悠，就你那破车还想出国呀？你早上从家把我拉到这连个减震都没有，都把我颠哒吐了，我早晨吃那点海参、鲍鱼、龙虾都吐出来了，那鲍鱼吐出来活的呢，他还伸手抓呢。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 13, "user": 1}, {"label": 3, "start_offset": 50, "end_offset": 56, "user": 1}, {"label": 3, "start_offset": 71, "end_offset": 76, "user": 1}, {"label": 3, "start_offset": 88, "end_offset": 93, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 581, "text": "程野：你别听他扒瞎，我这满手金戒指都回不过弯，我能抓那玩意儿吗？我能抓那个吗？", "annotations": [{"label": 3, "start_offset": 24, "end_offset": 31, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 582, "text": "宋小宝：显啥呀？显摆这些东西多庸俗，女嘉宾是这种人吗？多恶心啊，我有这么多银行卡，我跟谁说了啊？女嘉宾，我也就是让你看看，我显摆了吗？低调点，好不好？", "annotations": [{"label": 3, "start_offset": 14, "end_offset": 17, "user": 1}, {"label": 3, "start_offset": 42, "end_offset": 47, "user": 1}, {"label": 3, "start_offset": 62, "end_offset": 66, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 583, "text": "程野：都是信用卡吧？", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 584, "text": "宋小宝：全是储蓄卡。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 585, "text": "赵海燕：好啦，好啦好啦，两位男嘉宾啊，也许是我表达得不够清楚，也许是你们误会了，其实呢，到了我们这个年龄，对物质生活并不看重，更注重的是精神层面的交流。实话实话，我这个人啊是比较喜欢朗诵诗歌呀，听听音乐呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 586, "text": "程野：哎，那咱俩太合拍了，我跟你说音乐这块啊，一点说都没有，吹打弹拉我啥都会。", "annotations": [{"label": 3, "start_offset": 35, "end_offset": 38, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 587, "text": "宋小宝：我告你啊，在朗诵诗歌上，我获得过我们县里第二名，这样，我当场就给你来一个，女嘉宾你出来。", "annotations": [{"label": 3, "start_offset": 22, "end_offset": 27, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 588, "text": "程野：我也给你展示一下子。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 12, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 589, "text": "王龙：不是，宋大爷，你别这样，这样不好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 590, "text": "宋小宝：哎呀，你上一边去，早晚都得走这一步，你这样啊，我就在你面前声情并茂地给你朗诵一首啊，我给你朗诵一首，你就看着就行了，啊，啊，滚，滚，长江东逝水，浪花淘尽英雄，是非成败转头空。青山依旧在，几度夕阳红。", "annotations": [{"label": 3, "start_offset": 15, "end_offset": 21, "user": 1}, {"label": 3, "start_offset": 62, "end_offset": 63, "user": 1}, {"label": 3, "start_offset": 64, "end_offset": 65, "user": 1}, {"label": 3, "start_offset": 66, "end_offset": 67, "user": 1}, {"label": 3, "start_offset": 72, "end_offset": 75, "user": 1}, {"label": 3, "start_offset": 80, "end_offset": 82, "user": 1}, {"label": 3, "start_offset": 87, "end_offset": 90, "user": 1}, {"label": 3, "start_offset": 93, "end_offset": 96, "user": 1}, {"label": 3, "start_offset": 101, "end_offset": 102, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 591, "text": "程野：你疯了？你呀？", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 6, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 592, "text": "王龙：哎，大爷大爷。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 593, "text": "程野：疯了你呀？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 594, "text": "王龙：松开，松开，松开，不是松开，干啥呀？老哥俩，干吗呀？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 595, "text": "程野：主持人你看是不给我打红了，是不打红了？", "annotations": [{"label": 3, "start_offset": 16, "end_offset": 21, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 596, "text": "王龙：打红了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 597, "text": "宋小宝：我给你透个题。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 598, "text": "赵海燕：哎，好啦好啦。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 599, "text": "宋小宝：夕阳红。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 7, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 600, "text": "赵海燕：好，好啦好啦。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 601, "text": "宋小宝：那喇叭声太大了，要不我重来一遍吧？", "annotations": [{"label": 3, "start_offset": 15, "end_offset": 20, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 602, "text": "赵海燕：不用了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 603, "text": "宋小宝：好嘞。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 604, "text": "王龙：你俩干啥，咱是相亲来了，不是打架来了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 605, "text": "赵海燕：主持人呢。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 606, "text": "宋小宝：被人看。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 607, "text": "王龙：哎。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 608, "text": "赵海燕：那个我的话问完了，再问都有生命危险了。", "annotations": [{"label": 3, "start_offset": 15, "end_offset": 22, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 609, "text": "王龙：那么既然这个环节已经过去了，那么进行下一个环节，请赵阿姨和亲友团们打分，首先呢给程大爷打分，20分，来给宋大爷打分，好，每个人各得了20分，但是前边宋大爷得了35分，加在一起是55分，那么大家恭喜宋大爷和赵阿姨有了牵手的机会。", "annotations": [{"label": 3, "start_offset": 108, "end_offset": 115, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 610, "text": "程野：恭喜你呗。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 611, "text": "宋小宝：不好意思啊。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 612, "text": "程野：啊，你还牵手了，你看。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 613, "text": "宋小宝：还让你丢人了，不好意思啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 614, "text": "王龙：来，男女嘉宾各上前一步，请大家静候赵阿姨的答复。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 615, "text": "赵海燕：停，男嘉宾呢。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 5, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 616, "text": "宋小宝：哎。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 617, "text": "赵海燕：我可以问你一个题外的话吗？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 618, "text": "宋小宝：行。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 619, "text": "赵海燕：你咋长这么黑呢？", "annotations": [{"label": 3, "start_offset": 6, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 620, "text": "宋小宝：因为我不想白白的活一辈子。", "annotations": [{"label": 3, "start_offset": 9, "end_offset": 16, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 621, "text": "赵海燕：看出来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 622, "text": "宋小宝：哎呀，另外呢，我还想暗中保护你。", "annotations": [{"label": 3, "start_offset": 14, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 623, "text": "赵海燕：男嘉宾很幽默，也很优秀，其实我很欣赏你，看得出来，你是一个乐观向上，很积极，很阳光的这么一个人。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 624, "text": "宋小宝：嗯。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 5, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 625, "text": "赵海燕：其实你特别优秀，你能找到一个比我还好的人。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 626, "text": "宋小宝：哎呀，不找了，这一年找的给我累完了，你就行了，到你这我就停了再也不找了。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 10, "user": 1}, {"label": 3, "start_offset": 18, "end_offset": 21, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 627, "text": "赵海燕：不是，男嘉宾我是说你太优秀了，我配不上你。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 628, "text": "宋小宝：哎呀，你配我八个来回带拐三个弯的。", "annotations": [{"label": 3, "start_offset": 14, "end_offset": 20, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 629, "text": "赵海燕：我是说呀，我们俩不合适。", "annotations": [{"label": 3, "start_offset": 12, "end_offset": 15, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 630, "text": "宋小宝：哎呀妈呀，那我明白，那我明白了，分得够了没看上人，真应了那句话了，我本将心向明月，怎奈明月照沟渠，沟渠你来吧。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 8, "user": 1}, {"label": 3, "start_offset": 24, "end_offset": 28, "user": 1}, {"label": 3, "start_offset": 49, "end_offset": 52, "user": 1}, {"label": 3, "start_offset": 56, "end_offset": 58, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 631, "text": "程野：这家，还有意外的惊喜，没想到半道杀死一匹黑马，女嘉宾，我这条件你也看着了。", "annotations": [{"label": 3, "start_offset": 21, "end_offset": 25, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 632, "text": "赵海燕：不是不是。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 633, "text": "程野：这一块咱没毛病。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 634, "text": "赵海燕：我知道。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 635, "text": "程野：那个你有啥要求你就说。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 636, "text": "赵海燕：没有。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 637, "text": "程野：我尽量满足你。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 638, "text": "赵海燕：没有没有，男嘉宾你可能误会了，你们条件太优秀了，我配不上你。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 639, "text": "程野：不是，你有啥条件你提，没事我尽量满足你。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 640, "text": "赵海燕：我真的是不行，你看我这个人吧无儿无女的。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 641, "text": "程野：那你就想找个儿女双全的呗？但是我有姑娘，没儿子你看这差点。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 15, "user": 1}, {"label": 3, "start_offset": 28, "end_offset": 31, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 642, "text": "宋小宝：我给你当儿子。", "annotations": [{"label": 3, "start_offset": 5, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 643, "text": "程野：啊？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 644, "text": "宋小宝：只要俺们老哥俩不管谁，你能相中一个，我这人吧，其实没有那么小心眼儿，你只要相中他了，我都祝福你们，你就相中一个吧，要不你也孤苦伶仃一个人，不也不好处理这事嘛。", "annotations": [{"label": 3, "start_offset": 47, "end_offset": 52, "user": 1}, {"label": 3, "start_offset": 77, "end_offset": 82, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 645, "text": "赵海燕：不是，我们家我啥事都做不了主。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 646, "text": "程野：那没事呀，让未来的岳父岳母做主也可以呀。", "annotations": [{"label": 3, "start_offset": 8, "end_offset": 22, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 647, "text": "赵海燕：我们家都我老伴说了算。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 648, "text": "程野：那听他的也行，把他叫来了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 649, "text": "宋小宝：哎呀，就这样，让人老伴来，比较老伴是人主心骨。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 650, "text": "程野：你老伴，你啥？", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 651, "text": "宋小宝：谁？老伴？", "annotations": [{"label": 3, "start_offset": 6, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 652, "text": "赵海燕：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 653, "text": "程野：你，离婚没离透啊？", "annotations": [{"label": 3, "start_offset": 5, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 654, "text": "赵海燕：没离呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 655, "text": "程野：没离你上这扯啥蛋来呀？我的妈，城里人真敢玩，这大岁数你耍猴呢？你给我个完美解释，要不然我跟你说我今儿，我今儿，你谁也过不去，我告你。", "annotations": [{"label": 3, "start_offset": 8, "end_offset": 13, "user": 1}, {"label": 3, "start_offset": 30, "end_offset": 33, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 656, "text": "宋小宝：行了，你让人把话说完。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 6, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 657, "text": "闫光明：还是我替她说吧，我是她老伴，前一段时间查出点病，可能活不了多长时间了，我倒是不怕死，我就怕我走以后啊没人照顾她。年轻时候怕伤了她的手不让她做饭、不让她洗衣服家务活我全包了，我要用我的爱照顾她一生，没想到，我可能要走到她头前了，老赵这个人呢非常善良也非常贤惠，我得病以后啊没少为我的病操劳，包括这次来相亲，死活不来，是我不吃药，停止治疗逼她来的。两位老哥，我看着你们呢我放心了，都是好人非常踏实。老伴呀，人都不错，选一个吧，啊。", "annotations": [{"label": 3, "start_offset": 7, "end_offset": 11, "user": 1}, {"label": 3, "start_offset": 96, "end_offset": 101, "user": 1}, {"label": 3, "start_offset": 171, "end_offset": 175, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 658, "text": "宋小宝：你就别选，这是干啥呀？那还选啥呀？你说咱俩多不要脸，搁那叭叭的，你说那境界跟人比不了啊，成啥事了？", "annotations": [{"label": 3, "start_offset": 9, "end_offset": 14, "user": 1}, {"label": 3, "start_offset": 16, "end_offset": 20, "user": 1}, {"label": 3, "start_offset": 41, "end_offset": 47, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 659, "text": "程野：妈呀，大哥，我呀，你这扯不扯你说？我要有你这境界，我早就搞到对象了。", "annotations": [{"label": 3, "start_offset": 29, "end_offset": 36, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 660, "text": "宋小宝：行了，这辈子我再也不想参与这么虐心的事了，行了，我也看明白了，要不就这样的吧，我也想好了。", "annotations": [{"label": 3, "start_offset": 13, "end_offset": 24, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 661, "text": "程野：啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 662, "text": "宋小宝：实在不行啊，那咱四个一起过吧。", "annotations": [{"label": 3, "start_offset": 14, "end_offset": 18, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 663, "text": "程野：上一边去。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 664, "text": "宋小宝：不是，咱四个一起过年，这马上来到年根了，你老两口来都来了，我们这呀，有医养一体化的敬老院，不光我们这两个老头，还有一堆老头老太太呢每天都欢欢乐乐的。", "annotations": [{"label": 3, "start_offset": 69, "end_offset": 77, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 665, "text": "赵海燕：大哥呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 666, "text": "宋小宝：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 667, "text": "赵海燕：你说那个是不是抱团养老？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 668, "text": "宋小宝：对，那一天可好了，我告你，大哥就你这体格呀，你都容易把俺俩先靠没了。", "annotations": [{"label": 3, "start_offset": 30, "end_offset": 37, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 669, "text": "程野：大哥呀，我觉得遇见啥事呀，要敢于面对、积极向上，无所谓的。", "annotations": [{"label": 3, "start_offset": 27, "end_offset": 31, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 670, "text": "王龙：真是太好了，我现在终于看明白了，怪不得前九期赵阿姨都没牵手，原来是这么回事。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 671, "text": "宋小宝：你看，我说有啥毛病嘛。", "annotations": [{"label": 3, "start_offset": 9, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 672, "text": "王龙：啊，赵阿姨虽然说没跟两位大爷牵手成功，但是她跟她老伴跟咱们三合堡村牵手成功了，我觉得这一期节目是最完美、最成功的，你们说对不对？", "annotations": [{"label": 3, "start_offset": 63, "end_offset": 66, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 673, "text": "（观众）对。", "annotations": [{"label": 3, "start_offset": 4, "end_offset": 5, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 674, "text": "王龙：这样，咱们每人一句话作为总结，赵阿姨您先来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 675, "text": "赵海燕：行，感谢两位男嘉宾、感谢三合堡村的父老乡亲们，能让我们有机会集体养老，新的一年马上就到了，老伴呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 676, "text": "闫光明：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 677, "text": "赵海燕：我就祝福你，咱俩呢齐心协力、共抗病魔。", "annotations": [{"label": 3, "start_offset": 18, "end_offset": 22, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 678, "text": "闫光明：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 679, "text": "赵海燕：集体养老、幸福快乐。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 680, "text": "闫光明：好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 681, "text": "程野：那我也说两句呗？我觉得一个人好，不算好，大家好才是真的好，这新年了呢就祝大家招财进宝。", "annotations": [{"label": 3, "start_offset": 41, "end_offset": 45, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 682, "text": "赵海燕、王龙：好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 683, "text": "程野：最后再祝我个人吧，在新的一年啥事都比老宋好。", "annotations": [{"label": 3, "start_offset": 19, "end_offset": 24, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 684, "text": "宋小宝：你比我好不好这事我管不了，今天没找着来年我还得接着找，趁现在这政策这么好，来年我抓紧要个二胎好不好？", "annotations": [{"label": 3, "start_offset": 46, "end_offset": 53, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 685, "text": "程野：老宋啊，我觉得你自己投胎都没投明白，就别整二胎，你影响下一代。", "annotations": [{"label": 3, "start_offset": 21, "end_offset": 26, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 686, "text": "宋小宝：我就说这玩呢，天也不早了，上我们家吃饺子去呗。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 687, "text": "赵海燕：啊，行啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 688, "text": "宋小宝：你会剁馅子不？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 689, "text": "闫光明：我会。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 690, "text": "宋小宝：擀皮呢？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 691, "text": "闫光明：我也会。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 692, "text": "宋小宝：你和面呗？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 693, "text": "王龙：会。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 694, "text": "宋小宝：那你包饺子。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 695, "text": "程野：那你干啥呀？", "annotations": [{"label": 3, "start_offset": 3, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 696, "text": "宋小宝：我吃呀，走走，家里走，走走走。", "annotations": [{"label": 3, "start_offset": 5, "end_offset": 7, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 697, "text": "王龙：走吧，走吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 698, "text": "赵海燕：走嘞，走嘞。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 699, "text": "王龙：走走走。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 700, "text": "宋小宝：还有亲友团呢，亲友团都跟着。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 701, "text": "王龙：走走走，都跟着。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 702, "text": "宋小宝：前面是二大爷不？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 703, "text": "王龙：吃饺子去，整点酸菜馅的啊。", "annotations": [], "meta": {}, "annotation_approver": null}

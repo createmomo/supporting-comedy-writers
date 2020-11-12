@@ -1,0 +1,95 @@
+{"id": 3364, "text": "（众人抢着上车坐座）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3365, "text": "曹贺军：（无座）让你快点你不快点。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3366, "text": "乘客A：你赖我干什么？我在车头我也没跑过呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3367, "text": "曹贺军：这一个多小时，咱俩站着不累死啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3368, "text": "乘客A：那你想办法，你是大哥。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3369, "text": "曹贺军：老办法。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3370, "text": "乘客A：明白。（跳到曹贺军怀里，装小孩）爸爸，爸爸，你累不累呀？累不累呀？", "annotations": [{"label": 11, "start_offset": 16, "end_offset": 19, "user": 1}, {"label": 11, "start_offset": 8, "end_offset": 15, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3371, "text": "曹贺军：爸爸，不累。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3372, "text": "崔志佳：不累呀，不累就站着吧。", "annotations": [{"label": 11, "start_offset": 10, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3373, "text": "曹贺军：这孩子大了，有点累，哪个好心人给我们让个座呗。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3374, "text": "崔志佳：（使眼色）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3375, "text": "乘客B：（站起）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3376, "text": "曹贺军：你看现在我跟你说。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3377, "text": "（崔志佳、黄铭浩、乘客B三人轮流换座位）", "annotations": [{"label": 11, "start_offset": 14, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3378, "text": "曹贺军：坐这儿也行，这好心人呐，这好心人。（没座位）这孩子太大了，这都要坚持不住了，你们这些大人，能不能给抱小孩的，这个小孩让个座啊。", "annotations": [{"label": 11, "start_offset": 22, "end_offset": 25, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3379, "text": "乘客A：爸爸，爸爸。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3380, "text": "崔志佳：我们是大人？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3381, "text": "（黄铭浩、乘客B含上奶嘴）", "annotations": [{"label": 11, "start_offset": 8, "end_offset": 12, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3382, "text": "（音乐：我有一个好爸爸，好爸爸）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3383, "text": "曹贺军：你看这俩孩子比他还大呢，咱俩从后边找找看后边有座没？", "annotations": [{"label": 11, "start_offset": 10, "end_offset": 15, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3384, "text": "乘客C：（上车）呀，都满了，我得想想办法，（装孕妇）", "annotations": [{"label": 11, "start_offset": 22, "end_offset": 25, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3385, "text": "（音乐：让我的爱伴着你直到永远，你有没有感觉到我为你担心）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3386, "text": "乘客C：这都九个多月了，快生了，这也站不住，谁给让让座。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3387, "text": "崔志佳：大哥，男的还能怀孕呢？", "annotations": [{"label": 11, "start_offset": 9, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3388, "text": "乘客C：要不说现在医学发达呢。装这么像都认出我是男的来了，凭啥呀？腿毛没刮，下回我得穿丝袜，上后面看看座去。", "annotations": [{"label": 11, "start_offset": 9, "end_offset": 14, "user": 1}, {"label": 11, "start_offset": 33, "end_offset": 37, "user": 1}, {"label": 11, "start_offset": 41, "end_offset": 45, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3389, "text": "贾玲：（上车）这公交车上也太挤了，我得想点儿对策了（装扮老太太）大娘在医院待了四五个小时，这两个腿都发麻了，有没有小伙子给大娘让个座啊，哎呀，这大眼睛的小伙子，心地肯定善良，给大娘让个座呗，是不是小伙子？", "annotations": [{"label": 11, "start_offset": 26, "end_offset": 31, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3390, "text": "乘客A：是，大娘（睁眼打呼噜）", "annotations": [{"label": 11, "start_offset": 9, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3391, "text": "贾玲：死不瞑目就你这样，睁着眼睛睡，不亮啊，大娘帮你把灯关上（闭上乘客A眼睛）。哪个大小伙子给大娘让个地儿啊？这大胡子的小伙子，大胡子小伙子，给大娘。", "annotations": [{"label": 11, "start_offset": 7, "end_offset": 11, "user": 1}, {"label": 11, "start_offset": 31, "end_offset": 38, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3392, "text": "崔志佳：（睁眼打呼噜）", "annotations": [{"label": 11, "start_offset": 5, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3393, "text": "贾玲：别别别，别睡了，这大胖脸，别睡啊，给大娘让个座呗。", "annotations": [{"label": 11, "start_offset": 7, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3394, "text": "崔志佳、黄铭浩：（站起）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3395, "text": "贾玲：你说现在这小伙子，一让还让俩。", "annotations": [{"label": 11, "start_offset": 4, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3396, "text": "（崔志佳、黄铭浩换座位）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3397, "text": "贾玲：品德就是，一个不如一个。小伙子，小伙子。", "annotations": [{"label": 11, "start_offset": 8, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3398, "text": "崔志佳：（看别处）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3399, "text": "贾玲：不理我啊（拽崔志佳腿毛）", "annotations": [{"label": 11, "start_offset": 8, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3400, "text": "崔志佳：大娘，你干啥呢？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3401, "text": "贾玲：揪你毛。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3402, "text": "崔志佳：大娘怎么了？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3403, "text": "贾玲：叫你呢，哎呀，大娘坐会儿。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3404, "text": "崔志佳：大娘你想坐下是吧？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3405, "text": "贾玲：对对，想坐。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3406, "text": "崔志佳：那大娘我扶您坐下来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3407, "text": "贾玲：你说这小伙子这品德。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3408, "text": "崔志佳：（扶贾玲坐地上）", "annotations": [{"label": 11, "start_offset": 8, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3409, "text": "贾玲：不是你干啥？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3410, "text": "崔志佳：好嘞，坐稳了大娘。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3411, "text": "贾玲：我这么坐着我还用你，我要在这儿我还能躺下呢。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3412, "text": "崔志佳：大娘，我扶您躺下。", "annotations": [{"label": 11, "start_offset": 8, "end_offset": 12, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3413, "text": "贾玲：不用了，大娘躺着凉啊，小伙子，小伙子，（揪崔志佳腿毛）", "annotations": [{"label": 11, "start_offset": 23, "end_offset": 29, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3414, "text": "崔志佳：大娘，干啥？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3415, "text": "贾玲：小伙子，大娘坐这地上，它凉啊，拔屁股。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3416, "text": "崔志佳：地上凉是吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3417, "text": "贾玲：凉啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3418, "text": "崔志佳：大娘我告诉你，你用两只手忙在屁股底下，就不凉了。", "annotations": [{"label": 11, "start_offset": 16, "end_offset": 22, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3419, "text": "贾玲：那还用你说啊，那大娘还是站起来吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3420, "text": "崔志佳：大娘，我扶您，大娘，还是站着舒服吧。", "annotations": [{"label": 11, "start_offset": 16, "end_offset": 21, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3421, "text": "贾玲：比坐底下舒服点儿。小伙子，今天大夫跟我说了，说大娘这个腿脚不利索，病了呀。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3422, "text": "崔志佳：为啥呀？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3423, "text": "贾玲：说缺乏锻炼。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3424, "text": "崔志佳：那你就站着呗。", "annotations": [{"label": 11, "start_offset": 6, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3425, "text": "贾玲：不是，你回家锻炼，在公交车上得坐着，就坐座位上，得坐着！", "annotations": [{"label": 11, "start_offset": 27, "end_offset": 30, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3426, "text": "崔志佳：大娘，我明白了，你想坐在这儿是吗？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3427, "text": "贾玲：终于明白了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3428, "text": "崔志佳：我才反应过来，你咋不早说呢，我以为还扶你坐地上，你不早说我不明白。", "annotations": [{"label": 11, "start_offset": 29, "end_offset": 36, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3429, "text": "贾玲：怪大娘了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3430, "text": "黄铭浩：大娘你得说出来，你不说出来，我俩脑子笨反应不过来。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3431, "text": "（崔志佳、黄铭浩装睡）", "annotations": [{"label": 11, "start_offset": 8, "end_offset": 10, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3432, "text": "贾玲：小伙子，小伙子，那我薅你呗。", "annotations": [{"label": 11, "start_offset": 13, "end_offset": 16, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3433, "text": "崔志佳：（把裤子放下来）", "annotations": [{"label": 11, "start_offset": 5, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3434, "text": "贾玲：你说我薅谁呀？我这一下。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3435, "text": "崔志佳：（把黄铭浩裤子卷上来）", "annotations": [{"label": 11, "start_offset": 9, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3436, "text": "贾玲：坐中间也行啊，咱就坐中间。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3437, "text": "黄铭浩：（把裤子放下来，把乘客A的裤子卷上来）", "annotations": [{"label": 11, "start_offset": 13, "end_offset": 22, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3438, "text": "贾玲：旁边更好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3439, "text": "（黄铭浩、乘客A互相争执）", "annotations": [{"label": 11, "start_offset": 8, "end_offset": 12, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3440, "text": "贾玲：这俩人掰腕子呢，你就别挣扎了，就薅你了。", "annotations": [{"label": 11, "start_offset": 6, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3441, "text": "乘客A：（跪在地上）", "annotations": [{"label": 11, "start_offset": 5, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3442, "text": "贾玲：不是小伙子，你这么坐着能得劲吗？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3443, "text": "乘客A：有座就行。", "annotations": [{"label": 11, "start_offset": 4, "end_offset": 8, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3444, "text": "贾玲：你说你这啊，这三个人就没一个给大娘让个座的。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3445, "text": "（急刹车）", "annotations": [{"label": 11, "start_offset": 1, "end_offset": 4, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3446, "text": "（贾玲坐下，崔志佳站着）", "annotations": [{"label": 11, "start_offset": 3, "end_offset": 5, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3447, "text": "贾玲：这幸福来得也太快了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3448, "text": "（急刹车，调换座位，黄铭浩站着）", "annotations": [{"label": 11, "start_offset": 5, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3449, "text": "贾玲：怎么开的车呀你这是，坐中间也行。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3450, "text": "（急刹车，调换座位，乘客A站着）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3451, "text": "贾玲：别再刹车了啊，再刹车我也不走啊，我不管啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3452, "text": "（急刹车，贾玲站着）。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3453, "text": "贾玲：这边，来吧，来吧，不可能啊，来，刹，刹，你怎么开得这么稳了呢？一下刹车都没啦。", "annotations": [{"label": 11, "start_offset": 21, "end_offset": 22, "user": 1}, {"label": 11, "start_offset": 19, "end_offset": 20, "user": 1}, {"label": 11, "start_offset": 26, "end_offset": 33, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3454, "text": "（急刹车）", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3455, "text": "贾玲：来了来了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3456, "text": "报站员：终点站到了，请各位乘客有序下车。", "annotations": [{"label": 11, "start_offset": 13, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3457, "text": "崔志佳：大娘。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3458, "text": "崔志佳、黄铭浩、乘客A：您坐。", "annotations": [{"label": 11, "start_offset": 12, "end_offset": 14, "user": 1}], "meta": {}, "annotation_approver": null}

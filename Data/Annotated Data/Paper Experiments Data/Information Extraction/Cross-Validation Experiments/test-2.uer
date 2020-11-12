@@ -1,0 +1,1075 @@
+text_a	label
+旁 白 ： 在 一 个 城 市 边 缘 的 角 落 里 ， 一 群 性 格 怪 异 的 人 们 在 这 里 集 结 ， 城 市 的 每 一 处 都 弥 漫 着 不 安 的 气 息 ， 这 里 就 是 暴 走 街 区 ， 小 丑 女 来 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 在 外 面 漂 了 这 么 久 ， 好 想 大 家 呀 ， 你 们 想 不 想 我 ？	O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+观 众 ： 想 。	O O O B-Happy O
+卜 钰 ： 大 姐 ， 我 们 也 很 想 你 啊 。	O O O O O O O O O O O O O O
+张 小 斐 ： 好 久 不 见 了 ， 布 鲁 斯 。	O O O O O O O O O O O O O O
+卜 钰 ： 我 是 布 鲁 斯 。	O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 杰 克 。	O O O O O O O
+何 欢 ： 我 是 杰 克 。	O O O B-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 你 不 是 布 鲁 斯 ， 你 不 是 杰 克 ， 那 你 是 ？	O O O O O O O O O O O O O O O O O O O O O
+朱 天 福 ： 张 大 伟 。	O O O O B-Happy I-Happy I-Happy O
+张 小 斐 ： 那 你 是 干 啥 的 ？	O O O O O O O O O O O
+朱 天 福 ： 我 路 过 的 。	O O O O O O O O O
+张 小 斐 ： 你 路 过 的 ， 你 在 这 待 这 么 长 时 间 ？ 你 想 干 啥 呀 ？	O O O O O O O O O O O O O O O O O O O O O O O O O
+朱 天 福 ： 我 想 问 一 下 ， 附 近 哪 儿 有 剪 头 的 地 方 ？	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 你 这 头 发 我 看 还 （ 假 发 帽 子 ） ， 前 面 第 一 个 路 口 右 转 。	O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O
+朱 天 福 ： 好 ， 谢 谢 啊 ！	O O O O O O O O O O
+何 欢 ： 赶 紧 走 ， 赶 紧 走 。 欢 迎 大 姐 今 天 回 来 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 我 离 开 的 这 段 时 间 ， 咱 们 暴 力 街 区 发 展 得 怎 么 样 了 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 大 姐 ， 我 有 件 事 一 直 没 和 你 说 ， 我 想 改 变 一 下 现 在 的 生 活 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 什 么 意 思 啊 ？	O O O O O O O O O O
+卜 钰 ： 我 不 想 做 坏 人 了 ， 我 想 做 一 个 好 人 ， 因 为 前 几 天 ， 我 做 了 一 件 好 事 ， 就 在 这 条 街 上 ， 我 看 见 一 个 老 大 爷 ， 蹬 着 三 轮 车 在 走 上 坡 路 ， 特 别 的 吃 力 ， 我 什 么 都 没 想 ， 过 去 帮 了 他 一 把 ， 大 姐 ， 这 是 我 第 一 次 做 好 事 ， 我 特 别 的 开 心 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 你 可 拉 倒 吧 ！ 那 天 我 看 见 了 ， 大 爷 蹬 车 的 时 候 ， 走 的 是 上 坡 路 ， 你 推 车 的 时 候 ， 走 的 是 下 坡 路 ， 那 三 轮 车 ， 呜 呜 往 下 滚 ， 大 爷 都 卡 懵 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+卜 钰 ： 大 姐 ， 但 是 我 觉 得 我 的 初 衷 是 好 的 ， 大 姐 ， 你 有 没 有 想 过 ？ 什 么 事 都 有 两 面 性 ， 你 对 别 人 坏 ， 别 人 也 会 对 你 坏 ， 咱 们 要 不 要 试 着 做 一 回 好 人 呢 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 可 是 做 好 人 谁 怕 我 们 呀 ？	O O O O O O O O O O O O O O O
+卜 钰 ： 大 姐 我 骗 不 了 你 的 ， 我 们 三 个 呀 从 小 在 孤 儿 院 长 大 ， 情 同 手 足 ， 我 不 可 能 骗 你 的 ， 你 就 信 我 的 吧 ， 做 回 好 人 ， 咱 们 试 一 试 好 不 好 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 可 是 大 姐 这 脾 气 实 在 是 太 爆 了 。	O O O O O O O O O O O O O O O O O O
+何 欢 ： 你 看 大 姐 ， 你 总 说 你 自 己 脾 气 爆 ， 你 能 不 能 尝 试 着 对 待 人 ， 以 诚 相 待 ， 脾 气 压 一 压 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 对 。	O O O O O
+张 小 斐 ： 能 行 吗 ？	O O O O O O O O
+何 欢 ： 你 看 ， 哎 大 姐 ， 那 边 来 一 个 小 姑 娘 ， 以 诚 相 待 ， 好 好 说 话 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 我 试 试 ， 小 丫 头 ， 哎 呀 长 得 真 可 爱 ， 跟 个 小 天 使 一 样 ， 告 诉 姐 姐 ， 你 为 什 么 头 上 插 了 朵 花 啊 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+小 姑 娘 ： 因 为 天 使 爱 美 丽 。	O O O O O O O O O O O O
+张 小 斐 ： 哎 哟 好 可 爱 呀 ， 那 你 说 我 呢 ？ 你 说 姐 姐 为 什 么 头 上 扎 两 个 辫 子 呀 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+小 姑 娘 ： 因 为 丑 人 多 作 怪 。	O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 你 这 小 孩 。	O O O O O O O O O
+卜 钰 ： 大 姐 大 姐 ， 一 个 小 孩 。	O O O O O O O O O O O O O
+张 小 斐 ： 挺 尴 尬 呀 ， 宝 宝 呀 ， 那 你 可 不 可 以 把 这 朵 花 送 给 姐 姐 呢 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+小 姑 娘 ： 姐 姐 ， 把 花 送 给 你 。	O O O O O O O O O O O O O
+张 小 斐 ： 哎 呀 谢 谢 你 。	O O O O O O O O O O
+小 姑 娘 ： 送 给 你 一 块 口 香 糖 。	O O O O O O O O O O O O O
+张 小 斐 ： 谢 谢 ， 我 一 会 儿 吃 ， 可 以 吗 ？	O O O O O O O O O O O O O O O O O
+小 姑 娘 ： 姐 姐 ， 你 现 在 吃 吧 。	O O O O O O O O O O O O O
+张 小 斐 ： 为 什 么 呀 ？	O O O O O O O O O
+小 姑 娘 ： 因 为 你 的 口 太 臭 了 。	O O O O O O O O O B-Happy I-Happy I-Happy O
+张 小 斐 ： 你 这 小 孩 （ 要 发 飙 ） 。	O O O O O O O O O O O O O O
+卜 钰 ： 大 姐 大 姐 ， 毕 竟 是 个 小 孩 ， 完 了 ， 吓 哭 了 你 看 。	O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 你 看 ， 我 说 吧 ， 我 说 没 用 吧 ？	O O O O O O O O O O O O O O O O O
+卜 钰 ： 哎 呀 这 就 是 个 意 外 大 姐 。	O O O O O O O O O O O O O O
+张 小 斐 ： 怎 么 是 个 意 外 呢 ？ 你 们 俩 行 不 行 啊 ？ 你 们 俩 还 记 不 记 得 我 当 初 因 为 什 么 吸 收 你 们 进 我 的 团 队 的 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 大 姐 我 记 得 ， 我 记 得 当 初 我 媳 妇 外 边 有 一 个 男 的 ， 我 装 作 不 知 道 ， 跟 她 一 起 相 处 了 七 年 ， 终 于 在 他 们 私 生 子 六 岁 的 生 日 晚 宴 上 ， 被 我 一 下 给 抓 着 了 ， 大 姐 ， 你 欣 赏 我 的 应 该 是 我 这 种 侦 查 能 力 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 错 ， 我 欣 赏 你 的 是 你 这 种 忍 耐 力 ， 你 媳 妇 给 你 戴 绿 帽 子 戴 了 七 年 ， 你 还 能 和 颜 悦 色 的 装 作 什 么 都 不 知 道 ， 你 太 棒 了 ， 绿 巨 人 。	O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+卜 钰 ： 谢 谢 大 姐 。	O O O O O O O O
+张 小 斐 ： 你 呢 ， 你 是 因 为 什 么 原 因 ？	O O O O O O O O O O O O O O O O
+何 欢 ： 大 姐 ， 你 欣 赏 我 的 原 因 一 定 是 因 为 我 跟 他 媳 妇 好 了 七 年 才 被 他 发 现 的 这 种 发 侦 查 能 力 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 错 了 ， 我 欣 赏 你 ， 是 因 为 你 在 这 种 情 况 之 下 ， 还 能 跟 他 保 持 朋 友 关 系 的 这 种 胸 襟 ， 我 就 特 别 好 奇 呀 ， 你 说 你 们 两 个 私 下 都 怎 么 称 呼 对 方 的 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+何 欢 ： 他 在 我 前 面 ， 我 叫 他 一 声 前 辈 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+卜 钰 ： 我 媳 妇 别 我 打 ， 我 叫 他 一 声 姐 夫 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+何 欢 ： 前 辈 。	O O O O O O
+卜 钰 ： 姐 夫 。	O O O O O O
+何 欢 ： 前 辈 。	O O O O O O
+卜 钰 ： 姐 夫 （ 两 个 拥 抱 ） 。	O O O O O O B-Happy I-Happy I-Happy I-Happy O O
+张 小 斐 ： 行 了 行 了 ， 不 知 道 磕 碜 ， 你 们 俩 怎 么 回 事 啊 ？ 你 们 记 不 记 得 我 们 当 初 的 约 定 ？ 我 们 不 是 说 好 了 吗 ？ 我 们 在 暴 力 街 区 就 得 以 暴 制 暴 ， 这 样 才 能 崭 露 头 角 ， 你 们 怎 么 说 变 就 变 呢 ？ 再 一 个 你 说 就 咱 们 三 个 人 这 种 形 象 ， 说 我 们 是 好 人 ， 谁 信 呢 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 集 斌 ： 领 导 ， 咱 们 往 这 边 看 啊 ， 咱 们 孤 儿 院 现 在 发 展 的 非 常 好 ， 可 以 说 培 养 的 ， 都 是 社 会 上 一 些 好 人 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 院 长 好 。	O O O O O O O O
+孙 集 斌 ： 偶 尔 也 有 一 些 社 会 人 ， 咱 们 往 这 边 看 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O
+张 小 斐 ： 院 长 什 么 意 思 啊 他 ？	O O O O O O O O O O O O O
+卜 钰 ： 大 姐 ， 你 看 见 没 有 ， 院 长 都 知 道 回 头 了 ， 你 差 不 多 得 了 行 不 行 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 我 怎 么 差 不 多 得 了 ？	O O O O O O O O O O O O O
+卜 钰 ： 大 姐 我 不 跟 你 说 了 吗 ？ 人 ， 这 个 事 有 两 面 性 ， 你 对 别 人 坏 一 点 ， 别 人 也 会 对 你 坏 ， 咱 们 试 着 做 个 好 人 吧 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 不 是 ， 这 主 要 是 我 们 在 这 个 暴 力 街 区 当 好 人 ， 没 人 怕 我 们 呀 ， 我 们 不 是 也 为 了 保 护 孤 儿 院 的 孩 子 不 受 欺 负 吗 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 保 护 孩 子 不 一 定 非 得 当 坏 人 呐 ？ 做 好 人 。	O O O O O O O O O O O O O O O O O O O O O
+何 欢 ： 大 姐 ， 我 们 就 不 是 做 坏 人 的 料 。	O O O O O O O O O O O O O O O O O
+张 小 斐 ： 你 们 放 心 吧 ， 天 赋 不 足 ， 可 以 后 天 培 养 ， 我 已 经 找 了 我 们 这 个 街 区 最 坏 的 坏 人 来 给 我 们 指 导 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+何 欢 ： 最 坏 的 坏 人 ？	O O O O O O O O O
+张 小 斐 ： 没 错 ， 他 就 是 我 们 这 个 街 区 ， 让 人 闻 风 丧 胆 、 心 狠 手 辣 的 大 哥 ， 朱 迪 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+何 欢 ： 朱 迪 。	O O O B-Happy I-Happy O
+许 君 聪 ： 好 听 。	O O O O B-Happy I-Happy O
+张 小 斐 ： 朱 迪 哥 ，	O O O O O O O O
+许 君 聪 ： 你 好 ， 小 丑 女 ， 今 天 来 的 这 个 路 上 实 在 是 太 堵 车 了 ， 幸 亏 我 没 有 车 ， 所 以 才 没 有 迟 到 。	O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 朱 迪 哥 请 坐 请 坐 。	O O O O O O O O O O O O
+许 君 聪 ： 新 招 的 小 弟 啊 ？	O O O O O O O O O O O
+张 小 斐 ： 是 的 。	O O O O O O O
+许 君 聪 ： 之 前 没 有 见 过 ， 你 们 可 能 还 不 知 道 我 是 谁 ？ 那 是 因 为 我 没 有 给 你 我 的 名 片 ， 包 拿 来 ， 我 名 片 呢 ？ 我 刚 才 出 门 的 时 候 ， 清 晰 地 记 得 把 我 的 名 片 ， 从 我 的 普 拉 达 包 里 边 ， 拿 到 了 我 的 古 驰 包 ， 可 是 怎 么 就 没 有 了 呢 ？ 你 看 这 东 西 都 在 呀 ？ 这 一 万 块 钱 零 钱 、 法 拉 利 车 钥 匙 、 房 产 证 ， 金 立 M 2 0 1 7 ， 这 怎 么 名 片 就 没 有 了 呢 ？ 忘 了 印 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 朱 迪 哥 呀 ， 你 的 大 名 就 不 用 印 名 片 了 ， 我 们 这 次 找 你 来 呢 ， 是 想 你 能 告 诉 一 下 我 们 ， 我 们 如 何 才 能 成 为 一 个 像 您 一 样 优 秀 的 坏 人 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 这 个 问 题 问 我 就 算 问 对 了 ， 想 成 为 一 个 优 秀 的 坏 人 ， 第 一 点 ， 组 建 团 队 ， 一 定 要 有 一 帮 非 常 厉 害 的 兄 弟 们 跟 着 你 一 起 干 ， 而 我 们 身 为 老 大 的 ， 一 定 要 时 刻 关 注 身 边 兄 弟 们 的 经 济 状 况 ， 凯 文 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+陈 相 杉 ： 大 哥 ， 有 什 么 需 要 ？	O O O O O O O O O O O O O
+许 君 聪 ： 啥 也 不 需 要 ， 拿 一 万 花 去 。	O O O O O O O O O O O O O O O O
+陈 相 杉 ： 谢 谢 大 哥 。	O O O O O O O O O
+许 君 聪 ： 明 白 吗 ？	O O O O O O O O
+张 小 斐 ： 也 给 你 一 万 。	O O O O O O O O O O
+卜 钰 ： 谢 谢 大 姐 。	O O O O O O O O
+张 小 斐 ： 帮 我 把 信 用 卡 欠 那 两 万 还 了 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+许 君 聪 ： 好 ， 非 常 好 啊 ， 当 坏 人 一 定 要 自 私 。	O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 那 个 大 哥 ， 接 下 来 呢 ？	O O O O O O O O O O O O O O
+许 君 聪 ： 第 二 点 ， 实 力 ， 早 社 会 上 打 拼 ， 什 么 最 重 要 啊 ？ 这 个 ， 耶 ， 你 打 架 的 水 平 怎 么 样 啊 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 大 哥 ， 不 瞒 你 说 ， 你 别 看 我 瘦 弱 ， 而 且 还 是 个 女 的 ， 但 一 旦 打 起 架 来 ， 我 啥 也 不 是 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+许 君 聪 ： 啥 也 不 是 你 跟 我 说 什 么 呀 ？	O O O O O O O O O O O O O O O O
+张 小 斐 ： 但 是 大 哥 ， 我 有 一 种 天 生 别 人 没 有 的 那 种 触 觉 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 什 么 意 思 ？	O O O O O O O O O
+张 小 斐 ： 就 好 比 说 ， 假 设 我 能 把 眼 睛 蒙 上 也 能 感 觉 得 到 对 方 如 何 击 打 我 ， 从 而 作 出 反 击 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 这 个 厉 害 ， 展 现 一 下 让 我 看 看 。	O O O O O O O O O O O O O O O O O O
+郭 宇 鹏 ： 大 哥 ， 听 起 来 有 点 意 思 啊 。	O O O O O O O O O O O O O O O O
+许 君 聪 ： 从 来 没 见 过 。	O O O O O O O O O O
+何 欢 ： 大 姐 给 他 们 露 两 手 ， 等 着 吧 。	O O O O O O O O O O O O O O O O
+许 君 聪 ： 你 以 前 听 过 吗 ？	O O O O O O O O O O O
+陈 相 杉 ： 从 来 没 听 过 。	O O O O O O O O O O
+张 小 斐 ： 好 了 ， 来 吧 （ 蒙 眼 ） 。	O O O O O O O O O O O O O O
+许 君 聪 ： 凯 文 ， 上 （ 被 小 斐 打 倒 ） 。	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O
+卜 钰 ： 太 厉 害 了 ， 大 姐 。	O O O O O O O O O O O
+张 小 斐 ： 承 让 。	O O O O B-Happy I-Happy O
+许 君 聪 ： 好 ， 年 纪 轻 轻 ， 就 知 道 投 机 取 巧 ， 有 潜 质 。	O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 谢 谢 大 哥 夸 奖 。	O O O O O O O O O O O
+许 君 聪 ： 那 我 现 在 就 给 你 一 个 机 会 ， 我 马 上 就 要 筹 建 一 个 邪 恶 联 盟 ， 集 结 各 个 区 的 恶 势 力 ， 然 后 我 们 一 起 来 做 大 ， 有 没 有 兴 趣 加 入 我 们 呢 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 太 好 了 大 哥 。	O O O O O O O O O O
+卜 钰 ： 干 什 么 呀 ？	O O O O O O O O
+张 小 斐 ： 不 是 ， 他 们 虽 然 很 坏 ， 但 是 他 们 很 强 啊 。	O O O O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 我 不 是 跟 你 说 过 了 吗 ？ 任 何 事 都 有 两 面 性 ， 你 对 别 人 坏 ， 别 人 也 会 对 你 坏 ， 咱 们 做 好 人 吧 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 这 个 时 候 说 这 个 干 嘛 呀 ？ 朱 迪 哥 。	O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 小 丑 女 ， 坏 人 就 要 有 坏 人 的 规 矩 ， 首 先 我 要 让 你 加 入 我 们 ， 壮 大 队 伍 ， 统 一 管 理 ， 然 后 我 们 按 照 区 域 来 挣 钱 ， 我 打 算 把 整 个 城 市 打 造 成 一 片 连 锁 的 娱 乐 城 ， D 区 和 E 区 已 经 在 建 设 当 中 了 ， 你 们 W 区 ， 我 就 打 算 建 在 这 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 太 好 了 大 哥 。	O O O O O O O O O O
+许 君 聪 ： 所 以 说 ， 那 栋 楼 ， 我 们 要 先 给 它 拆 了 。	O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 没 问 题 。 那 栋 楼 我 熟 。	O O O O O O O O O O O O O O
+许 君 聪 ： 还 有 这 栋 。	O O O O O O O O O
+张 小 斐 ： 我 去 做 工 作 。	O O O O O O O O O O
+许 君 聪 ： 还 有 这 栋 。	O O O O O O O O O
+张 小 斐 ： 大 哥 ， 这 栋 不 能 拆 。	O O O O O O O O O O O O O
+许 君 聪 ： 为 什 么 ？	O O O O O O O O
+张 小 斐 ： 这 栋 是 孤 儿 院 ， 大 哥 ， 咱 拆 那 栋 好 不 好 ？	O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 那 栋 是 我 家 ， 就 拆 它 了 ， 它 这 个 地 理 位 置 最 好 。	O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O
+张 小 斐 ： 大 哥 ， 这 栋 真 不 能 拆 。	O O O O O O O O O O O O O O
+许 君 聪 ： 小 丑 女 ， 既 然 加 入 了 邪 恶 联 盟 ， 一 切 都 要 听 从 组 织 的 规 划 ， O K .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 不 是 ， 大 哥 ， 我 从 小 在 孤 儿 院 里 长 大 的 ， 而 且 里 面 还 有 好 多 我 的 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+郭 宇 鹏 ： 还 敢 跟 我 大 哥 谈 条 件 ， 你 不 想 活 了 ？	O O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 你 怎 么 跟 我 大 姐 说 话 呢 ？	O O O O O O O O O O O O O O
+郭 宇 鹏 ： 再 废 话 我 废 了 你 信 不 信 ？	O O O O O O O O O O O O O O O
+卜 钰 ： 来 啊 。	O O O O O O
+郭 宇 鹏 ： 别 动 。	O O O O O O O
+何 欢 ： 别 动 。	O O O O O O
+陈 相 杉 ： 别 动 。	O O O O O O O
+卜 钰 ： 你 也 别 动 了 。	O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 集 斌 ： 领 导 ， 咱 们 孤 儿 院 这 片 呢 治 安 可 以 说 是 非 常 的 好 ， 从 来 没 有 一 些 打 架 斗 殴 的 事 情 发 生 ， 咱 们 看 这 边 ， 咱 们 先 看 这 边 好 不 好 ？	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+许 君 聪 ： 都 放 下 吧 。	O O O O O O O O O
+何 欢 ： 大 姐 ， 孤 儿 院 不 能 拆 呀 ， 拆 了 孩 子 们 去 哪 儿 ？	O O O O O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 是 呀 。	O O O O O O
+张 小 斐 ： 是 啊 是 啊 ， 稍 等 啊 ， 朱 迪 哥 ， 朱 迪 哥 ， 这 可 能 是 个 误 会 ， 要 不 然 这 样 好 不 好 ， 你 先 回 去 ， 然 后 我 们 好 好 考 虑 考 虑 ， 行 吗 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 小 丑 女 ， 这 个 计 划 我 们 邪 恶 联 盟 已 经 策 划 了 很 久 了 ， 你 真 以 为 我 今 天 来 到 你 们 W 区 域 是 帮 你 管 理 团 队 的 吗 ？ 今 天 我 来 就 是 奔 着 这 块 地 儿 来 到 ， 所 以 说 今 天 你 同 意 也 得 同 意 ， 不 同 意 也 得 同 意 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+何 欢 ： 不 同 意 。	O O O O O O O
+郭 宇 鹏 ： 你 算 干 什 么 的 ？ 这 没 你 说 话 的 份 。	O O O O O O O O O O O O O O O O O O O
+卜 钰 ： 你 们 算 干 什 么 的 （ 四 人 对 峙 ） ？	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O
+孙 集 斌 ： 住 手 ， 你 们 几 个 干 什 么 呢 ？ 撒 开 ， 小 丑 女 ， 你 怎 么 回 事 ？ 刚 才 领 导 跟 这 视 察 ， 我 不 惜 说 你 ， 领 导 在 这 你 就 给 我 上 脸 啊 ？ 你 干 啥 呀 ？ 我 多 次 给 你 示 意 让 你 走 ， 就 是 不 走 ， 怎 么 的 ？ 我 拦 不 住 你 了 呗 ？	O O O O O O O O O O O O O O O O B-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 院 长 ， 我 是 早 产 儿 。	O O O O O O O O O O O O O
+孙 集 斌 ： 啥 意 思 ？	O O O O O O O O
+张 小 斐 ： 我 妈 都 没 拦 住 我 ， 你 能 拦 住 吗 ？	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O
+孙 集 斌 ： 你 别 再 跟 我 说 没 用 的 ， 我 告 诉 你 小 丑 女 ， 刚 才 领 导 来 ， 我 跟 领 导 说 我 们 治 安 非 常 地 好 ， 你 们 在 打 架 ， 我 说 我 们 人 非 常 好 ， 你 们 穿 成 这 样 ， 你 们 想 干 啥 ？ 最 过 分 的 是 有 一 帮 这 样 的 人 ， 拿 着 棒 子 ， 在 孤 儿 院 门 口 干 什 么 呀 ？ 要 拆 孤 儿 院 呢 ？ 是 不 是 你 找 的 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 不 是 我 找 的 。	O O O O O O O O O O
+孙 集 斌 ： 那 是 谁 找 的 ？	O O O O O O O O O O
+许 君 聪 ： 我 找 的 。	O O O O O O O O
+孙 集 斌 ： 谁 ？	O O O O O O
+许 君 聪 ： 我 。	O O O O O O
+孙 集 斌 ： 你 找 的 ， 你 找 的 ， 你 找 的 。	O O O O O O O O B-Happy I-Happy I-Happy O B-Happy I-Happy I-Happy O
+陈 相 杉 ： 不 是 我 ， 是 我 大 哥 。	O O O O O O O O O O O O O
+孙 集 斌 ： 你 找 的 。	O O O O O O O O
+许 君 聪 ： 是 啊 ， 怎 么 了 ？	O O O O O O O O O O O
+孙 集 斌 ： 什 么 怎 么 了 ？ 你 也 不 嫌 磕 碜 ， 你 挺 高 大 个 子 ， 跟 长 豆 角 似 的 你 ， 你 干 啥 啊 你 ？ 得 瑟 啥 你 跟 这 得 瑟 。	O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O
+许 君 聪 ： 别 怼 我 。	O O O O O O O O
+孙 集 斌 ： 怼 你 两 下 ， 没 事 啊 ， 我 处 理 ， 没 事 ， 怼 你 了 ， 我 跟 你 说 话 呢 ， 看 着 我 笑 啥 ， 傻 呀 你 呀 ？	O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+许 君 聪 ： 我 再 说 一 遍 ， 别 怼 我 。	O O O O O O O O O O O O O O
+孙 集 斌 ： 啪 ， 跟 我 来 这 套 ， 我 怕 他 这 个 ， 我 告 诉 你 。	O O O O B-Happy O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 再 怼 我 一 下 。	O O O O O O O O O O
+孙 集 斌 ： 不 是 一 伙 的 是 不 ？	O O O O O O O O O O O O
+张 小 斐 ： 啊 。	O O O O O O
+孙 集 斌 ： 没 事 啊 ， 这 事 你 别 管 了 ， 抽 根 烟 呗 ， 大 水 冲 了 龙 王 庙 ， 这 样 ， 我 给 你 取 个 火 去 。 烟 非 常 好 抽 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 绑 起 来 。	O O O O O O O O
+张 小 斐 ： 别 、 别 ， 朱 迪 哥 ， 有 话 好 好 说 ， 朱 迪 哥 。	O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 你 看 你 这 个 怂 样 ， 就 冲 你 这 个 孤 儿 院 ， 我 就 拆 定 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 朱 迪 哥 ， 误 会 ， 他 不 是 院 长 ， 他 是 副 院 长 。	O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 小 丑 女 ， 现 在 还 不 明 白 吗 ？ 无 论 你 再 怎 么 想 当 好 人 ， 干 好 事 ， 来 帮 助 孤 儿 院 ， 在 他 们 心 里 边 你 就 是 个 坏 人 ， 所 以 说 你 就 听 我 的 ， 咱 们 俩 一 起 合 作 ， 把 孤 儿 院 给 它 拆 了 ， 等 娱 乐 城 建 起 来 之 后 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 集 斌 ： 拆 孤 儿 院 ， 小 丑 女 ， 孤 儿 院 你 不 能 拆 呀 ， 你 是 在 这 长 大 的 你 忘 了 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 院 长 你 最 好 把 嘴 给 我 闭 上 。	O O O O O O O O O O O O O O O O
+孙 集 斌 ： 我 闭 什 么 嘴 ， 他 是 你 什 么 朋 友 ？ 哪 有 这 样 的 人 ？	O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 小 丑 女 ， 不 要 忘 了 自 己 的 身 份 ， 坏 人 就 要 做 坏 人 应 该 做 的 事 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 是 是 是 ， 但 是 。	O O O O O O O O O O O
+孙 集 斌 ： 小 丑 女 你 真 过 分 啊 ， 你 天 天 ， 我 以 为 你 本 来 是 一 个 好 人 ， 你 现 在 拆 孤 儿 院 ， 你 怎 么 想 的 你 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 不 可 能 拆 孤 儿 院 。	O O O O O O O O O O O O
+许 君 聪 ： 坏 人 就 要 为 了 目 的 不 择 手 段 。	O O O O O O O O O O O O O O O O O
+孙 集 斌 ： 小 丑 女 你 不 要 在 那 里 假 惺 惺 的 了 行 不 行 ？ 我 跟 你 说 你 再 这 样 你 永 远 是 个 小 丑 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+许 君 聪 ： 小 丑 女 ， 现 在 还 不 明 白 吗 ？ 啊 ？ 无 论 你 再 怎 么 努 力 ， 在 他 们 心 里 边 你 就 是 个 坏 人 ， 你 今 天 为 什 么 要 找 我 来 呀 ？ 不 就 是 为 了 让 我 教 你 怎 么 做 一 个 纯 粹 的 坏 人 吗 ？ 那 我 现 在 就 告 诉 你 一 句 话 ， 坏 人 ， 就 是 不 能 让 任 何 人 成 为 你 前 进 路 上 的 绊 脚 石 （ 掏 出 枪 ） 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 别 、 别 ， 朱 迪 哥 ， 我 求 求 你 了 ， 求 求 你 了 ， 我 错 了 ， 还 不 行 吗 ？ 真 的 ， 有 误 会 ， 朱 迪 哥 （ 开 枪 打 伤 小 斐 ） 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 集 斌 ： 小 丑 女 ， 你 就 没 为 孤 儿 院 做 过 一 件 好 事 。	O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： （ 画 面 镜 头 定 格 ） 院 长 ， 我 今 天 算 不 算 为 孤 儿 院 做 了 件 好 事 啊 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 谢 谢 ， 谢 谢 亲 爱 的 朋 友 们 的 热 情 掌 声 ， 谢 谢 。 今 天 ， 站 在 我 身 边 的 这 位 老 师 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 您 老 师 啊 。	O O O O O O O O
+岳 云 鹏 ： 一 直 在 说 相 声 。	O O O O O O O O O O O
+孙 越 ： 对 了 。	O O O O O O
+岳 云 鹏 ： 很 多 东 西 都 向 人 家 学 习 。	O O O O O O O O O O O O O O O
+孙 越 ： 您 客 气 。	O O O O O O O
+岳 云 鹏 ： 这 是 我 的 老 师 ， 那 位 是 我 的 恩 师 。	O O O O O O O O O O O O O O O O O O O
+孙 越 ： 对 对 对 。	O O O O O O O
+岳 云 鹏 ： 跟 他 学 了 很 多 东 西 。	O O O O O O O O O O O O O
+孙 越 ： 您 客 气 。	O O O O O O O
+岳 云 鹏 ： 他 从 小 就 学 相 声 。	O O O O O O O O O O O O
+孙 越 ： 我 是 打 小 学 。	O O O O O O O O O
+岳 云 鹏 ： 高 中 毕 业 ， 参 加 工 作 了 。	O O O O O O O O O O O O O O O
+孙 越 ： 对 对 对 。	O O O O O O O
+岳 云 鹏 ： 在 北 京 动 物 园 当 动 物 ， 一 般 人 ， 没 有 这 个 魄 力 ， 人 家 勇 往 直 前 ， 关 键 是 管 吃 管 住 ， 还 有 空 调 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 废 话 。 我 都 当 动 物 再 不 管 吃 管 住 ， 我 还 蹬 车 带 着 盒 饭 去 啊 。	O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 不 是 吗 ？	O O O O O O O O
+孙 越 ： 您 说 错 了 ， 那 叫 养 动 物 。	O O O O O O O O O O O O O O
+岳 云 鹏 ： 有 什 么 区 别 吗 ？	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 最 简 单 的 区 别 呀 ， 一 个 在 里 头 ， 一 个 在 外 头 。	O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 您 在 哪 呀 ？	O O O O O O O O O
+孙 越 ： 我 在 外 头 。	O O O O O O O O
+岳 云 鹏 ： 散 养 。 像 这 种 动 物 比 较 凶 猛 ， 不 要 触 碰 它 。	O O O O B-Happy I-Happy O O O O O O O O O O O O O O O O O
+孙 越 ： 我 咬 死 我 。 外 边 叫 散 养 啊 。	O O O O O O O O O O O O O O O
+岳 云 鹏 ： 那 叫 ？	O O O O O O O
+孙 越 ： 饲 养 。	O O O O O O
+岳 云 鹏 ： 养 大 象 ， 养 了 十 年 的 大 象 ， 大 象 是 越 来 越 瘦 了 ， （ 看 向 孙 越 ） 。	O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O
+孙 越 ： 我 偷 饲 料 来 着 吧 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 才 承 认 你 看 。	O O O O O O O O O O
+孙 越 ： 我 多 会 承 认 了 ， 没 有 啊 ， 别 胡 说 。	O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 反 正 后 来 从 动 物 园 出 来 ， 说 了 相 声 了 。	O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 我 辞 职 不 干 了 。	O O O O O O O O O O
+岳 云 鹏 ： 说 相 声 2 0 年 了 ， 问 您 一 个 简 单 的 问 题 。	O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 什 么 问 题 呀 ？ 我 知 道 我 就 告 诉 您 。	O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 相 声 二 字 ， 怎 么 解 释 ？	O O O O O O O O O O O O O O
+孙 越 ： 这 两 个 字 怎 么 解 释 啊 ？	O O O O O O O O O O O O O
+岳 云 鹏 ： 对 。	O O O O O O
+孙 越 ： 相 貌 之 相 ， 声 音 之 声 。	O O O O O O O O O O O O O
+岳 云 鹏 ： 那 对 吗 ？ 啊 ！ 拿 起 嘴 来 就 说 。 那 对 吗 ？ 相 声 大 师 在 那 坐 着 呢 ， 知 道 嘛 。 再 问 你 一 遍 ， 对 不 对 ？	O O O O O O O O B-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 对 吧 。	O O O O O O
+岳 云 鹏 ： 当 然 对 啊 。	O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 那 你 吓 唬 我 。	O O O O O O O O O
+岳 云 鹏 ： 相 貌 之 相 ， 声 音 之 声 。	O O O O O O O O O O O O O O
+孙 越 ： 对 呀 。	O O O O O O
+岳 云 鹏 ： 描 绘 出 一 个 场 景 ， 勾 勒 出 一 个 画 面 。	O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 没 错 。	O O O O O O
+岳 云 鹏 ： 把 您 各 位 带 进 我 们 的 故 事 来 ， 如 果 说 我 们 说 着 说 着 说 错 了 怎 么 办 呢 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 怎 么 办 呢 ？	O O O O O O O O
+岳 云 鹏 ： 不 退 票 。	O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 把 道 先 堵 上 。	O O O O O O O O O
+岳 云 鹏 ： 不 退 票 ， 我 就 怕 这 会 儿 有 人 站 起 来 ， 退 票 ， 那 不 可 能 知 道 吗 ？ 不 能 ， 不 退 票 是 我 们 的 服 务 宗 旨 。	O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 这 还 有 服 务 呢 。	O O O O O O O O O O
+岳 云 鹏 ： 当 然 了 ， 相 声 比 较 难 。	O O O O O O O O O O O O O O
+孙 越 ： 是 是 是 。	O O O O O O O
+岳 云 鹏 ： 我 自 己 个 认 为 相 声 最 难 。	O O O O O O O O O O O O O O O
+孙 越 ： 什 么 ？ 什 么 ？	O O O O O O O O O
+岳 云 鹏 ： 我 自 己 个 。	O O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 你 还 上 上 口 了 是 怎 么 着 ？	O O O O O O O O O O O O O O
+岳 云 鹏 ： 我 昌 平 人 ， 我 说 话 。	O O O O O O O O O O O O O
+孙 越 ： 你 玩 去 你 ！ 那 叫 我 自 己 个 ， 还 我 自 己 个 。	O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+岳 云 鹏 ： 行 ， 我 自 己 认 为 ， 相 声 是 最 难 的 形 式 。	O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 对 了 。	O O O O O O
+岳 云 鹏 ： 两 个 人 拿 嘴 说 。	O O O O O O O O O O O
+孙 越 ： 没 错 。	O O O O O O
+岳 云 鹏 ： 有 的 人 不 太 喜 欢 听 相 声 。	O O O O O O O O O O O O O O O
+孙 越 ： 不 喜 欢 。	O O O O O O O
+岳 云 鹏 ： 也 没 关 系 ， 我 们 看 书 ， 看 电 影 ， 很 多 人 都 喜 欢 看 电 影 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 对 对 对 。	O O O O O O O
+岳 云 鹏 ： 我 也 喜 欢 看 电 影 。	O O O O O O O O O O O O
+孙 越 ： 好 这 个 。	O O O O O O O
+岳 云 鹏 ： 喜 剧 片 子 多 好 啊 。	O O O O O O O O O O O O
+孙 越 ： 那 是 。	O O O O O O
+岳 云 鹏 ： 还 有 很 多 特 别 棒 的 片 子 。	O O O O O O O O O O O O O O O
+孙 越 ： 您 说 说 。	O O O O O O O
+岳 云 鹏 ： 前 几 年 有 一 个 好 片 叫 做 《 阿 凡 提 》 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O
+孙 越 ： 《 阿 凡 提 》 ？	O O O O O O O O O
+岳 云 鹏 ： 3 D 电 影 ， 有 的 人 说 什 么 叫 3 D 电 影 呢 ？ 给 您 解 释 一 下 ， 3 D 电 影 就 是 不 是 二 哥 拍 的 ， 叫 3 D 电 影 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 你 等 会 儿 吧 ， 什 么 电 影 ？	O O O O O O O O O O O O O O
+岳 云 鹏 ： 《 阿 凡 提 》 三 弟 电 影 ， 不 是 二 哥 拍 的 ， 三 弟 电 影 。	O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 这 不 胡 来 嘛 。	O O O O O O O O O
+岳 云 鹏 ： 谁 胡 来 了 ？	O O O O O O O O O
+孙 越 ： 《 阿 凡 提 》 ？	O O O O O O O O O
+岳 云 鹏 ： 对 呀 。	O O O O O O O
+孙 越 ： 还 拍 一 3 D 的 ， 您 琢 磨 琢 磨 ， 冲 这 骑 驴 的 拍 个 3 D 的 ， 不 得 赔 死 啊 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 哪 就 骑 驴 了 ？ 谁 骑 驴 了 ？	O O O O O O O O O O O O O O O
+孙 越 ： 您 说 那 叫 《 阿 凡 达 》 ， 骑 鸟 的 。	O O O O O O O O B-Happy I-Happy I-Happy O O O O O O
+岳 云 鹏 ： 《 阿 凡 达 》 ， 我 的 天 哪 ， 这 么 神 奇 吗 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O
+孙 越 ： 您 刚 才 说 那 3 D 什 么 ？ 不 是 二 哥 拍 的 。	O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 对 呀 。	O O O O O O O
+孙 越 ： 3 D 电 影 张 飞 拍 的 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 也 有 可 能 是 沙 僧 拍 的 呀 。	O O O O O O O O O O O O O O O
+孙 越 ： 玩 去 你 ， 您 别 胡 说 八 道 。	O O O O O O O O O O O O O O
+岳 云 鹏 ： 你 看 ， 二 哥 不 愿 意 了 ， 你 看 看 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O
+孙 越 ： 你 才 二 哥 呢 。	O O O O O O O O O
+岳 云 鹏 ： 你 也 可 以 拍 一 个 啊 。	O O O O O O O O O O O O O
+孙 越 ： 我 拍 什 么 拍 ？	O O O O O O O O O
+岳 云 鹏 ： 《 高 老 庄 的 美 好 时 代 》 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O
+孙 越 ： 我 没 有 啊 。	O O O O O O O O
+岳 云 鹏 ： 《 高 老 庄 十 三 钗 》 。	O O O O O O O O B-Happy I-Happy I-Happy O O
+孙 越 ： 没 有 ， 您 别 胡 来 。	O O O O O O O O O O O
+岳 云 鹏 ： 《 致 高 老 庄 终 将 逝 去 的 青 春 》 ， 多 好 啊 。	O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O
+孙 越 ： 多 绕 嘴 这 玩 意 ， 您 别 胡 说 啊 ， 这 3 D 电 影 不 是 这 意 思 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 什 么 意 思 ？	O O O O O O O O O
+孙 越 ： 它 拍 摄 的 技 术 ， 观 看 角 度 。	O O O O O O O O O O O O O O O
+岳 云 鹏 ： 没 错 ， 没 错 ， 零 距 离 接 触 。	O O O O O O O O O O O O O O O O
+孙 越 ： 跟 真 的 一 样 。	O O O O O O O O O
+岳 云 鹏 ： 3 D 电 影 ， 特 别 好 看 。 其 实 呀 ， 我 自 己 个 ， 我 自 己 呀 ， 也 是 一 名 电 影 演 员 。	O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O
+孙 越 ： 你 ？	O O O O O
+岳 云 鹏 ： 对 了 ， 去 年 有 个 电 影 叫 《 煎 饼 侠 》 ， 我 的 天 哪 ， 我 走 哪 都 提 到 哪 ， 《 煎 饼 侠 》 有 我 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 有 你 。	O O O O O O
+岳 云 鹏 ： 而 且 前 几 年 我 拍 了 一 个 好 片 子 。	O O O O O O O O O O O O O O O O O O
+孙 越 ： 前 几 年 什 么 片 子 ？	O O O O O O O O O O O
+岳 云 鹏 ： 叫 做 《 就 是 闹 着 玩 的 》 ， 讲 的 是 豫 语 ， 我 奉 劝 各 位 去 看 一 看 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 什 么 ？ 什 么 叫 豫 语 啊 ？	O O O O O O O O O O O O O
+岳 云 鹏 ： 香 港 话 叫 什 么 ？	O O O O O O O O O O O
+孙 越 ： 粤 语 。	O O O O O O
+岳 云 鹏 ： 我 们 说 的 是 豫 语 。	O O O O O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 河 南 话 ， 你 告 诉 我 河 南 话 我 就 完 了 嘛 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 这 样 说 比 较 洋 气 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 您 甭 洋 气 ， 我 们 还 不 懂 呢 没 准 。 就 河 南 话 ？	O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 河 南 话 。	O O O O O O O O
+孙 越 ： 《 就 是 闹 着 玩 的 》 是 吗 ？	O O O O O O O O O O O O O O
+岳 云 鹏 ： 《 就 是 闹 着 玩 的 》 ， 这 个 片 子 。	O O O O O O O O O O O O O O O O O O
+孙 越 ： 方 言 片 。	O O O O O O O
+岳 云 鹏 ： 当 时 放 的 时 候 是 在 郑 州 ， 大 电 影 院 放 映 的 。	O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 大 电 影 院 。	O O O O O O O O
+岳 云 鹏 ： 这 个 影 厅 放 的 是 我 们 的 这 个 电 影 ， 其 他 的 影 厅 放 的 是 好 莱 坞 的 大 片 ， 全 都 是 豫 语 ， 特 别 的 好 看 ， 我 们 那 些 乡 亲 们 ， 都 特 别 开 心 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 您 这 不 是 胡 来 嘛 这 不 。	O O O O O O O O O O O O O
+岳 云 鹏 ： 谁 胡 来 了 ？	O O O O O O O O O
+孙 越 ： 不 可 能 ， 没 法 听 这 玩 意 。	O O O O O O O O O O O O O O
+岳 云 鹏 ： 特 别 好 看 ， 好 多 电 影 都 是 豫 语 啊 。	O O O O O O O O O O O O O O O O O O O
+孙 越 ： 好 多 电 影 ， 进 口 大 片 都 是 河 南 话 。	O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 嗯 。	O O O O O O
+孙 越 ： 那 我 问 问 您 ， 好 像 跟 你 们 同 时 上 映 的 好 像 有 一 个 打 仗 的 叫 《 敢 死 队 3 》 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 怎 么 了 ？	O O O O O O O O
+孙 越 ： 就 是 阿 诺 什 么 的 。	O O O O O O O O O O O
+岳 云 鹏 ： 照 样 豫 语 。	O O O O O O O O O
+孙 越 ： 那 也 能 河 南 话 。	O O O O O O O O O O
+岳 云 鹏 ： 史 泰 龙 端 着 枪 ， “ 打 死 你 个 龟 孙 ！ ” 特 别 好 看 ， 阿 诺 施 瓦 辛 格 ， 硬 汉 ， “ 哎 呀 ， 我 的 娘 呀 ， 好 疼 啊 。 ”	O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O
+孙 越 ： 怎 么 配 上 河 南 话 ， 改 软 汉 了 。	O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 都 是 豫 语 ， 你 不 用 说 这 个 ， 世 界 上 最 著 名 的 片 子 ， 《 泰 坦 尼 克 号 》 照 样 豫 语 ， 照 样 感 动 观 众 ， 观 众 的 眼 泪 扑 簌 簌 的 往 下 掉 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 您 等 会 儿 ， 《 泰 坦 尼 克 号 》 。	O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 我 的 天 哪 。	O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 又 叫 那 什 么 《 铁 达 尼 》 。	O O O O O O O O O O O O O O
+岳 云 鹏 ： 对 呀 。	O O O O O O O
+孙 越 ： 这 也 河 南 话 ？	O O O O O O O O O
+岳 云 鹏 ： 对 呀 。	O O O O O O O
+孙 越 ： 一 船 好 几 千 外 国 人 ， 张 嘴 闭 嘴 讲 河 南 话 ， 这 村 里 出 去 旅 游 去 了 这 是 ， 真 有 假 有 ？	O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O
+岳 云 鹏 ： 真 有 ， 我 看 了 啊 。	O O O O O O O O O O O O
+孙 越 ： 你 在 河 南 看 的 ？	O O O O O O O O O O
+岳 云 鹏 ： 嗯 。	O O O O O O
+孙 越 ： 那 你 要 看 了 这 么 着 。	O O O O O O O O O O O O
+岳 云 鹏 ： 不 热 情 。	O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 您 就 活 在 掌 声 里 了 。 您 真 看 了 ？	O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 当 然 了 。	O O O O O O O O
+孙 越 ： 那 你 用 河 南 话 ， 给 我 们 模 仿 其 中 一 个 桥 段 怎 么 样 ？	O O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 模 仿 一 个 什 么 ？	O O O O O O O O O O O
+孙 越 ： 桥 段 。	O O O O O O
+岳 云 鹏 ： 没 有 文 化 的 样 子 ， 你 看 看 。	O O O O O O O O O O O O O O O O
+孙 越 ： 我 怎 么 没 文 化 。	O O O O O O O O O O
+岳 云 鹏 ： 那 加 船 断 好 嘛 。 哪 有 桥 ？ 哪 有 桥 ？ 整 部 电 影 有 桥 吗 ？	O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 那 桥 段 就 是 片 断 。	O O O O O O O O O O O
+岳 云 鹏 ： 那 你 说 片 断 哪 。	O O O O O O O O O O O
+孙 越 ： 桥 段 不 专 业 嘛 。	O O O O O O O O O O
+岳 云 鹏 ： 好 ， 那 就 给 你 模 仿 一 个 船 断 ， 好 不 好 ？ 这 个 船 断 啊 。	O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O
+孙 越 ： 你 等 会 儿 ， 你 等 会 儿 。 船 断 ？	O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 对 呀 。	O O O O O O O
+孙 越 ： 那 个 海 底 立 起 来 折 了 ？	O O O O O O O O O O O O O
+岳 云 鹏 ： 对 呀 。	O O O O O O O
+孙 越 ： 那 里 面 有 什 么 河 南 话 呀 ？	O O O O O O O O O O O O O O
+岳 云 鹏 ： 当 然 有 了 。	O O O O O O O O O
+孙 越 ： 哪 有 啊 ？	O O O O O O O
+岳 云 鹏 ： 普 通 话 是 这 样 的 ， 船 一 断 ， “ 咔 ， 断 了 。 ”	O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 那 河 南 话 呢 ？	O O O O O O O O O
+岳 云 鹏 ： “ 咔 嚓 ！ ”	O O O O O B-Happy I-Happy O O
+孙 越 ： 我 头 回 我 听 说 这 音 效 还 带 方 言 哪 。 您 这 不 行 您 这 个 。	O O O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： “ 咔 嚓 ！ ” “ 打 死 你 的 龟 孙 ！ ”	O O O O O B-Happy I-Happy O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O
+孙 越 ： 这 不 怎 么 样 这 个 。	O O O O O O O O O O O
+岳 云 鹏 ： 特 别 好 看 。	O O O O O O O O O
+孙 越 ： 你 这 么 着 ， 最 少 是 两 个 人 ， 有 语 言 交 流 的 片 断 。	O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 语 言 交 流 ， 行 ， 那 就 给 你 模 仿 一 个 经 典 的 桥 段 。 其 实 这 部 电 影 ， 大 伙 都 熟 悉 ， 有 一 个 女 主 人 公 叫 做 肉 丝 ， 这 个 肉 丝 … …	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O
+孙 越 ： 你 等 会 儿 ， 肉 丝 像 话 吗 ？ R o s e 。	O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： R o s e ， 看 我 这 个 嘴 型 ， R o s e 。 肉 丝 有 一 个 男 朋 友 ， 富 可 敌 国 。	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O
+孙 越 ： 有 钱 人	O O O O O O
+岳 云 鹏 ： 特 别 的 有 钱 。	O O O O O O O O O O
+孙 越 ： 富 商 。	O O O O O O
+岳 云 鹏 ： 相 中 这 个 肉 丝 了 ， 送 给 肉 丝 一 个 5 6 克 拉 的 海 洋 之 心 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 一 大 项 坠 。	O O O O O O O O
+岳 云 鹏 ： 但 是 肉 丝 不 喜 欢 。	O O O O O O O O O O O O
+孙 越 ： 为 什 么 ？	O O O O O O O
+岳 云 鹏 ： 他 男 的 抽 了 她 一 大 嘴 巴 子 ， 肉 丝 想 轻 生 了 ， 想 跳 床 ， 就 这 么 一 段 ， 我 给 您 模 仿 一 段 。	O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O
+孙 越 ： 您 等 会 儿 ， 想 跳 什 么 ？	O O O O O O O O O O O O O
+岳 云 鹏 ： 跳 船 ， c h u a n 船 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 这 不 还 是 床 嘛 。	O O O O O O O O O O
+岳 云 鹏 ： 跳 船 。	O O O O O O O
+孙 越 ： 就 是 想 轻 生 、 自 杀 。	O O O O O O O O O O O O
+岳 云 鹏 ： 对 对 。	O O O O O O O
+孙 越 ： 就 这 段 。	O O O O O O O
+岳 云 鹏 ： 杰 克 过 来 了 ， 劝 她 。	O O O O O O O O O O O O O
+孙 越 ： 俩 人 头 一 次 见 面 。	O O O O O O O O O O O
+岳 云 鹏 ： 对 对 对 。	O O O O O O O O
+孙 越 ： 拿 河 南 话 。	O O O O O O O O
+岳 云 鹏 ： 嗯 。	O O O O O O
+孙 越 ： 行 行 行 。	O O O O O O O
+岳 云 鹏 ： 豫 语 。 （ 摆 起 动 作 ）	O O O O O O O O O O O O O
+孙 越 ： 您 这 是 ？	O O O O O O O
+岳 云 鹏 ： 肉 丝 ， 站 在 床 帮 上 。	O O O O B-Happy I-Happy O O O O O O O
+孙 越 ： 站 在 什 么 帮 上 ？	O O O O O B-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 船 帮 。	O O O O O O O
+孙 越 ： 船 帮 。	O O O O O O
+岳 云 鹏 ： 肉 丝 往 下 跳 ， 杰 克 过 来 了 ， 捷 克 抽 着 烟 。	O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 抽 着 烟 。	O O O O O O O
+岳 云 鹏 ： 赛 于 谦 。	O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 赛 这 玩 意 。	O O O O O O O O
+岳 云 鹏 ： （ 抽 烟 动 作 ）	O O O O O B-Happy I-Happy I-Happy I-Happy O
+观 众 ： 再 来 一 口 。	O O O O O O O O
+岳 云 鹏 ： 行 了 ， 行 了 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 再 来 一 口 缓 不 过 来 了 。	O O O O O O O O O O O O O
+岳 云 鹏 ： 我 都 快 晕 死 了 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 缺 氧 了 这 。	O O O O O O O O
+岳 云 鹏 ： 看 见 了 。	O O O O O O O O
+孙 越 ： 看 见 女 主 人 公 了 。	O O O O O O O O O O O
+岳 云 鹏 ： 对 了 。 走 过 去 开 始 沟 通 。	O O O O O O O O O O O O O O O
+孙 越 ： 攀 谈 一 下 。	O O O O O O O O
+岳 云 鹏 ： 豫 语 啊 。	O O O O O O O O
+孙 越 ： 这 烟 还 没 抽 完 呢 这 是 。	O O O O O O O O O O O O O
+岳 云 鹏 ： 妮 儿 。	O O O O B-Happy I-Happy O
+孙 越 ： 您 等 等 。 什 么 叫 妮 儿 啊 ？	O O O O O O O O O O O O O O
+岳 云 鹏 ： 就 是 姑 娘 的 意 思 。	O O O O O O O O O O O O
+孙 越 ： 河 南 话 ， 姑 娘 ， 妮 儿 。	O O O O O O O O O O O O O
+岳 云 鹏 ： 妮 儿 ， 弄 啥 嘞 呀 ？ （ 摆 起 动 作 ）	O O O O B-Happy I-Happy O B-Happy I-Happy I-Happy I-Happy O O O O O O O
+孙 越 ： 这 是 肉 丝 ， 快 风 干 了 吧 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 滚 ！	O O O O B-Happy O
+孙 越 ： 这 句 什 么 ？	O O O O O O O O
+岳 云 鹏 ： 滚 ！	O O O O B-Happy O
+孙 越 ： 我 多 余 问 他 我 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： “ 跳 船 ！ ” “ 啥 呀 ？ ”	O O O O O B-Happy I-Happy O O O B-Happy I-Happy O O
+孙 越 ： 还 没 听 见 。	O O O O O O O O
+岳 云 鹏 ： “ 跳 船 ？ 别 跳 呗 ， 别 跳 呗 ， 那 海 水 可 凉 啊 。 ”	O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O B-Happy I-Happy I-Happy O O
+孙 越 ： 你 们 河 南 有 海 吗 ？ 还 可 凉 了 还 。	O O O O O O O B-Happy I-Happy I-Happy O O O O O O O
+岳 云 鹏 ： “ 啥 呀 ？ 还 水 可 凉 ？ ”	O O O O O B-Happy I-Happy O B-Happy I-Happy I-Happy I-Happy O O
+孙 越 ： 凉 。	O O O O O
+岳 云 鹏 ： “ 多 凉 啊 ？ ”	O O O O O O O O O O
+孙 越 ： 问 清 楚 了 。	O O O O O O O O
+岳 云 鹏 ： “ 多 凉 ， 可 凉 可 凉 啊 。 ”	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O
+孙 越 ： 不 会 聊 天 。	O O O O O O O O
+岳 云 鹏 ： 别 跳 呗 ， 你 看 你 这 个 妮 儿 ， 长 得 还 怪 带 劲 了 呀 。	O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 您 等 会 儿 吧 。	O O O O O O O O O
+岳 云 鹏 ： 刚 才 我 自 己 表 演 ， 接 下 来 咱 俩 配 合 一 回 ， 给 大 伙 表 演 一 个 《 泰 坦 尼 克 号 》 最 经 典 的 桥 段 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 哪 个 桥 段 ？	O O O O O O O O
+岳 云 鹏 ： 船 断 了 以 后 ， 咱 们 两 个 人 在 水 里 生 死 离 别 ， 看 看 能 不 能 感 动 观 众 们 怎 么 样 ？ 咱 俩 先 分 一 下 角 色 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O
+孙 越 ： 咱 俩 谁 来 这 个 ？	O O O O O O O O O O
+岳 云 鹏 ： 我 来 杰 克 ， 因 为 我 比 较 帅 。 你 来 肉 丝 ， 别 起 哄 啊 。	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 你 甭 管 他 们 起 不 起 哄 ， 你 来 捷 克 ， 我 来 R o s e 我 趴 在 那 个 船 板 上 ， 得 多 大 一 块 板 子 啊 ， 有 这 块 板 子 全 船 不 都 得 救 了 嘛 。	O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 说 得 有 道 理 哈 。	O O O O O O O O O O O
+孙 越 ： 废 话 。	O O O O O O
+岳 云 鹏 ： 那 怎 样 ？	O O O O O O O O
+孙 越 ： 你 来 这 个 R o s e 。	O O O O O O O O O O O O
+岳 云 鹏 ： 我 来 R o s e 。	O O O O O O O O O O O
+孙 越 ： 你 苗 条 。	O O O O O O O
+岳 云 鹏 ： 你 来 杰 克 ， 那 这 个 故 事 不 成 立 了 ， 我 疯 了 ， 我 相 中 你 了 。	O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 你 还 别 说 这 个 ， 我 疯 了 ， 我 救 你 啊 。	O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 我 多 美 啊 。	O O O O O O O O O
+孙 越 ： 你 给 我 玩 去 你 ！ 这 不 表 演 嘛 。	O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 行 行 行 。	O O O O O O O O
+孙 越 ： 我 来 这 杰 克 ， 男 主 人 公 。	O O O O O O O O O O O O O O
+岳 云 鹏 ： 行 ， 我 来 R o s e ， 我 去 换 一 下 装 ， 等 着 我 啊 。	O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+（ 换 装 出 场 ， 音 乐 ）	O O O O O O B-Happy I-Happy O
+停 ， 我 就 那 么 像 鬼 吗 ？ 你 说 什 么 呀 ？ （ 音 乐 再 响 ） 停 ， 我 是 个 淑 女 知 道 嘛 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 我 以 为 京 巴 呢 ， 我 以 为 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O
+岳 云 鹏 ： 我 明 白 大 伙 ， 为 什 么 把 头 发 盖 上 脸 了 ？ 显 脸 小 。	O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 问 题 你 脑 袋 还 大 啊 。	O O O O O O O O O O O O
+岳 云 鹏 ： （ 撩 起 头 发 ）	O O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 行 了 ， 行 了 ， 别 撩 了 ， （ 指 向 项 坠 ） 您 这 是 什 么 啊 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 海 洋 之 心 ， 5 6 克 拉 ， 怎 么 样 ？	O O O O O O O O O O O O O O O O O O
+孙 越 ： 我 看 看 ， 道 具 真 下 本 啊 。	O O O O O O O O O O O O O O
+岳 云 鹏 ： 是 不 是 。	O O O O O O O O
+孙 越 ： 那 咱 们 就 开 始 。	O O O O O O O O O O
+岳 云 鹏 ： 开 始 了 。	O O O O O O O O
+孙 越 ： 这 就 船 板 了 ， 那 我 站 这 了 。 你 就 趴 船 板 上 ， 你 就 饥 寒 交 迫 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 行 。	O O O O O O
+孙 越 ： 对 对 。	O O O O O O
+岳 云 鹏 ： 饥 寒 交 迫 ， 好 难 演 啊 。	O O O O B-Happy I-Happy I-Happy I-Happy O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 对 对 对 。	O O O O O O O
+岳 云 鹏 ： 我 们 这 就 开 始 了 啊 ， 各 位 ， 准 备 好 您 的 手 绢 ， 生 死 离 别 ， 肯 定 会 掉 眼 泪 的 好 不 好 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 是 河 南 话 ？	O O O O O O O O
+岳 云 鹏 ： 当 然 了 ， 豫 语 。 音 乐 。 （ 音 乐 响 起 ）	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 这 板 子 上 还 有 别 人 是 怎 么 着 ， （ 模 仿 抓 耳 挠 腮 动 作 ） 你 这 干 吗 ？ 怎 么 了 你 ， 烤 白 薯 烫 着 了 你 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 冷 啊 。 在 水 里 泡 着 呢 ， 撞 冰 山 了 ， 你 想 想 有 多 冷 。	O O O O O O O O O O O O O O O O O O O O O O O O O O
+孙 越 ： 冷 。 那 我 呢 ？	O O O O O O O O O
+岳 云 鹏 ： 你 也 得 这 样 啊 。	O O O O O O O O O O O
+孙 越 ： 对 ， 我 在 水 里 泡 着 呢 ， 对 对 对 。	O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 你 比 我 还 冷 呢 。	O O O O O O O O O O O
+孙 越 ： 你 们 都 在 水 里 泡 着 呢 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+（ 音 乐 响 起 ）	O O O O O O
+岳 云 鹏 ： 杰 克 ， 水 来 了 。	O O O O O O O B-Happy I-Happy I-Happy O
+孙 越 ： 那 给 我 搓 搓 后 背 吧 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 我 揳 死 你 我 ！	O O O O O B-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 我 找 点 浴 池 的 感 觉 。	O O O O O O O O O O O O
+岳 云 鹏 ： 你 跑 这 洗 澡 来 了 。	O O O O O O O O O O O O
+孙 越 ： 你 不 是 水 来 了 ， 海 水 。	O O O O O O O O O O O O O
+岳 云 鹏 ： 海 水 ， 都 快 死 了 ， 还 搓 搓 后 背 呢 。	O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： 你 把 这 板 子 给 我 点 ， 让 我 扒 着 点 ， 要 不 沉 了 。	O O O O O O O O O O O O O O O O O O O O O O O
+岳 云 鹏 ： 废 话 ， 你 扒 着 咱 俩 都 沉 了 。	O O O O O O O O O O O O O O O O
+孙 越 ： 你 死 不 死 你 ， 我 救 的 你 ， 知 道 吗 ？	O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O B-Happy I-Happy I-Happy O
+（ 音 乐 响 起 ）	O O O O O O
+岳 云 鹏 ： 杰 克 。	O O O O O O O
+孙 越 ： R o s e 。	O O O O O O O O
+岳 云 鹏 ： 我 可 能 不 中 了 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+孙 越 ： R o s e 啊 ， 你 要 健 健 康 康 的 活 着 ， 你 要 幸 福 啊 ， 你 要 生 好 多 好 多 的 孩 子 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+岳 云 鹏 ： 中 。	O O O O B-Happy O
+孙 越 ： 有 我 没 我 一 样 是 吧 。 R o s e 。	O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O
+岳 云 鹏 ： 杰 克 ， 我 可 能 真 的 不 中 了 ， 我 好 冷 呀 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O
+孙 越 ： R o s e ， 你 要 坚 持 住 ， 不 管 以 后 的 路 多 么 艰 难 ， 多 么 崎 岖 ， 不 管 多 么 坎 坷 （ 倒 下 ）	O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O B-Happy I-Happy O
+岳 云 鹏 ： 我 的 天 哪 ， 你 死 得 也 太 仓 促 了 。 杰 克 ， 你 不 能 死 啊 ， 杰 克 ， 你 死 了 我 咋 办 呢 ？ 我 自 己 咋 生 孩 子 呀 ？ 杰 克 ， 老 天 爷 呀 ， 你 咋 死 了 呀 。 杰 克 ， 我 把 这 个 海 洋 之 心 ， 我 送 给 你 吧 ， 让 它 陪 你 ， 进 大 海 。 杰 克 ， 咱 俩 来 生 再 见 吧 。 （ 哭 ）	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy O
+孙 越 ： （ 看 着 海 洋 之 心 ） 终 于 是 我 的 了 （ 下 台 ） 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O B-Happy I-Happy O O
+岳 云 鹏 ： （ 追 孙 越 ） 我 打 死 你 个 龟 孙 ！	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 哎 呀 ， 这 么 多 人 呢 ， 大 家 过 年 好 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+观 众 ： 好 。	O O O O O
+宋 小 宝 ： 今 天 呢 特 别 高 兴 ， 跟 老 伴 儿 海 燕 结 婚 三 十 年 纪 念 日 ， 第 二 呢 姑 娘 嫁 出 去 了 ， 找 个 好 姑 爷 ， 我 觉 得 特 别 幸 福 ， 我 跟 姑 爷 好 到 什 么 程 度 ， 没 有 人 的 时 候 我 俩 像 哥 儿 俩 似 的 ， 彼 此 信 任 ， 我 的 私 房 钱 呢 就 藏 在 我 姑 爷 那 儿 ， 年 轻 时 候 别 人 给 我 写 的 情 书 我 都 放 我 姑 爷 那 儿 了 你 想 想 ， 俺 们 爷 俩 的 关 系 还 能 差 了 呀 。	O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+小 东 北 ： 爸 爸 ， 爸 爸 。	O O O O O O O O O O
+宋 小 宝 ： 说 来 就 来 了 。	O O O O O O O O O O
+小 东 北 ： 哎 哟 我 的 爸 呀 ， 你 赶 紧 救 救 我 吧 ， 不 行 了 。	O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 咋 的 了 。	O O O O O O O O
+姜 洋 洋 ： 站 那 。	O O O O O O O
+小 东 北 ： 洋 洋 打 我 。	O O O O O O O O O
+姜 洋 洋 ： 小 东 北 ， 你 给 我 站 那 儿 ， 你 一 有 事 你 就 往 我 家 跑 啊 ， 这 是 你 娘 家 还 是 我 娘 家 你 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 干 啥 呀 ， 我 跟 你 妈 三 十 年 纪 念 日 啊 ， 搅 局 来 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 爸 你 不 知 道 咋 回 事 。	O O O O O O O O O O O O O
+宋 小 宝 ： 什 么 不 知 道 咋 回 事 呢 。	O O O O O O O O O O O O O O
+姜 洋 洋 ： 你 姑 爷 出 息 了 你 姑 爷 ， 啊 ， 有 人 了 。	O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 咋 的 了 。	O O O O O O O O
+姜 洋 洋 ： 情 书 都 让 我 看 着 了 ， 你 说 咋 的 了 ， 我 不 能 过 了 这 日 子 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 过 来 ， 过 来 ， 咋 回 事 。	O O O O O O O O O O B-Happy I-Happy I-Happy O
+小 东 北 ： 别 说 别 说 。	O O O O O O O O O
+宋 小 宝 ： 什 么 不 说 不 说 的 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+小 东 北 ： 信 ， 你 的 信 。	O O O O O O B-Happy I-Happy I-Happy O
+宋 小 宝 ： 我 的 那 个 。	O O O O O O O O O
+小 东 北 ： 可 不 嘛 。	O O O O O O O O
+宋 小 宝 ： 我 的 妈 呀 ， 你 承 认 没 呢 。	O O O O O O O O O O O O O O O
+小 东 北 ： 这 不 等 你 信 呢 吗 。	O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 还 能 挺 一 会 儿 不 。	O O O O O O O O O O O O
+小 东 北 ： 我 能 挺 ， 你 姑 娘 挺 不 了 啊 。	O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 你 俩 干 啥 呢 。	O O O O O O B-Happy I-Happy I-Happy O
+小 东 北 ： 你 问 你 爸 。	O O O O O O O O O
+姜 洋 洋 ： 什 么 玩 意 儿 问 我 爸 呀 ， 问 我 爸 干 啥 呀 ， 你 给 我 说 ， 来 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+小 东 北 ： 爸 ， 辩 护 。	O O O O O O O O O
+宋 小 宝 ： 那 个 ， 那 就 是 我 的 了 呗 。	O O O O O O O O O O O O O O O
+小 东 北 ： 啥 叫 是 你 的 了 呗 。	O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 那 就 算 我 的 。	O O O O O O O O O O
+小 东 北 ： 啥 叫 ， 那 ， 啥 叫 那 算 你 的 呀 ， 那 不 就 是 你 的 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 对 ， 姑 娘 ， 这 个 信 那 是 爸 的 。	O O O O O O O O O O O O O O O O O
+小 东 北 ： 对 ， 是 爸 的 。	O O O O O O O O O O
+姜 洋 洋 ： 爸 ， 你 干 啥 呀 ， 我 是 你 亲 姑 娘 不 ， 出 这 事 儿 你 不 嘎 吧 给 他 俩 嘴 巴 子 ， 爸 ， 你 别 管 这 事 ， 我 今 天 我 跟 你 没 完 。	O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 姑 娘 ， 你 听 爸 说 ， 你 听 爸 说 ， 一 会 儿 你 妈 就 回 来 了 ， 这 事 咱 不 唠 了 行 不 ， 把 它 压 下 去 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 我 不 ， 我 今 天 不 整 明 白 这 事 ， 日 子 我 不 过 了 。	O O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 不 过 就 不 过 ， 我 就 说 吧 根 本 就 不 用 过 ， 你 说 这 家 伙 的 ， 你 爸 非 得 整 这 出 还 要 过 个 纪 念 日 ， 过 啥 过 呀 ， 净 整 那 浪 漫 事 儿 ， 闺 女 ， 妈 头 型 带 劲 不 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 带 啥 劲 呢 ， 哪 有 心 情 看 你 头 型 啊 。	O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 这 咋 的 了 像 吃 枪 药 似 的 。	O O O O O O O O O O O O O O O
+姜 洋 洋 ： 妈 ， 你 姑 爷 外 面 有 人 了 ， 情 书 都 写 了 ， 妈 。	O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 谁 的 情 书 啊 。	O O O O O O O O O O
+小 东 北 ： 爸 ， 表 态 ， 表 态 呀 。	O O O O O O B-Happy I-Happy O B-Happy I-Happy I-Happy O
+宋 小 宝 ： 我 的 。	O O O O O O O
+小 东 北 ： 我 爸 的 。	O O O O O O O O
+赵 海 燕 ： 老 伴 儿 ， 我 懵 了 。	O O O O O O O O B-Happy I-Happy I-Happy O
+宋 小 宝 ： 老 伴 儿 ， 你 别 懵 ， 你 来 ， 到 这 儿 来 ， 到 这 儿 你 就 不 懵 了 。	O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 咋 回 事 啊 。	O O O O O O O O O
+宋 小 宝 ： 姑 爷 的 。	O O O O O O O O
+赵 海 燕 ： 那 不 行 啊 ， 那 这 饶 不 了 他 。	O O O O O O O O O O O O O O O O
+宋 小 宝 ： 压 下 ， 这 个 事 得 压 下 来 。	O O O O O O O O O O O O O O O
+赵 海 燕 ： 压 不 下 呀 ， 那 我 闺 女 受 委 屈 了 我 不 能 干 呢 。	O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 咱 姑 爷 那 么 优 秀 能 不 招 蜂 吗 ， 单 位 哪 个 小 女 孩 看 上 就 塞 兜 里 了 呗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 你 等 会 儿 ， 我 捋 一 下 子 。	O O O O O O O O O O O O O O O
+宋 小 宝 ： 啊 。	O O O O O O
+赵 海 燕 ： 是 他 写 给 别 人 的 还 是 别 人 写 给 咱 姑 爷 的 。	O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 别 人 写 给 咱 姑 爷 的 。	O O O O O O O O O O O O O
+赵 海 燕 ： 姑 爷 没 啥 行 动 。	O O O O O O O O O O O
+宋 小 宝 ： 没 啥 行 动 ， 老 伴 儿 ， 你 得 大 气 ， 头 型 这 么 带 劲 。	O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 岁 数 大 的 人 得 压 事 。	O O O O O O O O O O O O O
+宋 小 宝 ： 对 呀 ， 老 伴 儿 。	O O O O O O O O O O O
+赵 海 燕 ： 你 不 能 戳 鼓 孩 子 离 婚 。	O O O O O O O O O O O O O O
+宋 小 宝 ： 回 去 ， 上 课 给 姑 娘 。	O O O O O O O O O O O O O
+赵 海 燕 ： 那 完 事 儿 你 得 收 拾 姑 爷 。	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 我 收 拾 他 。	O O O O O O O O O
+赵 海 燕 ： 闺 女 啊 ， 妈 整 明 白 了 ， 那 是 你 爸 的 。	O O O O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 我 爸 的 咋 跑 我 家 来 了 呢 。	O O O O O O O O O O O O O O O
+赵 海 燕 ： 咋 跑 他 家 去 了 。	O O O O O O O O O O O
+宋 小 宝 ： 我 小 时 候 的 故 事 不 跟 你 讲 。	O O O O O O O O O O O O O O O O
+赵 海 燕 ： 啊 ， 那 个 啥 ， 你 爸 年 轻 的 时 候 跟 那 邻 居 ， 那 他 俩 从 小 青 梅 竹 马 长 大 的 ， 那 关 系 可 好 了 ， 她 一 直 追 去 他 ， 完 了 你 爸 不 干 ， 我 跟 你 说 ， 有 男 人 接 到 情 书 ， 那 就 证 明 你 的 男 人 很 有 魅 力 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 对 。	O O O O O O
+赵 海 燕 ： 你 看 这 小 黑 人 不 起 眼 ， 那 当 年 追 他 的 人 也 不 老 少 ， 那 是 妈 一 路 厮 杀 抢 到 手 的 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 拿 刀 拼 的 。	O O O O B-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 不 就 是 一 封 信 吗 ， 能 过 去 不 ， 看 妈 头 型 带 劲 不 的 。	O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 带 劲 ， 带 劲 ， 这 事 就 过 去 了 ， 咱 吃 饭 。	O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 过 去 了 哈 。	O O O O O O O O O
+姜 洋 洋 ： 带 劲 啥 呀 带 劲 ， 不 带 劲 ， 过 去 ， 过 去 ， 你 瞅 瞅 这 是 啥 ， 私 房 钱 呢 妈 。	O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O
+宋 小 宝 ： 咋 的 了 ， 全 军 覆 没 了 。	O O O O O O O O O O O O O O
+小 东 北 ： 放 一 块 儿 一 锅 端 了 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 那 咋 整 啊 ， 这 些 事 能 不 能 挺 一 挺 啊 你 。	O O O O O O O O O O O O O O O O O O O O O
+小 东 北 ： 我 还 能 挺 ， 我 怕 你 挺 不 住 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 关 键 我 要 承 认 ， 那 老 丈 母 娘 就 炸 了 。	O O O O O O O O O O O O O O O O O O O O
+小 东 北 ： 我 都 能 炸 好 几 番 了 ， 也 应 该 你 炸 一 下 子 了 。	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 你 俩 在 那 里 嘀 咕 啥 呢 。	O O O O O O O O O O O O O O
+宋 小 宝 ： 没 ， 没 事 ， 那 这 些 钱 那 就 是 我 的 了 呗 。	O O O O O O O O O O O O O O O O O O O O O
+小 东 北 ： 你 看 你 又 整 这 一 出 ， 什 么 就 又 是 你 的 了 呢 。	O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 行 ， 那 就 算 我 的 。	O O O O O O O O O O O O
+小 东 北 ： 啥 叫 算 你 的 呀 ， 那 这 个 钱 它 本 来 。	O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 它 就 是 我 的 。	O O O O O O O O O O
+小 东 北 ： 可 不 吗 ， 你 得 说 清 楚 ， 爸 ， 你 不 能 坑 我 呀 你 。	O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 姑 娘 啊 ， 这 钱 是 爸 的 。	O O O O O O O O O O O O O O
+小 东 北 ： 对 。	O O O O O O
+宋 小 宝 ： 放 姑 爷 那 儿 的 。	O O O O O O O O O O O
+赵 海 燕 ： 老 伴 儿 ， 我 又 懵 了 。	O O O O O O O O O O O O O
+宋 小 宝 ： 又 懵 不 怕 呀 ， 你 来 呀 ， 你 往 这 儿 来 。	O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O
+赵 海 燕 ： 到 这 儿 就 不 懵 了 。	O O O O O O O O O O O O
+宋 小 宝 ： 到 这 儿 你 就 全 明 白 了 。	O O O O O O O O O O O O O O
+赵 海 燕 ： 嗯 。	O O O O O O
+宋 小 宝 ： 姑 爷 的 。	O O O O B-Happy I-Happy I-Happy O
+赵 海 燕 ： 不 是 你 的 。	O O O O O O O O O
+宋 小 宝 ： 那 怎 么 能 是 我 的 。	O O O O O O O O O O O O
+赵 海 燕 ： 要 是 你 攒 私 房 钱 我 整 死 你 。	O O O O O O O O O O O O O O O O
+宋 小 宝 ： 老 伴 儿 你 给 过 我 钱 吗 ， 我 哪 儿 有 钱 。	O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 嗯 。	O O O O O O
+宋 小 宝 ： 这 事 得 压 下 来 ， 你 当 妈 的 得 大 气 ， 头 型 多 带 劲 呢 。	O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 有 道 理 ， 行 来 。	O O O O O O O O O O O
+宋 小 宝 ： 啊 。	O O O O O O
+赵 海 燕 ： 闺 女 啊 ， 整 明 白 了 ， 那 钱 是 你 爸 的 。	O O O O O O O O O O O O O O O O O O O O
+小 东 北 ： 你 看 ， 是 我 爸 的 。	O O O O O O O O O O O O
+姜 洋 洋 ： 啥 玩 意 我 爸 的 ， 这 些 年 我 爸 咋 回 事 我 不 知 道 吗 ， 那 兜 儿 比 脸 都 干 净 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 不 就 爸 买 菜 的 时 候 剩 的 零 花 钱 我 就 攒 下 了 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 攒 这 些 ， 那 你 攒 这 些 你 搁 我 家 干 啥 呀 。	O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 啊 ， 那 个 你 爸 不 是 怕 我 吗 ， 他 哪 敢 把 钱 藏 在 家 里 呀 ， 藏 在 家 里 ， 一 旦 让 我 知 道 的 话 那 我 不 收 拾 死 他 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 不 废 了 吗 。	O O O O O O O O O
+姜 洋 洋 ： 现 在 就 不 收 拾 了 。	O O O O O O O O O O O O
+赵 海 燕 ： 都 多 大 岁 数 了 ， 那 男 人 呢 你 得 让 他 有 面 儿 ， 你 在 外 头 ， 你 交 朋 好 友 的 ， 你 抽 烟 都 没 有 钱 多 磕 碜 呢 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+小 东 北 ： 可 不 。	O O O O O O O
+宋 小 宝 ： 闺 女 ， 咱 得 大 气 。	O O O O O O O O O O O O
+小 东 北 ： 你 听 听 ， 妈 说 得 多 好 。	O O O O O O O O O O O O O O
+赵 海 燕 ： 妈 跟 你 爸 对 你 不 薄 吧 。	O O O O O O O O O O O O O O
+小 东 北 ： 不 薄 。	O O O O O O O
+赵 海 燕 ： 心 里 得 有 点 数 。	O O O O O O B-Happy I-Happy I-Happy I-Happy O
+小 东 北 ： 有 数 ， 妈 ， 不 是 ， 啥 话 呀 ， 我 对 咱 家 也 不 薄 呀 ， 爸 ， 你 说 我 够 意 思 不 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 干 啥 呢 ， 你 咋 还 带 情 绪 呢 ， 跟 你 老 丈 人 还 拍 拍 搭 搭 ， 他 是 你 大 哥 呀 。 闺 女 ， 不 能 多 说 话 ， 妈 告 诉 你 ， 那 不 能 管 老 爷 们 儿 管 得 太 紧 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 这 钱 不 没 花 出 去 吗 ， 还 在 咱 家 里 嘛 。	O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 对 呗 ， 过 去 没 。	O O O O O O O O O O O
+宋 小 宝 ： 过 去 ， 咱 去 吃 饭 去 。	O O O O O O O O O O O O O
+赵 海 燕 ： 是 不 是 过 去 了 。	O O O O O O O O O O O
+宋 小 宝 ： 纪 念 日 。	O O O O O O O O
+赵 海 燕 ： 看 妈 头 型 带 劲 不 。	O O O O O O O O O O O O
+姜 洋 洋 ： 不 带 劲 。	O O O O O O O O
+赵 海 燕 ： 这 还 不 带 劲 ， 那 还 得 咋 带 劲 。	O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 我 就 看 完 那 信 ， 我 就 心 里 都 不 得 劲 。	O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 你 老 提 那 信 信 信 的 ， 信 能 说 啥 ， 你 瞅 你 那 出 。	O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 过 去 了 这 事 都 。	O O O O O O O O O O O
+赵 海 燕 ： 过 什 么 过 去 ， 不 就 这 点 事 吗 能 咋 的 ， 你 瞅 瞅 ， 哎 呀 多 少 年 了 ， 谁 现 在 还 写 信 ， 还 记 得 一 起 ， 还 记 得 那 时 候 咱 俩 一 起 上 树 掏 鸟 蛋 ， 一 起 下 河 抓 蛤 蟆 ， 一 起 去 邻 村 看 电 影 ， 一 起 玩 过 家 家 ， 我 扮 哥 哥 ， 拉 倒 吧 ， 你 这 尽 玩 这 玩 意 的 ， 都 是 小 孩 ， 就 我 们 那 年 代 的 事 ， 我 都 说 是 你 爸 的 你 还 不 相 信 ， 你 瞅 这 落 款 周 淑 芬 ， 你 听 这 名 叫 的 多 土 ， 那 就 我 们 那 个 年 代 的 人 ， 周 ， 周 淑 芬 ， 老 宋 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O
+宋 小 宝 ： 老 伴 儿 啊 。	O O O O O O O O O
+赵 海 燕 ： 这 信 是 你 的 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 老 伴 儿 啊 。	O O O O O O O O O
+赵 海 燕 ： 来 来 来 来 来 。	O O O O O O O O O O
+宋 小 宝 ： 老 伴 儿 。	O O O O B-Happy I-Happy I-Happy O
+赵 海 燕 ： 你 给 我 解 释 清 楚 。	O O O O O O O O O O O O
+宋 小 宝 ： 老 伴 儿 啊 。	O O O O O O O O O
+姜 洋 洋 ： 不 是 ， 妈 ， 可 能 是 ， 可 能 是 俺 家 的 吧 。	O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 救 我 ， 救 我 ， 姑 爷 。	O O O O O O O O O O O O O
+小 东 北 ： 爸 呀 ， 你 跑 两 圈 吧 ， 我 也 刚 静 下 来 。	O O O O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 你 起 来 。	O O O O O O O O
+宋 小 宝 ： 过 去 的 事 。	O O O O O O O O O
+姜 洋 洋 ： 妈 ， 你 别 激 动 ， 你 刚 才 不 咋 劝 我 的 。	O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 大 气 。	O O O O O O O
+姜 洋 洋 ： 大 气 ， 对 呀 。	O O O O O O O O O O
+赵 海 燕 ： 妈 大 气 不 了 了 。	O O O O O O O O O O O
+姜 洋 洋 ： 那 一 封 信 它 能 代 表 啥 呀 ， 啥 事 没 有 。	O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 等 会 儿 ， 我 心 脏 不 好 。	O O O O O O O O O O O O O O
+宋 小 宝 ： 摸 摸 毛 吓 不 着 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 你 发 誓 。	O O O O O O O O
+宋 小 宝 ： 我 发 誓 。	O O O O B-Happy I-Happy I-Happy O
+赵 海 燕 ： 这 事 跟 你 一 点 儿 关 系 没 有 。	O O O O O O O O O O O O O O O O
+宋 小 宝 ： 这 事 跟 我 一 毛 钱 关 系 都 没 有 。	O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 你 俩 就 是 发 小 。	O O O O O O O O O O O
+宋 小 宝 ： 绝 对 发 小 。	O O O O B-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 这 些 年 没 联 系 过 。	O O O O O O O O O O O O
+宋 小 宝 ： 没 联 系 过 。	O O O O O O O O O
+小 东 北 ： 啥 时 候 你 俩 还 划 拳 呢 怎 么 还 。	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+姜 洋 洋 ： 妈 ， 你 没 事 了 。	O O O O O O O O O O O
+赵 海 燕 ： 妈 没 事 了 ， 妈 这 么 坚 强 ， 这 么 大 气 的 女 人 像 大 海 一 样 宽 广 的 胸 怀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 对 。	O O O O O O
+赵 海 燕 ： 我 能 被 一 封 信 给 我 击 倒 吗 。	O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 妈 。	O O O O O O
+宋 小 宝 ： 对 了 。	O O O O O O O
+姜 洋 洋 ： 你 太 伟 大 了 。	O O O O O O O O O O
+赵 海 燕 ： 妈 头 型 没 乱 是 吧 。	O O O O O O O O O O O O
+姜 洋 洋 ： 没 乱 。	O O O O O O O
+赵 海 燕 ： 带 劲 不 。	O O O O O O O O
+姜 洋 洋 ： 带 劲 ， 这 回 带 劲 了 。	O O O O O O O O O O O O O
+宋 小 宝 ： 这 个 事 咱 就 过 去 了 吧 ， 这 回 没 事 了 吧 。	O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 、 姜 洋 洋 ： 没 ， 没 事 了 。	O O O O O O O O O O O O O O
+宋 小 宝 ： 咱 吃 饭 去 。	O O O O O O O O O
+姜 洋 洋 ： 吃 饭 去 ， 对 对 对 ， 过 纪 念 日 。	O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 谁 呀 。	O O O O O O O
+赵 海 燕 ： 谁 呀 ， 是 不 是 送 外 卖 的 。	O O O O O O O O O O O O O O O
+姜 洋 洋 ： 没 点 外 卖 呀 。	O O O O O O O O O O
+小 东 北 ： 谁 呀 。	O O O O O O O
+小 伍 ： 你 好 ， 这 是 宋 大 爷 家 吗 。	O O O O O O O O O O O O O O
+宋 小 宝 ： 对 呀 ， 我 就 是 ， 干 啥 的 。	O O O O O O O O O O O O O O O
+小 伍 ： 爹 呀 。	O O O B-Happy I-Happy O
+宋 小 宝 ： 你 谁 呀 。	O O O O O O O O
+小 伍 ： 我 叫 小 伍 ， 我 妈 周 淑 芬 。	O O O O O O O O O O B-Happy I-Happy I-Happy O
+姜 洋 洋 ： 妈 ， 妈 。	O O O O O O O O
+宋 小 宝 ： 哎 呀 妈 ， 你 干 啥 呀 你 说 你 这 孩 子 呀 ， 这 事 刚 平 啊 ， 老 伴 儿 啊 ， 老 伴 儿 ， 你 可 别 吓 我 老 伴 儿 ， 老 伴 儿 ， 老 伴 儿 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+姜 洋 洋 ： 爸 ， 你 咋 能 出 这 事 呢 你 ， 我 没 想 到 呀 ， 打 小 你 就 喜 欢 小 子 ， 你 生 我 个 丫 头 ， 你 搁 外 边 给 我 整 出 个 哥 呀 你 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 你 瞅 着 你 俩 的 色 都 一 样 的 黢 黑 黢 黑 的 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+姜 洋 洋 ： 妈 。	O O O O O O
+宋 小 宝 ： 你 咋 回 事 ， 你 把 话 说 清 楚 点 呢 。	O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 你 别 说 话 。 你 说 。	O O O O O O O O O O O O
+小 伍 ： 这 个 是 大 娘 吧 。	O O O O O O O O O O
+赵 海 燕 ： 马 上 就 不 是 了 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+小 伍 ： 大 娘 啊 ， 你 别 生 气 ， 您 呢 恐 怕 误 会 了 ， 我 今 天 来 呀 是 感 恩 来 的 ， 我 宋 大 爷 不 是 我 亲 爹 ， 但 胜 似 我 亲 爹 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 开 始 编 故 事 了 。	O O O O O O O O O O O
+小 伍 ： 你 看 大 娘 你 别 着 急 ， 这 里 面 有 个 小 插 曲 儿 ， 就 是 我 上 大 学 那 年 ， 我 妈 就 有 病 了 ， 我 爹 走 得 早 ， 我 就 想 着 咱 家 条 件 不 好 ， 就 想 放 弃 学 业 了 ， 后 来 我 大 爷 知 道 这 事 了 ， 就 拿 钱 供 我 上 完 大 学 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 等 会 儿 ， 你 俩 啥 关 系 没 有 他 就 给 你 拿 钱 供 你 上 大 学 ， 谁 信 呢 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+小 伍 ： 那 钱 不 是 你 让 我 大 爷 给 我 的 吗 ， 这 打 款 单 子 我 还 留 着 呢 ， 上 面 写 着 你 的 名 嘛 ， 赵 海 燕 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 我 啥 时 候 给 他 打 钱 了 。	O O O O O O O O O O O O O O
+宋 小 宝 ： 我 要 不 说 是 咱 两 口 子 给 的 ， 人 家 那 老 太 太 也 不 糊 涂 ， 人 家 能 要 那 钱 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+小 伍 ： 对 。	O O O O O
+宋 小 宝 ： 老 伴 儿 啊 ， 老 头 小 的 时 候 在 人 家 吃 过 喝 过 ， 人 家 养 活 过 咱 ， 到 这 岁 数 了 ， 看 到 人 家 不 好 了 不 帮 ， 我 过 不 去 心 里 头 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 你 妈 在 哪 儿 呢 。	O O O O O O O O O O O
+小 伍 ： 在 医 院 呢 。	O O O O O O O O
+赵 海 燕 ： 闺 女 。	O O O O O O O
+姜 洋 洋 ： 哎 。	O O O O O O
+赵 海 燕 ： 走 ， 走 。	O O O O O O O O
+宋 小 宝 ： 那 啥 没 完 了 ， 那 还 欺 负 老 幼 病 残 呢 。	O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 我 不 是 大 气 的 女 人 吗 ， 大 过 年 的 我 不 得 带 孩 子 上 医 院 去 看 看 她 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 妈 呀 ， 老 伴 儿 呀 ， 你 要 这 么 说 老 公 都 激 动 了 ， 三 十 年 了 ， 纪 念 日 ， 今 天 无 论 如 何 把 这 个 日 子 咱 先 过 完 ， 咱 再 去 也 不 迟 ， 老 伴 儿 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 纪 念 日 只 是 个 形 式 ， 平 平 淡 淡 才 是 真 。	O O O O O O O O O O O O O O O O O O O O O
+宋 小 宝 ： 老 伴 儿 ， 再 说 我 还 没 给 你 买 礼 物 呢 。	O O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 还 要 啥 礼 物 啊 ， 你 的 善 良 就 是 最 好 的 礼 物 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 那 老 伴 儿 ， 你 给 我 说 的 身 上 都 起 毛 毛 狗 了 。	O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+赵 海 燕 ： 姑 爷 。	O O O O O O O
+小 东 北 ： 哎 。	O O O O O O
+赵 海 燕 ： 走 ， 咱 买 点 水 果 ， 拿 着 去 看 他 妈 去 。	O O O O O O O O O O O O O O O O O O O O
+小 东 北 ： 不 用 买 了 ， 你 看 ， 他 不 拿 来 了 嘛 ， 咱 再 给 他 妈 拿 回 去 呗 不 就 完 了 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+宋 小 宝 ： 那 说 的 也 在 理 ， 行 ， 那 就 拿 回 去 。	O O O O O O O O O O O O O O O O O O O
+赵 海 燕 ： 走 ， 去 看 去 。	O O O O O O O O O O
+宋 小 宝 ： 那 走 。	O O O O O O O
+小 东 北 ： 走 。	O O O O O O
+赵 海 燕 ： 走 。	O O O O O O
+宋 小 宝 ： 妈 呀 ， 老 伴 儿 呀 ， 真 大 气 呀 。	O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+（ 众 人 抢 着 上 车 坐 座 ）	O O O O O O O O O O
+曹 贺 军 ： （ 无 座 ） 让 你 快 点 你 不 快 点 。	O O O O O O O O O O O O O O O O O
+乘 客 A ： 你 赖 我 干 什 么 ？ 我 在 车 头 我 也 没 跑 过 呀 。	O O O O O O O O O O O O O O O O O O O O O O
+曹 贺 军 ： 这 一 个 多 小 时 ， 咱 俩 站 着 不 累 死 啊 。	O O O O O O O O O O O O O O O O O O O O
+乘 客 A ： 那 你 想 办 法 ， 你 是 大 哥 。	O O O O O O O O O O O O O O O
+曹 贺 军 ： 老 办 法 。	O O O O O O O O
+乘 客 A ： 明 白 。 （ 跳 到 曹 贺 军 怀 里 ， 装 小 孩 ） 爸 爸 ， 爸 爸 ， 你 累 不 累 呀 ？ 累 不 累 呀 ？	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O
+曹 贺 军 ： 爸 爸 ， 不 累 。	O O O O O O O O O O
+崔 志 佳 ： 不 累 呀 ， 不 累 就 站 着 吧 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+曹 贺 军 ： 这 孩 子 大 了 ， 有 点 累 ， 哪 个 好 心 人 给 我 们 让 个 座 呗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+崔 志 佳 ： （ 使 眼 色 ）	O O O O O O O O O
+乘 客 B ： （ 站 起 ）	O O O O O O O O
+曹 贺 军 ： 你 看 现 在 我 跟 你 说 。	O O O O O O O O O O O O O
+（ 崔 志 佳 、 黄 铭 浩 、 乘 客 B 三 人 轮 流 换 座 位 ）	O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+曹 贺 军 ： 坐 这 儿 也 行 ， 这 好 心 人 呐 ， 这 好 心 人 。 （ 没 座 位 ） 这 孩 子 太 大 了 ， 这 都 要 坚 持 不 住 了 ， 你 们 这 些 大 人 ， 能 不 能 给 抱 小 孩 的 ， 这 个 小 孩 让 个 座 啊 。	O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+乘 客 A ： 爸 爸 ， 爸 爸 。	O O O O O O O O O O
+崔 志 佳 ： 我 们 是 大 人 ？	O O O O O O O O O O
+（ 黄 铭 浩 、 乘 客 B 含 上 奶 嘴 ）	O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+（ 音 乐 ： 我 有 一 个 好 爸 爸 ， 好 爸 爸 ）	O O O O O O O O O O O O O O O O
+曹 贺 军 ： 你 看 这 俩 孩 子 比 他 还 大 呢 ， 咱 俩 从 后 边 找 找 看 后 边 有 座 没 ？	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O
+乘 客 C ： （ 上 车 ） 呀 ， 都 满 了 ， 我 得 想 想 办 法 ， （ 装 孕 妇 ）	O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+（ 音 乐 ： 让 我 的 爱 伴 着 你 直 到 永 远 ， 你 有 没 有 感 觉 到 我 为 你 担 心 ）	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+乘 客 C ： 这 都 九 个 多 月 了 ， 快 生 了 ， 这 也 站 不 住 ， 谁 给 让 让 座 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+崔 志 佳 ： 大 哥 ， 男 的 还 能 怀 孕 呢 ？	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+乘 客 C ： 要 不 说 现 在 医 学 发 达 呢 。 装 这 么 像 都 认 出 我 是 男 的 来 了 ， 凭 啥 呀 ？ 腿 毛 没 刮 ， 下 回 我 得 穿 丝 袜 ， 上 后 面 看 看 座 去 。	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O
+贾 玲 ： （ 上 车 ） 这 公 交 车 上 也 太 挤 了 ， 我 得 想 点 儿 对 策 了 （ 装 扮 老 太 太 ） 大 娘 在 医 院 待 了 四 五 个 小 时 ， 这 两 个 腿 都 发 麻 了 ， 有 没 有 小 伙 子 给 大 娘 让 个 座 啊 ， 哎 呀 ， 这 大 眼 睛 的 小 伙 子 ， 心 地 肯 定 善 良 ， 给 大 娘 让 个 座 呗 ， 是 不 是 小 伙 子 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+乘 客 A ： 是 ， 大 娘 （ 睁 眼 打 呼 噜 ）	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 死 不 瞑 目 就 你 这 样 ， 睁 着 眼 睛 睡 ， 不 亮 啊 ， 大 娘 帮 你 把 灯 关 上 （ 闭 上 乘 客 A 眼 睛 ） 。 哪 个 大 小 伙 子 给 大 娘 让 个 地 儿 啊 ？ 这 大 胡 子 的 小 伙 子 ， 大 胡 子 小 伙 子 ， 给 大 娘 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+崔 志 佳 ： （ 睁 眼 打 呼 噜 ）	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 别 别 别 ， 别 睡 了 ， 这 大 胖 脸 ， 别 睡 啊 ， 给 大 娘 让 个 座 呗 。	O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O
+崔 志 佳 、 黄 铭 浩 ： （ 站 起 ）	O O O O O O O O O O O O
+贾 玲 ： 你 说 现 在 这 小 伙 子 ， 一 让 还 让 俩 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O
+（ 崔 志 佳 、 黄 铭 浩 换 座 位 ）	O O O O O O O O O O O O
+贾 玲 ： 品 德 就 是 ， 一 个 不 如 一 个 。 小 伙 子 ， 小 伙 子 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O
+崔 志 佳 ： （ 看 别 处 ）	O O O O O O O O O
+贾 玲 ： 不 理 我 啊 （ 拽 崔 志 佳 腿 毛 ）	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+崔 志 佳 ： 大 娘 ， 你 干 啥 呢 ？	O O O O O O O O O O O O
+贾 玲 ： 揪 你 毛 。	O O O O O O O
+崔 志 佳 ： 大 娘 怎 么 了 ？	O O O O O O O O O O
+贾 玲 ： 叫 你 呢 ， 哎 呀 ， 大 娘 坐 会 儿 。	O O O O O O O O O O O O O O O O
+崔 志 佳 ： 大 娘 你 想 坐 下 是 吧 ？	O O O O O O O O O O O O O
+贾 玲 ： 对 对 ， 想 坐 。	O O O O O O O O O
+崔 志 佳 ： 那 大 娘 我 扶 您 坐 下 来 。	O O O O O O O O O O O O O O
+贾 玲 ： 你 说 这 小 伙 子 这 品 德 。	O O O O O O O O O O O O O
+崔 志 佳 ： （ 扶 贾 玲 坐 地 上 ）	O O O O O O O O B-Happy I-Happy I-Happy O
+贾 玲 ： 不 是 你 干 啥 ？	O O O O O O O O O
+崔 志 佳 ： 好 嘞 ， 坐 稳 了 大 娘 。	O O O O O O O O O O O O O
+贾 玲 ： 我 这 么 坐 着 我 还 用 你 ， 我 要 在 这 儿 我 还 能 躺 下 呢 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+崔 志 佳 ： 大 娘 ， 我 扶 您 躺 下 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 不 用 了 ， 大 娘 躺 着 凉 啊 ， 小 伙 子 ， 小 伙 子 ， （ 揪 崔 志 佳 腿 毛 ）	O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+崔 志 佳 ： 大 娘 ， 干 啥 ？	O O O O O O O O O O
+贾 玲 ： 小 伙 子 ， 大 娘 坐 这 地 上 ， 它 凉 啊 ， 拔 屁 股 。	O O O O O O O O O O O O O O O O O O O O O O
+崔 志 佳 ： 地 上 凉 是 吧 。	O O O O O O O O O O
+贾 玲 ： 凉 啊 。	O O O O O O
+崔 志 佳 ： 大 娘 我 告 诉 你 ， 你 用 两 只 手 忙 在 屁 股 底 下 ， 就 不 凉 了 。	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O
+贾 玲 ： 那 还 用 你 说 啊 ， 那 大 娘 还 是 站 起 来 吧 。	O O O O O O O O O O O O O O O O O O O O
+崔 志 佳 ： 大 娘 ， 我 扶 您 ， 大 娘 ， 还 是 站 着 舒 服 吧 。	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 比 坐 底 下 舒 服 点 儿 。 小 伙 子 ， 今 天 大 夫 跟 我 说 了 ， 说 大 娘 这 个 腿 脚 不 利 索 ， 病 了 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+崔 志 佳 ： 为 啥 呀 ？	O O O O O O O O
+贾 玲 ： 说 缺 乏 锻 炼 。	O O O O O O O O O
+崔 志 佳 ： 那 你 就 站 着 呗 。	O O O O O O B-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 不 是 ， 你 回 家 锻 炼 ， 在 公 交 车 上 得 坐 着 ， 就 坐 座 位 上 ， 得 坐 着 ！	O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+崔 志 佳 ： 大 娘 ， 我 明 白 了 ， 你 想 坐 在 这 儿 是 吗 ？	O O O O O O O O O O O O O O O O O O O O O
+贾 玲 ： 终 于 明 白 了 。	O O O O O O O O O
+崔 志 佳 ： 我 才 反 应 过 来 ， 你 咋 不 早 说 呢 ， 我 以 为 还 扶 你 坐 地 上 ， 你 不 早 说 我 不 明 白 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 怪 大 娘 了 。	O O O O O O O O
+黄 铭 浩 ： 大 娘 你 得 说 出 来 ， 你 不 说 出 来 ， 我 俩 脑 子 笨 反 应 不 过 来 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+（ 崔 志 佳 、 黄 铭 浩 装 睡 ）	O O O O O O O O B-Happy I-Happy O
+贾 玲 ： 小 伙 子 ， 小 伙 子 ， 那 我 薅 你 呗 。	O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+崔 志 佳 ： （ 把 裤 子 放 下 来 ）	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 你 说 我 薅 谁 呀 ？ 我 这 一 下 。	O O O O O O O O O O O O O O O
+崔 志 佳 ： （ 把 黄 铭 浩 裤 子 卷 上 来 ）	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 坐 中 间 也 行 啊 ， 咱 就 坐 中 间 。	O O O O O O O O O O O O O O O O
+黄 铭 浩 ： （ 把 裤 子 放 下 来 ， 把 乘 客 A 的 裤 子 卷 上 来 ）	O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 旁 边 更 好 。	O O O O O O O O
+（ 黄 铭 浩 、 乘 客 A 互 相 争 执 ）	O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 这 俩 人 掰 腕 子 呢 ， 你 就 别 挣 扎 了 ， 就 薅 你 了 。	O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O
+乘 客 A ： （ 跪 在 地 上 ）	O O O O O B-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 不 是 小 伙 子 ， 你 这 么 坐 着 能 得 劲 吗 ？	O O O O O O O O O O O O O O O O O O O
+乘 客 A ： 有 座 就 行 。	O O O O B-Happy I-Happy I-Happy I-Happy O
+贾 玲 ： 你 说 你 这 啊 ， 这 三 个 人 就 没 一 个 给 大 娘 让 个 座 的 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+（ 急 刹 车 ）	O B-Happy I-Happy I-Happy O
+（ 贾 玲 坐 下 ， 崔 志 佳 站 着 ）	O O O B-Happy I-Happy O O O O O O O
+贾 玲 ： 这 幸 福 来 得 也 太 快 了 。	O O O O O O O O O O O O O
+（ 急 刹 车 ， 调 换 座 位 ， 黄 铭 浩 站 着 ）	O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O
+贾 玲 ： 怎 么 开 的 车 呀 你 这 是 ， 坐 中 间 也 行 。	O O O O O O O O O O O O O O O O O O O
+（ 急 刹 车 ， 调 换 座 位 ， 乘 客 A 站 着 ）	O O O O O O O O O O O O O O O O
+贾 玲 ： 别 再 刹 车 了 啊 ， 再 刹 车 我 也 不 走 啊 ， 我 不 管 啊 。	O O O O O O O O O O O O O O O O O O O O O O O O
+（ 急 刹 车 ， 贾 玲 站 着 ） 。	O O O O O O O O O O O
+贾 玲 ： 这 边 ， 来 吧 ， 来 吧 ， 不 可 能 啊 ， 来 ， 刹 ， 刹 ， 你 怎 么 开 得 这 么 稳 了 呢 ？ 一 下 刹 车 都 没 啦 。	O O O O O O O O O O O O O O O O O O O O O B-Happy O O O O O O O O O O O O O O O O O O O O
+（ 急 刹 车 ）	O O O O O
+贾 玲 ： 来 了 来 了 。	O O O O O O O O
+报 站 员 ： 终 点 站 到 了 ， 请 各 位 乘 客 有 序 下 车 。	O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+崔 志 佳 ： 大 娘 。	O O O O O O O
+崔 志 佳 、 黄 铭 浩 、 乘 客 A ： 您 坐 。	O O O O O O O O O O O O B-Happy I-Happy O
+医 生 ： 快 ！ 坚 持 住 ， 坚 持 住 啊 ， 坚 持 住 ！ 快 ， 现 在 病 人 急 需 大 量 A 型 血 ， 有 没 有 A 型 血 ， 谁 是 A 型 血 ？ 好 好 好 ， 来 太 好 了 ， 来 帮 我 接 一 盆 ， 病 人 的 生 命 就 全 靠 你 了 ， 乐 什 么 接 呀 ， 快 快 快 ， 你 接 好 了 给 我 啊 ， 给 我 送 过 来 。	O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy O O O O O O O O O O O O O O O O O O O
+护 士 1 ： 血 压 1 5 ， 脉 搏 3 1	O O O O O O O O O O O O O
+医 生 ： 快 ， 电 击 ， 别 睡 ， 别 睡 ， 醒 醒 ， 醒 醒 。 想 想 ， 想 想 ， 想 想 想 想 你 最 在 意 的 是 什 么 ？	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+护 士 2 ： 都 什 么 时 候 了 ， 还 想 着 钱 呐 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O
+医 生 ： 不 要 放 弃 啊 ， 不 要 放 弃 ， 不 要 放 弃 ！ 通 知 家 属 吧 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+沈 腾 ： 刚 才 那 盆 儿 在 谁 那 儿 呢 ？ 见 死 不 救 是 吧 ？ 我 现 在 已 经 死 了 ， 内 疚 不 ？ 血 不 献 不 说 ， 还 落 个 盆 ， 拿 着 吧 ， 留 做 个 纪 念 ， 说 不 定 哪 天 晚 上 我 一 高 兴 就 上 你 家 找 你 去 了 。 你 俩 是 干 啥 的 ？	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O
+天 使 ： 我 是 天 使 。	O O O O O O O O
+沈 腾 ： 天 使 ， 你 是 天 使 你 怎 么 没 有 翅 膀 呢 ？	O O O O O O O O O O O O O O O O O O O
+天 使 ： 咋 没 有 呢 ？	O O O B-Happy I-Happy I-Happy I-Happy O
+沈 腾 ： 那 你 就 是 ？	O O O O O O O O
+恶 魔 ： 恶 魔	O O O B-Happy I-Happy
+天 使 ： 先 生 ， 鉴 于 您 是 第 一 次 死 ， 没 什 么 经 验 ， 我 简 单 给 你 介 绍 一 下 死 后 须 知 ， 我 们 首 先 呢 ， 要 做 一 个 问 卷 调 查 ， 如 果 您 是 好 人 ， 您 就 跟 我 走 ， 上 天 堂 ， 如 果 您 是 坏 人 的 话 ， 您 就 … …	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 跟 我 下 去	O O O O O O O
+沈 腾 ： 行 ， 走 吧 ， 不 好 意 思 啊 ， 哥 们 儿 ， 让 你 白 来 一 趟 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 好	O O O O
+天 使 ： 上 哪 儿 去 ？ 我 还 没 问 呢 。	O O O O O O O O O O O O O O
+沈 腾 ： 你 问 吧 。	O O O O O O O
+天 使 ： 您 叫 沈 腾 。	O O O O O O O O
+沈 腾 ： 对	O O O O
+天 使 ： 今 年 3 0 岁 ？	O O O O O O O O O
+沈 腾 ： 对	O O O O
+天 使 ： 未 婚	O O O O O
+沈 腾 ： 对	O O O O
+天 使 ： 您 是 个 小 偷 。	O O O O O O O O O
+沈 腾 ： 我 不 是 小 偷 ， 我 只 是 他 人 财 物 的 搬 运 工 。	O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+恶 魔 ： 不 用 问 了 跟 我 走 吧 。	O O O O O O O O O O O O
+沈 腾 ： 我 跟 你 说 ， 我 是 个 小 偷 不 假 ， 但 是 你 真 的 是 应 该 去 走 访 一 下 ， 我 身 边 的 人 民 群 众 ， 看 看 他 们 是 怎 么 评 价 我 的 ， 你 可 以 问 问 我 爸 ， 我 是 个 大 孝 子 。 爸 ， 你 怎 么 来 了 ？ 无 论 平 时 我 业 务 有 多 忙 ， 我 每 周 至 少 抽 出 一 天 的 时 间 来 陪 他 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+沈 爸 ： 儿 子 啊 ， 你 每 次 回 来 陪 我 ， 在 院 里 一 坐 就 是 一 下 午 ， 我 紧 紧 的 盯 着 你 ， 眼 睛 都 不 眨 一 下 ， 可 我 就 纳 了 闷 了 ， 我 保 险 柜 里 的 养 老 金 怎 么 就 没 了 呢 ， 你 到 底 是 怎 么 偷 走 的 呢 ？ 不 说 了 ， 活 着 没 能 当 个 好 人 ， 死 了 做 个 好 鬼 吧 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+恶 魔 ： 走 吧 ， 别 跟 这 儿 杵 着 了 ， 还 没 看 明 白 吗 ？ 这 是 我 的 菜 。	O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+天 使 ： 我 有 急 事 儿 先 走 了 啊 。	O O O O O O O O O O O O O
+沈 腾 ： 哎 哎 哎 ， 这 这 这 ， 别 太 武 断 好 吗 ？ 这 么 评 价 一 个 人 有 些 片 面 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 大 哥 ， 我 们 下 边 ， 现 在 真 的 是 群 龙 无 首 啊 ， 就 缺 一 个 像 你 这 样 的 大 恶 。	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+天 使 ： 恭 喜 恭 喜 ， 恭 喜 你 找 到 一 个 好 大 哥 ， 我 有 急 事 儿 先 走 了 啊 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+沈 腾 ： 不 是 ， 我 就 不 信 了 ， 还 真 没 一 个 人 来 谢 我 了 。	O O O O O O O O O O O O O O O O O O O O O O O
+尹 艺 夫 ： 好 心 人 ， 谢 谢 呀	O O O O B-Happy I-Happy I-Happy O O O O
+沈 腾 ： 来 的 正 是 时 候 。	O O O O O O O O O O
+尹 艺 夫 ： 感 谢 呀 。	O O O O O O O O
+沈 腾 ： 行 ， 别 整 那 么 多 无 用 功 啦 ， 那 都 那 样 了 还 能 感 冒 是 咋 的 ？	O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+尹 艺 夫 ： 谢 谢 ， 你 可 能 不 认 识 我 ， 但 没 关 系 ， 我 这 回 来 是 专 程 感 谢 你 的 ， 我 家 被 你 偷 的 第 二 天 ， 反 贪 局 就 找 上 门 儿 来 了 ， 他 们 是 这 顿 搜 啊 ， 是 啥 也 没 搜 着 啊 ， 全 被 你 清 空 了 ， 小 兄 弟 呀 ， 后 会 有 期 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O B-Happy I-Happy I-Happy I-Happy O
+恶 魔 ： 这 典 型 也 是 我 的 菜 呀 ， 我 托 个 人 ， 明 儿 就 把 他 给 收 了 。	O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+天 使 ： 你 帮 了 一 个 不 该 帮 的 人 ， 你 这 是 罪 上 加 罪 ， 我 真 有 事 儿 我 先 走 了 ， 好 不 好 ？ 你 不 属 于 我 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 等 会 我 跟 你 一 块 儿 走 。	O O O O O O O O O O O O O
+沈 腾 ： 不 你 干 啥 去 ， 好 歹 你 得 带 我 走 啊 。	O O O O O O O O O O O O O O O O O O
+恶 魔 ： 带 不 了 ， 我 们 下 边 也 是 有 底 线 的 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+小 妹 ： 大 哥 ， 我 们 素 不 相 识 ， 可 你 却 救 了 我 们 全 家 的 命 ， 你 是 我 们 一 家 子 的 救 命 恩 人 谢 谢 你 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 这 俩 人 怎 么 看 怎 么 像 你 花 钱 雇 来 的 呀 。	O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+沈 腾 ： 这 俩 人 是 谁 呀 ， 想 起 来 了 ， 我 说 我 怎 么 没 认 出 来 呢 ， 我 救 她 们 俩 的 时 候 ， 她 们 俩 脸 被 烤 黑 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 什 么 情 况 ？	O O O O O O O O
+沈 腾 ： 就 是 刚 才 的 事 儿 ， 我 本 来 打 算 去 她 们 家 偷 东 西 ， 正 好 赶 上 她 家 着 火 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 然 后 你 就 把 人 救 出 来 了 ？	O O O O O O O O O O O O O O
+沈 腾 ： 然 后 我 就 把 她 家 值 钱 的 东 西 都 搬 出 来 了 ， 后 来 我 想 了 想 ， 顺 便 把 人 也 搬 出 来 吧 ， 之 后 这 姑 娘 就 跟 我 说 ， 她 爸 还 在 里 面 我 就 又 进 去 了 ， 一 把 把 她 爸 给 推 出 来 了 ， 我 就 没 出 来 。	O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+恶 魔 ： 那 你 偷 完 东 西 ， 为 什 么 不 走 ？	O O O O O O O O O O O O O O O O
+沈 腾 ： 我 走 了 ， 他 们 不 就 被 烧 死 了 嘛 。	O O O O O O O O O O O O O O O O O
+恶 魔 ： 可 是 你 把 命 都 搭 进 去 了 值 吗 ？	O O O O O O O O O O O O O O O O
+沈 腾 ： 这 可 能 是 我 这 辈 子 做 的 最 对 的 一 件 事 儿 ， 从 你 们 俩 儿 那 儿 偷 回 来 三 条 人 命 ， 行 了 ， 好 歹 有 过 人 真 心 感 谢 我 ， 这 辈 子 我 也 值 了 ， 我 走 了 ！ 天 使 大 哥 ， 下 辈 子 在 你 那 儿 给 我 留 个 好 位 置 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+大 伟 ： 怎 么 样 啊 ， 妈 ， 媳 妇 ， 两 位 我 生 命 中 最 重 要 的 女 人 ， 对 于 我 今 天 准 备 的 这 桌 菜 是 否 满 意 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 满 意 是 满 意 ， 但 是 这 两 道 菜 外 卖 送 得 要 是 再 快 一 点 就 更 完 美 了 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+大 伟 ： 妈 ， 你 看 你 ， 就 这 两 个 菜 是 外 卖 送 的 ， 那 剩 下 的 菜 不 都 是 我 亲 自 下 楼 买 的 嘛 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 哎 哟 ， 我 这 儿 子 还 撒 上 娇 了 呢 。	O O O O O O O O O O O O O O O O O
+张 小 斐 ： 可 不 嘛 ， 妈 跟 你 开 玩 笑 呢 ， 但 是 该 说 不 说 ， 老 公 ， 今 天 你 辛 苦 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+大 伟 ： 只 要 你 们 两 个 开 心 ， 我 一 点 都 不 辛 苦 。	O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 哎 呀 ， 此 情 此 景 ， 你 爸 爸 要 是 在 那 该 多 好 啊 。	O O O O O O O O O O O O O O O O O O O O O O O
+大 伟 ： 唉 ， 是 啊 ， 要 不 我 进 屋 把 我 爸 叫 起 来 。	O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 别 的 了 ， 让 他 再 睡 会 儿 吧 ， 下 午 喝 太 多 了 。	O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+大 伟 ： 行 ， 那 咱 们 今 天 就 不 等 我 爸 了 ， 咱 们 仨 先 吃 。	O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 哎 呀 ， 老 公 ， 厨 房 是 不 是 还 炖 着 鱼 呢 ， 你 赶 紧 看 看 别 糊 锅 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+大 伟 ： 你 不 说 我 都 给 忘 了 ， 哎 呀 。	O O O O O O O O O O O O O O O
+婆 婆 ： 哎 呀 ， 我 这 儿 子 让 你 指 使 得 像 个 仆 人 一 样 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 怎 么 这 么 说 呢 。	O O O O O O O O O O O O
+婆 婆 ： 上 一 天 班 了 ， 回 来 又 是 收 拾 屋 子 又 是 做 饭 的 ， 别 人 不 心 疼 ， 我 这 当 妈 的 能 不 心 疼 嘛 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 你 要 是 这 么 说 的 话 ， 我 就 冒 昧 地 问 您 一 句 ， 咱 家 这 些 活 不 也 都 是 我 爸 干 的 嘛 ， 您 天 天 就 是 跳 广 场 舞 啊 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 哎 呀 ， 你 竟 然 还 跟 我 顶 嘴 ， 你 怎 么 能 这 么 说 呢 。	O O O O O O O O O O O O O O O O O O O O O O O O
+大 伟 ： 怎 么 了 妈 。	O O O O O O O O
+婆 婆 ： 什 么 叫 鸡 腿 只 能 婆 婆 吃 啊 ， 你 也 吃 。	O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 谢 谢 妈 。	O O O O B-Happy I-Happy I-Happy O
+大 伟 ： 真 好 啊 ， 看 着 你 们 两 个 相 处 得 这 么 融 洽 呀 ， 我 这 心 里 头 好 像 突 然 就 涌 进 了 一 股 暖 流 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 那 肯 定 的 呀 ， 鱼 汤 都 洒 胸 口 上 了 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+大 伟 ： 哎 呀 。	O O O O O O
+张 小 斐 ： 来 来 来 。	O O O O O O O O
+大 伟 ： 我 接 个 电 话 啊 ， 妈 。	O O O O O O O O O O O O
+婆 婆 ： 嗯 。	O O O O O
+大 伟 ： （ 电 话 ） 哎 ， 科 长 ， 啊 ， 行 ， 你 别 动 了 ， 等 着 我 。 妈 ， 媳 妇 ， 我 得 出 去 一 趟 啊 ， 我 们 科 长 找 我 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 这 么 晚 了 还 出 去 。	O O O O O O O O O O O
+张 小 斐 ： 多 累 啊 。	O O O O O O O O
+大 伟 ： 只 要 你 们 两 个 开 心 ， 我 再 累 都 高 兴 。	O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 们 俩 肯 定 是 。	O O O O O O O O O O
+婆 婆 、 张 小 斐 ： 好 开 心 。	O O O O O O O O O O O
+大 伟 ： 走 了 。	O O O O O O
+张 小 斐 ： 注 意 安 全 。	O O O O O O O O O
+婆 婆 ： 慢 点 啊 。	O O O O O O O
+张 小 斐 ： 哎 呀 ， 妈 。	O O O O O O O O O
+婆 婆 ： 嗯 。	O O O B-Happy O
+张 小 斐 ： 你 看 大 伟 都 这 么 累 了 还 总 担 心 咱 俩 ， 你 是 不 是 就 别 总 无 理 取 闹 找 我 事 儿 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 小 斐 ， 我 无 理 取 闹 找 你 事 儿 ， 就 在 刚 才 ， 我 说 我 不 吃 鸡 蛋 ， 你 朝 我 碗 里 夹 了 个 鹌 鹑 蛋 ， 怎 么 的 呢 ， 我 不 吃 鸡 蛋 因 为 鸡 蛋 大 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 ， 我 那 不 是 为 了 在 大 伟 面 前 显 得 温 馨 嘛 。	O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 最 烦 你 这 一 套 了 ， 当 大 伟 面 一 套 ， 当 我 面 一 套 ， 你 这 不 两 面 派 嘛 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 大 伟 回 来 了 。	O O O O O O O O O O
+婆 婆 ： 咱 俩 明 天 吃 米 线 去 啊 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 ， 你 又 何 尝 不 是 呢 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 张 小 斐 你 耍 计 谋 ， 你 说 你 怎 么 这 么 阴 呢 。	O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 不 是 ， 妈 我 什 么 意 思 呢 。	O O O O O O O O O O O O O O O
+婆 婆 ： 你 这 人 怎 么 能 这 样 呢 。	O O O O O O O O O O O O O
+张 小 斐 ： 好 好 好 ， 妈 ， 我 觉 得 大 伟 不 在 也 好 ， 正 好 咱 俩 利 用 这 个 独 处 的 机 会 把 这 么 多 年 的 意 见 都 放 在 桌 面 上 好 好 谈 谈 ， 可 以 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 期 待 已 久 ， 你 年 轻 你 先 说 。	O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O
+张 小 斐 ： 这 一 下 还 给 我 问 蒙 了 ， 主 要 我 这 人 平 时 也 不 记 仇 啊 ， 你 这 么 突 然 问 我 那 就 上 个 月 的 1 6 号 吧 ， 咱 俩 因 为 保 姆 的 事 儿 吵 了 一 架 ， 是 不 是 还 生 我 气 呢 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 你 还 知 道 啊 ， 花 钱 不 说 ， 人 都 知 道 我 跟 你 们 在 一 起 住 ， 你 还 请 个 保 姆 ， 这 要 传 出 去 人 得 怎 么 说 我 这 当 老 婆 婆 的 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 我 雇 保 姆 不 是 怕 你 累 嘛 。	O O O O O O O O O O O O O O O O O
+婆 婆 ： 小 斐 ， 你 是 怕 我 累 啊 还 是 觉 得 我 干 活 邋 遢 呀 。	O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 我 觉 得 你 干 活 邋 遢 是 因 为 累 的 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 张 小 斐 ， 你 要 这 么 说 的 话 ， 你 是 我 见 过 最 不 合 格 的 儿 媳 妇 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 过 了 吧 ， 妈 ， 哪 个 婆 婆 这 么 说 自 己 儿 媳 妇 啊 。	O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 婆 婆 ， 当 年 我 婆 婆 送 给 我 的 话 ， 现 在 我 把 它 送 给 你 。	O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 你 要 对 我 这 么 恶 语 相 向 的 话 ， 那 么 今 天 咱 俩 就 好 好 掰 扯 掰 扯 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 你 不 一 定 是 个 儿 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+爸 爸 ： 哎 呀 我 的 妈 ， 这 一 觉 睡 的 ， 好 像 能 再 睡 一 会 儿 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 你 给 我 回 来 。	O O O O O O O O O
+爸 爸 ： 不 睡 也 行 ， 不 是 ， 又 咋 的 了 你 俩 。	O O O O O O O O O O O O O O O O O O
+婆 婆 ： 评 评 理 。	O O O O O O O
+爸 爸 ： 你 对 。	O O O O O O
+婆 婆 ： 你 给 我 回 来 ， 好 好 说 。	O O O O O O O O O O O O O
+爸 爸 ： 不 是 你 说 你 俩 啊 ， 儿 子 在 家 的 时 候 你 们 俩 装 得 跟 亲 姐 俩 似 的 ， 只 要 儿 子 一 出 门 ， 你 俩 就 开 始 当 我 面 吵 吵 ， 我 就 纳 闷 了 啊 ， 都 是 男 人 ， 你 俩 为 啥 就 可 我 一 个 人 祸 害 呀 ， 再 说 了 ， 三 天 前 你 俩 不 是 刚 吵 完 一 架 嘛 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 所 以 ， 我 忍 她 不 是 一 天 两 天 了 。	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+爸 爸 ： 那 这 回 又 因 为 什 么 。	O O O O O O O O O O O O
+张 小 斐 ： 还 是 因 为 家 里 雇 保 姆 的 事 儿 。	O O O O O O O O O O O O O O O O O
+爸 爸 ： 啊 ， 你 要 说 这 事 儿 那 我 支 持 你 妈 。	O O O O O O O O O O O O O O O O O O
+婆 婆 ： 你 听 听 。	O O O O O O O
+爸 爸 ： 保 姆 必 须 雇 ， 要 不 然 每 天 干 活 太 累 。	O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 开 除 保 姆 。	O O O O O O O O O
+爸 爸 ： 累 那 是 为 了 锻 炼 身 体 ， 保 姆 必 须 开 除 。	O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 爸 ， 我 雇 保 姆 不 是 想 让 你 俩 轻 松 一 点 嘛 。	O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 你 是 觉 得 我 干 活 邋 遢 。	O O O O O O O O O O O O O
+张 小 斐 ： 妈 我 什 么 时 候 觉 得 。 爸 ， 你 说 ， 我 妈 干 活 邋 遢 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O
+爸 爸 ： 要 不 保 姆 咱 就 留 下 呗 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 而 且 吧 ， 咱 家 那 保 姆 工 作 态 度 特 别 好 。	O O O O O O O O O O O O O O O O O O O O O
+爸 爸 ： 对 ， 不 偷 懒 。	O O O O O O O O O
+张 小 斐 ： 饭 做 得 也 好 吃 。	O O O O O O O O O O O
+爸 爸 ： 屋 收 拾 得 还 干 净 。	O O O O O O O O O O O
+张 小 斐 ： 人 品 也 不 错 。	O O O O O O O O O O
+爸 爸 ： 长 得 也 挺 漂 亮 的 小 丫 头 。	O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 必 须 开 除 。	O O O O O O O O
+张 小 斐 ： 爸 ， 你 看 我 妈 总 这 样 。	O O O O O O O O O O O O O O
+婆 婆 ： 我 这 事 儿 我 做 得 就 没 有 错 。	O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 那 我 错 了 吗 。	O O O O O O O O O O O O
+爸 爸 ： 哎 呀 ， 行 了 你 俩 ， 不 是 你 们 俩 能 不 能 考 虑 考 虑 别 人 的 感 受 ， 你 说 你 们 俩 天 天 这 么 吵 谁 最 难 受 ， 儿 子 最 难 受 ， 我 年 轻 的 时 候 就 饱 受 这 种 折 磨 ， 当 时 我 就 想 是 不 以 后 老 了 就 好 了 ， 结 果 现 在 老 了 更 折 磨 ， 要 我 说 你 俩 这 个 事 儿 它 就 不 分 个 对 错 是 吧 ， 你 们 俩 就 应 该 站 在 对 方 的 角 度 来 思 考 问 题 ， 咱 比 如 说 你 现 在 是 儿 媳 妇 ， 你 现 在 是 婆 婆 ， 身 份 互 换 了 ， 针 对 这 个 事 儿 你 们 俩 怎 么 沟 通 ， 来 你 俩 先 换 一 下 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 我 现 在 是 婆 婆 。	O O O O O O O O O O O
+爸 爸 ： 对 。	O O O O O
+婆 婆 ： 我 是 儿 媳 妇 。	O O O O O O O O O
+爸 爸 ： 对 ， 还 是 这 个 事 儿 ， 你 们 俩 站 在 对 方 的 角 度 重 新 沟 通 一 次 ， 来 ， 开 始 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 是 儿 媳 妇 ， 妈 ， 我 错 了 ， 我 这 个 儿 媳 妇 当 得 太 失 败 了 ， 哎 呀 ， 我 自 己 懒 想 雇 保 姆 ， 我 太 猥 琐 了 。	O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 我 这 个 婆 婆 也 不 值 得 人 尊 敬 ， 我 什 么 忙 帮 不 上 我 还 总 说 你 ， 我 简 直 是 龌 龊 至 极 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 我 这 个 儿 媳 妇 值 得 让 所 有 人 来 唾 弃 我 。	O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 我 这 个 婆 婆 就 应 该 被 钉 在 耻 辱 柱 上 。	O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 错 了 。	O O O O O O O
+张 小 斐 ： 我 错 了 。	O O O O O O O O
+婆 婆 ： 我 的 错 。	O O O O O O O
+张 小 斐 ： 我 错 了 。	O O O O O O O O
+婆 婆 ： 你 揪 我 脖 领 打 我 一 顿 吧 。	O O O O O O O O O O O O O O
+张 小 斐 ： 哎 呀 ， 折 煞 我 了 。	O O O O O O O O O O O O
+婆 婆 ： 你 打 我 吧 。	O O O O O O O O
+爸 爸 ： 我 错 了 ， 儿 子 ， 也 到 了 你 该 扛 事 的 年 纪 了 ， 爸 老 了 扛 不 住 了 。	O O O B-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 小 斐 我 就 问 你 ， 这 些 衣 服 成 天 往 沙 发 上 堆 ， 你 看 着 就 不 闹 腾 吗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 咱 家 闹 腾 的 东 西 还 少 吗 ， 就 比 如 说 ， 谁 家 会 在 客 厅 种 大 葱 和 大 蒜 哪 。	O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 我 愿 意 吃 五 花 肉 放 点 儿 蒜 ， 我 自 己 在 客 厅 里 种 点 儿 怎 么 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 你 在 客 厅 里 种 蒜 可 以 ， 但 你 不 能 在 客 厅 里 施 肥 呀 ， 还 是 农 家 肥 。	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O B-Happy I-Happy I-Happy O
+婆 婆 ： 我 那 不 是 省 钱 嘛 ， 我 像 你 似 的 ， 你 看 ， 光 口 红 就 买 了 好 几 十 管 ， 我 是 真 不 知 道 ， 你 长 了 几 张 嘴 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 ， 我 喜 欢 口 红 ， 我 多 买 几 管 怎 么 了 ， 我 也 不 影 响 到 你 ， 妈 ， 你 这 个 思 维 方 式 真 是 让 我 捉 摸 不 透 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 小 斐 ， 提 到 捉 摸 不 透 谁 能 有 你 让 人 捉 摸 不 透 ， 咱 家 是 你 装 修 的 吧 ， 请 问 谁 能 看 出 这 是 一 扇 门 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 这 是 隐 藏 门 ， 走 的 是 简 约 风 。	O O O O O O O O O O O O O O O O O
+婆 婆 ： 真 是 简 约 而 不 简 单 哪 ， 多 少 次 起 夜 我 都 撞 墙 上 了 。	O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 ， 咱 家 这 房 子 住 了 有 半 年 多 了 ， 你 说 你 要 撞 一 次 两 次 还 行 ， 你 要 是 天 天 撞 的 话 有 没 有 考 虑 过 是 自 身 的 问 题 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 你 居 然 这 么 跟 我 说 话 。	O O O O O O O O O O O O O
+张 小 斐 ： 我 是 的 。	O O O O O O O O
+婆 婆 ： 张 小 斐 ， 明 天 咱 俩 吃 米 线 去 。	O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 ， 你 跟 我 用 这 招 儿 ， 好 的 ， 妈 ， 我 想 吃 番 茄 味 儿 的 。	O O O O O O O O O O O O O O B-Happy I-Happy O O O O O O O O O O O O
+婆 婆 ： 行 。 呀 ， 儿 子 回 来 了 。	O O O O O O O O O O O O O
+大 伟 ： 妈 ， 快 ， 给 你 们 介 绍 一 下 。	O O O O O O O O O O O O O O O
+婆 婆 ： 哎 。	O O O O O
+大 伟 ： 这 位 是 我 科 长 ， 这 是 我 妈 跟 我 媳 妇 。	O O O O O O O O O O O O O O O O O O O
+科 长 ： 弟 妹 吧 ， 长 得 真 年 轻 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 这 喝 多 少 酒 啊 ， 都 酒 后 吐 真 言 了 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+科 长 ： 喝 多 了 ， 喝 多 了 ， 喝 多 了 。	O O O O O O O O O O O O O O O
+婆 婆 ： 你 说 你 来 你 就 来 呗 ， 你 还 给 阿 姨 带 什 么 ， 哎 呀 ， 真 文 明 还 吐 袋 里 了 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+科 长 ： 哪 有 厕 所 。	O O O O O O O O
+大 伟 ： 顺 那 个 墙 往 里 推 ， 科 长 ， 这 边 这 边 ， 来 来 来 ， 哎 呀 ， 天 啊 。	O O O O O O O O O O O B-Happy I-Happy O O O O O O O O O O O O O O O O
+张 小 斐 ： 你 们 科 长 怎 么 喝 这 么 多 酒 。	O O O O O O O O O O O O O O O O
+大 伟 ： 哎 呀 ， 别 提 了 ， 我 们 科 长 他 妈 跟 他 媳 妇 吵 起 来 了 ， 我 们 科 长 一 着 急 就 从 家 里 边 跑 了 ， 这 一 路 上 跟 我 是 寻 死 觅 活 的 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 那 怎 么 来 咱 家 了 呢 。	O O O O O O O O O O O O
+大 伟 ： 我 就 安 慰 他 呀 ， 我 说 科 长 啊 ， 你 得 看 开 点 ， 家 家 都 一 样 ， 我 们 家 的 情 况 甚 至 比 你 们 家 更 严 重 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 、 张 小 斐 ： 然 后 呢 。	O O O O O O O O O O O
+大 伟 ： 然 后 他 就 说 要 来 咱 家 看 看 ， 妈 ， 媳 妇 儿 ， 今 天 得 辛 苦 你 们 俩 ， 待 会 儿 当 着 我 科 长 的 面 吵 一 架 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 哎 呀 ， 那 我 们 俩 也 不 会 吵 架 啊 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 啊 ， 明 天 还 准 备 吃 米 线 去 呢 。	O O O O O O O O O O O O O O O O O
+婆 婆 ： 嗯 呢 嗯 呢 。	O O O B-Happy I-Happy I-Happy I-Happy O
+大 伟 ： 我 知 道 你 们 俩 关 系 好 ， 但 实 在 没 办 法 啊 了 ， 救 人 要 紧 ， 待 会 儿 当 着 我 科 长 的 面 吵 一 架 ， 哪 怕 生 硬 点 呢 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 那 就 勉 为 其 难 吧 。	O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 逢 场 作 戏 了 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+大 伟 ： 你 说 你 们 俩 天 天 吵 ， 天 天 吵 ， 今 天 又 因 为 什 么 呀 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 还 能 因 为 什 么 呀 ， 不 因 为 我 雇 个 保 姆 ， 我 妈 非 要 把 她 给 辞 了 嘛 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 能 不 辞 她 嘛 ， 你 看 她 干 活 吗 ， 我 就 问 你 ， 张 小 斐 ， 这 沙 发 上 这 些 个 衣 服 ， 你 打 算 怎 么 办 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 怎 么 办 ， 你 爱 怎 么 办 就 怎 么 办 。	O O O O O O O O O O O O O O O O O O
+婆 婆 ： 爱 怎 么 办 就 怎 么 办 ， 那 既 然 这 样 的 话 ， 我 就 让 它 一 分 两 半 。	O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 ， 你 撕 我 衣 服 是 什 么 意 思 。	O O O O O O O O O O O O O O O O O
+婆 婆 ： 我 也 不 知 道 我 什 么 意 思 ， 可 能 就 是 看 它 不 顺 眼 ， 想 毁 了 它 。	O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 你 要 这 样 的 话 ， 呀 ， 家 里 正 好 来 人 了 ， 那 不 如 让 我 拔 头 蒜 炒 个 菜 吧 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 小 斐 ， 我 那 蒜 还 没 长 熟 呢 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 我 来 帮 它 拔 苗 助 长 吧 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 啊 ， 我 的 五 花 肉 没 有 灵 魂 了 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 让 你 拔 ， 让 你 拔 。	O O O O O O O O O O O O
+婆 婆 ： 张 小 斐 ， 这 是 你 的 香 水 吧 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 啊 ， 妈 ， 这 是 你 的 大 葱 吧 。	O O O O O O O O O O O O O O O O
+婆 婆 ： 你 别 ， 张 小 斐 ， 这 是 你 的 口 红 吧 。	O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 妈 ， 口 红 是 限 量 款 的 。	O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O
+婆 婆 ： 那 我 那 蒜 也 是 独 头 蒜 呐 。	O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 哦 。	O O O O O O
+婆 婆 ： 刚 才 拔 了 我 几 头 蒜 。	O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 我 都 给 你 接 回 去 。	O O O O O O O O O O O O O O
+婆 婆 ： 接 回 去 ， 我 也 给 你 接 回 去 。	O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 我 错 了 ， 口 红 它 是 无 罪 的 呀 。	O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 那 我 那 大 蒜 它 就 犯 法 了 吗 ， 现 在 知 道 错 了 ， 晚 了 ， 连 着 你 这 些 个 口 红 包 括 你 这 扇 门 。	O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 妈 ， 你 要 干 什 么 。	O O O O O O O O O O O O
+婆 婆 ： （ 给 门 上 写 了 个 拆 ） 舒 服 。	O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O
+爸 爸 ： 刚 要 睡 着 你 们 俩 能 不 能 别 吵 了 。	O O O O O O O O O O O O O O O O O
+婆 婆 ： 回 去 。	O O O O O O
+爸 爸 ： 好 嘞 ， 哎 。	O O O B-Happy I-Happy O O O
+科 长 ： 那 个 ， 那 个 ， 大 家 都 消 消 气 ， 不 管 怎 么 说 ， 加 上 这 个 字 ， 这 门 也 算 是 值 钱 了 ， 大 伟 ， 之 前 不 知 道 ， 看 到 你 家 这 种 情 况 我 心 里 舒 服 多 了 ， 大 伟 ， 你 也 不 容 易 ， 家 吵 成 这 样 ， 每 天 还 为 工 作 在 单 位 笑 脸 相 迎 ， 你 心 真 大 呀 ， 但 是 我 得 感 谢 你 ， 经 历 过 这 场 战 争 让 我 彻 底 清 醒 了 ， 阿 姨 ， 弟 妹 ， 我 说 两 句 ， 我 觉 得 别 吵 了 ， 其 实 家 里 有 些 事 也 可 以 通 过 报 警 来 解 决 ， 望 采 纳 ， 走 了 大 伟 。 （ 唱 ） 甜 蜜 的 生 活 甜 蜜 的 生 活 无 限 好 喽 喂 。	O O O O O O B-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O
+大 伟 ： 妈 ， 媳 妇 儿 ， 有 你 们 真 好 ， 爱 你 们 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+张 小 斐 ： 那 个 ， 妈 。	O O O O O O O O O
+婆 婆 ： 啊 。	O O O O O
+张 小 斐 ： 刚 才 咱 俩 配 合 得 不 错 。	O O O O O O O O O O O O O O
+婆 婆 ： 挺 好 ， 你 挺 解 气 ， 我 那 些 蒜 拔 不 少 。	O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy O
+张 小 斐 ： 你 更 解 气 ， 我 那 口 红 也 让 你 撅 得 差 不 多 了 。	O O O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 妈 这 戏 瘾 一 上 来 吧 有 点 没 搂 住 ， 其 实 我 一 直 幻 想 这 么 跟 你 吵 一 架 ， 你 说 今 天 真 吵 了 吧 ， 心 里 还 真 是 有 点 儿 不 舒 服 。	O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 哎 ， 妈 。	O O O O O O O O
+婆 婆 ： 啊 。	O O O O O
+张 小 斐 ： 你 上 次 跟 人 这 么 吵 架 是 什 么 时 候 。	O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 哎 哟 ， 那 得 是 十 几 年 前 了 吧 ， 跟 大 伟 他 奶 奶 ， 哎 呀 ， 但 那 次 我 们 俩 吵 完 架 以 后 俩 人 关 系 变 得 可 好 了 。	O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O O O O O O O O O O O O O O O O O O O O O O O O O
+张 小 斐 ： 那 照 你 这 么 说 ， 咱 俩 这 架 还 吵 对 了 呗 。	O O O O O O O O O O O O O O O O O O O O O
+婆 婆 ： 吵 对 了 ， 吵 对 了 ， 一 家 人 嘛 ， 吵 架 不 怕 ， 只 要 心 在 一 起 ， 吵 吵 闹 闹 也 是 家 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Happy I-Happy I-Happy I-Happy I-Happy I-Happy I-Happy O
+张 小 斐 ： 妈 说 得 对 ， 妈 ， 走 啊 。	O O O O O O O O O O O O O O
+婆 婆 ： 干 吗 去 。	O O O O O O O
+张 小 斐 ： 我 请 你 吃 米 线 去 。	O O O O O O O O O O O O
+婆 婆 ： 行 。	O O O B-Happy O

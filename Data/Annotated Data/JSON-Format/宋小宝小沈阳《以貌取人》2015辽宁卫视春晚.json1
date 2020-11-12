@@ -1,0 +1,220 @@
+{"id": 704, "text": "宋晓峰：你好，这位旅客，把手抬起一下。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 705, "text": "赵海燕：啥意思啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 706, "text": "宋晓峰：把手抬一下，例行检查。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 707, "text": "赵海燕：哎呀，不就是安检嘛，查吧，仔细查查，好好搜搜，后边，左边，右边，我这还有身份证，89年的人呢？89年的，上边还有家庭住址，要不要电话号啊？", "meta": {}, "annotation_approver": null, "labels": [[14, 16, "Happy"], [30, 32, "Happy"], [48, 50, "Happy"], [65, 72, "Happy"]]}
+{"id": 708, "text": "宋小宝：前边的不那么磨叽行不？", "meta": {}, "annotation_approver": null, "labels": [[7, 14, "Happy"]]}
+{"id": 709, "text": "赵海燕：吵吵啥啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 710, "text": "宋小宝：干啥？查户口呢呀？", "meta": {}, "annotation_approver": null, "labels": [[7, 12, "Happy"]]}
+{"id": 711, "text": "赵海燕：那着急你飞过去呀", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 712, "text": "宋晓峰：保管好你的贵重物品啊，过去吧", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 713, "text": "赵海燕：谢谢", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 714, "text": "宋晓峰：下一个", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 715, "text": "小沈阳：素质", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"]]}
+{"id": 716, "text": "宋晓峰：：过。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 717, "text": "宋小宝：真是的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 718, "text": "宋晓峰：站这，过来，站这，站这。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"]]}
+{"id": 719, "text": "宋小宝：干啥啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 720, "text": "宋晓峰：过来，手抬起来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 721, "text": "宋小宝：啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 722, "text": "宋晓峰：手抬起来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 723, "text": "宋小宝：干啥啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 724, "text": "宋晓峰：抬手，检查，抬手，抬高点，再高点", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "Happy"]]}
+{"id": 725, "text": "（宋小宝怕痒，大笑）", "meta": {}, "annotation_approver": null, "labels": [[7, 9, "Happy"]]}
+{"id": 726, "text": "宋小宝：哎，别闹啊，我浑身全痒痒肉。", "meta": {}, "annotation_approver": null, "labels": [[13, 17, "Happy"]]}
+{"id": 727, "text": "宋晓峰：别笑。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 728, "text": "宋小宝：给", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 729, "text": "宋晓峰：别笑。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 730, "text": "宋小宝：别这么整，你换下一项，你搜搜身得了。", "meta": {}, "annotation_approver": null, "labels": [[16, 21, "Happy"]]}
+{"id": 731, "text": "宋晓峰：鞋脱了。", "meta": {}, "annotation_approver": null, "labels": [[4, 7, "Happy"]]}
+{"id": 732, "text": "宋小宝：啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 733, "text": "宋晓峰：鞋，鞋脱了。", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "Happy"]]}
+{"id": 734, "text": "宋小宝：脱鞋干啥啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 735, "text": "宋晓峰：鞋底太厚，怕有夹层，脱鞋。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 736, "text": "宋小宝：就有个内增高。", "meta": {}, "annotation_approver": null, "labels": [[5, 10, "Happy"]]}
+{"id": 737, "text": "宋晓峰：哎呀，穿上吧，这味儿太大，身份证。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"], [12, 16, "Happy"]]}
+{"id": 738, "text": "宋小宝：身份证，干啥呀？我实名制买的票，要不能进来吗？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 739, "text": "宋晓峰：对，还有车票，拿出来看看。", "meta": {}, "annotation_approver": null, "labels": [[7, 10, "Happy"]]}
+{"id": 740, "text": "宋小宝：别闹了，前边唰唰往里进，到我班这怎么又脱鞋，又身份证，又检票的，干啥啊？", "meta": {}, "annotation_approver": null, "labels": [[36, 39, "Happy"]]}
+{"id": 741, "text": "宋晓峰：你能不能不喊，能不能不喊，注意点素质，大伙都瞅着呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 742, "text": "宋小宝：吓唬谁呢？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 743, "text": "宋晓峰：公共场所。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 744, "text": "宋小宝：谁瞅我了，谁瞅我了，谁瞅我了。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "Happy"], [14, 18, "Happy"]]}
+{"id": 745, "text": "赵海燕：哎呀妈呀，就那吵吵巴火的谁看不着哇。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 746, "text": "小沈阳：你的身高和你的声高不成比例呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 747, "text": "赵海燕：哎呀，长那么磕碜，还老吵吵巴还净事儿。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 748, "text": "宋小宝：我吃你们家咸盐了，我还是用你家WIFI了？干啥呀？", "meta": {}, "annotation_approver": null, "labels": [[16, 24, "Happy"]]}
+{"id": 749, "text": "宋晓峰：告诉你呀，别惹事啊，别惹事听见没有？身份证看看，快点。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 750, "text": "宋小宝：这事真多，哎呀我的妈呀，我就没见过这么多事的，给。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 751, "text": "宋晓峰：哎不是，你这身份证有毛病啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 752, "text": "宋小宝：咋的了？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 753, "text": "宋晓峰：这咋还把你职业给写上了呢？", "meta": {}, "annotation_approver": null, "labels": [[9, 16, "Happy"]]}
+{"id": 754, "text": "宋小宝：啥职业呀？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 755, "text": "宋晓峰：这不，支毛衣", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 756, "text": "宋小宝：哎呀，我的名，我姓支，叫支毛衣。我妈为了给我温暖，给我起了这么温暖的名字。", "meta": {}, "annotation_approver": null, "labels": [[15, 19, "Happy"], [35, 40, "Happy"]]}
+{"id": 757, "text": "宋晓峰：这名起得还支毛衣，那你哥叫支毛裤哇？", "meta": {}, "annotation_approver": null, "labels": [[16, 21, "Happy"]]}
+{"id": 758, "text": "宋小宝：对呀，我姐叫支围脖嘛。", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "Happy"]]}
+{"id": 759, "text": "赵海燕：哎呀我的天呐，这家长有太有才了，光起那名都大窟窿小眼子的。", "meta": {}, "annotation_approver": null, "labels": [[24, 32, "Happy"]]}
+{"id": 760, "text": "小沈阳：你这小样是洗缩水了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 761, "text": "赵海燕：嗯，还起球呢，八成还得起静电呢，咔咔的。", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "Happy"]]}
+{"id": 762, "text": "宋小宝：不是，行不行啊？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 763, "text": "宋晓峰：过去吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 764, "text": "宋小宝：我告诉你啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 765, "text": "宋晓峰：走吧。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"]]}
+{"id": 766, "text": "宋小宝：你别看我长得小。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 767, "text": "宋晓峰：走吧，人总会学着慢慢长大，走吧。", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "Happy"]]}
+{"id": 768, "text": "宋小宝：哎呀我天呐。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 769, "text": "赵海燕：烦人。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 770, "text": "宋小宝：哎呀，跟谁俩呢。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"]]}
+{"id": 771, "text": "（小沈阳偷偷拔掉了赵海燕的耳机插头）", "meta": {}, "annotation_approver": null, "labels": [[4, 17, "Happy"]]}
+{"id": 772, "text": "赵海燕：烦人。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 773, "text": "宋小宝：那什么，我感冒了，你注点意啊注点意。", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "Happy"]]}
+{"id": 774, "text": "赵海燕：我知道了，我挺注意你的。", "meta": {}, "annotation_approver": null, "labels": [[10, 15, "Happy"]]}
+{"id": 775, "text": "（小沈阳开始偷手机了）", "meta": {}, "annotation_approver": null, "labels": [[4, 10, "Happy"]]}
+{"id": 776, "text": "宋小宝：大河向东流啊，天上的星星参北斗哇。", "meta": {}, "annotation_approver": null, "labels": [[4, 10, "Happy"]]}
+{"id": 777, "text": "赵海燕：你有病，你有病啊，你有病啊，我刚一睡着，这给我吓得。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 778, "text": "宋小宝：姐呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 779, "text": "赵海燕：你跟谁叫姐呢呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 780, "text": "宋小宝：老妹啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 781, "text": "赵海燕：你恶心不。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 782, "text": "宋小宝：亲呐。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 783, "text": "赵海燕：你欠削哇。", "meta": {}, "annotation_approver": null, "labels": [[5, 8, "Happy"]]}
+{"id": 784, "text": "宋小宝：不是，我想告诉你什么呢，这火车站太大。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 785, "text": "赵海燕：对呀，林子大了啥鸟都有，有喜鹊，有乌鸦，还有老鹰，以为自己是黄鹂鸟呢对不对？车站好声音呐，等着姐给你转身呢吧，对不对呀？", "meta": {}, "annotation_approver": null, "labels": [[59, 63, "Happy"]]}
+{"id": 786, "text": "宋小宝：哎呀我的妈呀。姐，我看你睡着了，我想勾引你一下。", "meta": {}, "annotation_approver": null, "labels": [[21, 27, "Happy"]]}
+{"id": 787, "text": "赵海燕：哎呀我的妈呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 788, "text": "宋小宝：不是不是，我想指引。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 789, "text": "赵海燕：你听着没？你听着没？不怕贼偷，就怕贼惦记呀。就姐长这如花似玉的模样，对你们这些什么蜂啊蝶啊，能没有点防范措施吗？看看这是啥？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 790, "text": "宋小宝：哎呀，哎呀妈呀，哎呀哎呀。", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "Happy"]]}
+{"id": 791, "text": "赵海燕：防狼喷雾。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 792, "text": "宋小宝：啥也看不见了，洗手间搁哪呢呀？哎呀，洗手间在哪儿呢呀？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 793, "text": "（小沈阳偷了赵海燕放在凳子上的手机。宋小宝下台）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 794, "text": "赵海燕：小样儿，我治不了他。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 795, "text": "小沈阳：真厉害。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 796, "text": "赵海燕：亲，你咋样。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 797, "text": "小沈阳：我挺好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 798, "text": "赵海燕：看着没？就这个类型耍流氓，大张旗鼓的，一般耍流氓都蔫悄的。", "meta": {}, "annotation_approver": null, "labels": [[28, 32, "Happy"]]}
+{"id": 799, "text": "小沈阳：我帮你揍他去。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 800, "text": "赵海燕：用不着，没看姐都已经把他摆平了吗？坐，其实，我就是想知道，你有没有被震到哦。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 801, "text": "小沈阳：震到什么？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 802, "text": "赵海燕：耳朵。", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"]]}
+{"id": 803, "text": "小沈阳：什么玩意？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 804, "text": "赵海燕：耳朵眼子。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "Happy"]]}
+{"id": 805, "text": "小沈阳：姐你放心，你没有震到我。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 806, "text": "赵海燕：哎呀，都什么年代了，叫姐多老土啊，现在都叫亲。亲，我们都是好朋友了，那我们加一下微信，摇一摇哇。", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "Happy"], [47, 51, "Happy"]]}
+{"id": 807, "text": "小沈阳：现在用微信太俗气了，我给你留个电话号码吧，我喜欢这个。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 808, "text": "赵海燕：还是文艺青年。", "meta": {}, "annotation_approver": null, "labels": [[5, 10, "Happy"]]}
+{"id": 809, "text": "小沈阳：当全世界都在用黑体字的时候，哥喜欢用狂草。", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "Happy"]]}
+{"id": 810, "text": "赵海燕：哎呦我，字如其人，太狂了，姐的心跟着你哐哐的。哎，你是大夫吧？", "meta": {}, "annotation_approver": null, "labels": [[4, 7, "Happy"], [23, 26, "Happy"]]}
+{"id": 811, "text": "小沈阳：我跟大夫使的工具差不多。", "meta": {}, "annotation_approver": null, "labels": [[8, 15, "Happy"]]}
+{"id": 812, "text": "赵海燕：亲，既然我们都这么熟了，又聊得来，不如我们去喝杯咖啡？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 813, "text": "小沈阳：赶时间。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 814, "text": "赵海燕：那好吧，一定要记住铃铃哦。", "meta": {}, "annotation_approver": null, "labels": [[11, 16, "Happy"]]}
+{"id": 815, "text": "（赵海燕哼唱下台）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 816, "text": "小沈阳：神经病啊", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 817, "text": "（宋小宝上台）", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "Happy"]]}
+{"id": 818, "text": "宋小宝：哎呀妈，这眼睛给我喷的，里边生姜片子，辣根那味，全出来啦，它这玩意真有劲呐。这是我原来坐那地方不？", "meta": {}, "annotation_approver": null, "labels": [[23, 27, "Happy"]]}
+{"id": 819, "text": "（小沈阳晃动赵海燕的手机，被宋小宝认出来了）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 820, "text": "小沈阳：要我说你呀，就带那挨喷的样，你瞅你长那个样他就，他就带着挨喷的样。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 821, "text": "宋小宝：哎，刚才喷我那姐呢？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 822, "text": "（小沈阳吹口哨准备离开）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 823, "text": "宋小宝：喂，喂，啊，不好意思啊，眼睛喷了，看不清人现在，那两万块钱呐，在我兜揣着呢，没事，丢不了，丢了就当丢零花钱了，咱家不差钱。没事，没事，你放心吧，一会儿到地了我给你打电话啊，行，我躺着我迷糊一会儿，有点困，好了，再见。哎呀，钱就在这个兜里，迷糊一会儿，就在这个兜里，钱。", "meta": {}, "annotation_approver": null, "labels": [[49, 58, "Happy"], [61, 64, "Happy"], [116, 122, "Happy"], [129, 135, "Happy"]]}
+{"id": 824, "text": "（宋小宝装睡，小沈阳偷钱）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 825, "text": "宋小宝：小偷，哎呀哎呀，哎呀妈呀，别动，小偷。", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "Happy"]]}
+{"id": 826, "text": "小沈阳：你松开我", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 827, "text": "宋小宝：小偷，抓小偷。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 828, "text": "小沈阳：你松开我，松开我。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 829, "text": "宋小宝：抓小偷。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 830, "text": "赵海燕：你耍流氓。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 831, "text": "宋小宝：抓小偷。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 832, "text": "赵海燕：耍流氓", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 833, "text": "宋小宝：抓小偷。", "meta": {}, "annotation_approver": null, "labels": [[4, 7, "Happy"]]}
+{"id": 834, "text": "小沈阳：撒开。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 835, "text": "赵海燕：耍流氓。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 836, "text": "宋小宝：抓小偷。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 837, "text": "小沈阳：撒开。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 838, "text": "（宋晓峰上台）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 839, "text": "宋晓峰：咋回事？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 840, "text": "赵海燕：抓流氓。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 841, "text": "宋小宝：抓小偷。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 842, "text": "小沈阳：撒开。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 843, "text": "宋晓峰：咋回事？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 844, "text": "赵海燕：抓流氓。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 845, "text": "宋小宝：抓小偷。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 846, "text": "小沈阳：撒开。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 847, "text": "宋晓峰：咋回事？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 848, "text": "赵海燕：别问咋回事，赶紧整啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 849, "text": "宋晓峰：松手。蹲下。不是，我没说你们两口子蹲下。我说让你蹲下，我刚才跟你说啥了，让你不让惹事，不惹事，你怎么还跟人打架呢？", "meta": {}, "annotation_approver": null, "labels": [[14, 23, "Happy"]]}
+{"id": 850, "text": "宋小宝：不是，小偷。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 851, "text": "赵海燕：他偷你啥了？偷你啥了？", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "Happy"]]}
+{"id": 852, "text": "宋小宝：哎呀，姐呀，他没偷我啥，你看看你啥丢了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 853, "text": "赵海燕：我啥也没丢啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 854, "text": "宋小宝：手机。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 855, "text": "赵海燕：我手机在我这儿。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 856, "text": "宋小宝：在哪呢？这啥，当啷当啷的在哪呢？", "meta": {}, "annotation_approver": null, "labels": [[11, 19, "Happy"]]}
+{"id": 857, "text": "赵海燕：哎呀，亲，我手机呢？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 858, "text": "小沈阳：你手机在他那儿呢呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 859, "text": "赵海燕：你还我手机，给我手机。", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "Happy"]]}
+{"id": 860, "text": "宋小宝：我没有。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 861, "text": "小沈阳：你有，刚才我看你用打电话来着。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 862, "text": "宋小宝：我用打电话人是我自己的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 863, "text": "赵海燕：哎呀这不就是我的吗？你看它这是我的，哎呀，你看我还能插进去，我还能拔出来，这就是我的，就是我的。", "meta": {}, "annotation_approver": null, "labels": [[42, 46, "Happy"]]}
+{"id": 864, "text": "宋晓峰：刚才你说你没有啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 865, "text": "赵海燕：对，你说你没有了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 866, "text": "宋小宝：我说我没有拿你的手机。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 867, "text": "赵海燕：就你那小样的，一开始吧，我以为你是奔着我的人来的呢，没承想是奔着我的手机来的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 868, "text": "宋小宝：我奔你手机干啥呀？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 869, "text": "赵海燕：哎呀，那你那意思就是奔着我这人来的呗。亲，你什么想法？太过分了。你竟然用这种卑劣的手段。拉近你我之间的距离，对不？", "meta": {}, "annotation_approver": null, "labels": [[14, 22, "Happy"], [31, 35, "Happy"]]}
+{"id": 870, "text": "宋小宝：哎呀姐，你哪来那么大自信呐你，就把你和手机摆一块，我拿手机，我不拿你呀。", "meta": {}, "annotation_approver": null, "labels": [[13, 18, "Happy"], [35, 39, "Happy"]]}
+{"id": 871, "text": "小沈阳：哎。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 872, "text": "宋小宝：哎呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 873, "text": "赵海燕：哎呀，你不光长得磕碜，你说话也难听。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 874, "text": "小沈阳：怎么样？让我给诈出来了吧，来，跟我上派出所啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 875, "text": "宋晓峰：别动，送派出所也得我送啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 876, "text": "赵海燕：亲，给你个赞，世界上像你这样的人泛滥起来，我们的世界就好啦。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 877, "text": "宋小宝：哎呀，就完啦。", "meta": {}, "annotation_approver": null, "labels": [[7, 10, "Happy"]]}
+{"id": 878, "text": "宋晓峰：等会儿啊，不对，有点懵。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 879, "text": "宋小宝：你懵就对了，我清醒啊，哎呀妈呀，大哥你第一了你呀，你英明啊你呀，姐，你看咱捋一下子啊，我帮你好好捋一下子，你想啊，如果我偷了你的手机，我抱他腿干啥呀？", "meta": {}, "annotation_approver": null, "labels": [[72, 78, "Happy"]]}
+{"id": 880, "text": "赵海燕：对啊，我得想一想啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 881, "text": "小沈阳：你想啥呀？明摆着就他偷的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 882, "text": "赵海燕：哎，我知道了，原来是你。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 883, "text": "宋小宝：对。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 884, "text": "赵海燕：他想跟我抢你。", "meta": {}, "annotation_approver": null, "labels": [[5, 10, "Happy"]]}
+{"id": 885, "text": "宋小宝：哎呀，我的妈呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 886, "text": "小沈阳：对对，对对对。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 887, "text": "宋晓峰：松手松手。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 888, "text": "宋小宝：大伙听我说句话行不行？我跟你们解释一下，我跟这个手机之间，到底存在着一种什么样的关系。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 889, "text": "赵海燕：对呀，你说说，你跟手机之间存在什么关系？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 890, "text": "宋小宝：我和这手机是原配。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 891, "text": "（宋小宝抢走手机，众人去追。）", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "Happy"]]}
+{"id": 892, "text": "宋晓峰：拿来，站住。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 893, "text": "赵海燕：我手机。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 894, "text": "宋小宝：密码我都能解开，2578。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 895, "text": "赵海燕：亲，你快帮我截他。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 896, "text": "宋小宝：里边有微博，有我的微信。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 897, "text": "赵海燕：还我手机。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 898, "text": "宋小宝：最重要的我给它恢复出厂设置，走你。", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "Happy"]]}
+{"id": 899, "text": "小沈阳：多狡猾，出厂设置一恢复的话，就不知道是谁的手机了。", "meta": {}, "annotation_approver": null, "labels": [[19, 28, "Happy"]]}
+{"id": 900, "text": "赵海燕：啊，我刚P好的三万多张照片，我还指着它找对象呐。还我手机，还我手机。", "meta": {}, "annotation_approver": null, "labels": [[20, 27, "Happy"], [28, 32, "Happy"]]}
+{"id": 901, "text": "宋晓峰：下来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 902, "text": "宋小宝：你哭啥呀？我这手机这一下成砖了，不能用了。", "meta": {}, "annotation_approver": null, "labels": [[20, 24, "Happy"]]}
+{"id": 903, "text": "（赵海燕的手机响起，小沈阳给了赵海燕）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 904, "text": "小沈阳：找你的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 905, "text": "赵海燕：哎呀，原来是你。", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "Happy"]]}
+{"id": 906, "text": "（小沈阳被抓）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 907, "text": "宋小宝：哎呀，我一猜就是你呀，你这个小犊子，这家把我害的呀，这家把我打的，臭不要脸的。", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "Happy"], [24, 29, "Happy"]]}
+{"id": 908, "text": "宋晓峰：起来，让开，我来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 909, "text": "宋小宝：快，就是他。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 910, "text": "宋晓峰：原来是你小子。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 911, "text": "宋小宝：朋友们看没看着，看没看着，他们以貌取人呐，就是他，该，活该。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 912, "text": "宋晓峰：走。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 913, "text": "（小沈阳被宋晓峰带走）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 914, "text": "宋小宝：哎呀哎呀，衣冠禽兽。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 915, "text": "小沈阳：别打我脑瓜子。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 916, "text": "宋小宝：你栽赃嫁祸。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 917, "text": "赵海燕：对。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 918, "text": "宋小宝：不是好人。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 919, "text": "赵海燕：对，你是车站好声音，姐都为你转身了。原以为，林子大了什么鸟都有，有喜鹊，有乌鸦，还有黄鹂鸟，我就没承想，你这一只小小的耗子，竟然干出了猫头鹰那么大的事儿。", "meta": {}, "annotation_approver": null, "labels": [[57, 65, "Happy"], [71, 80, "Happy"]]}
+{"id": 920, "text": "宋小宝：我长得就惹事啊。", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "Happy"]]}
+{"id": 921, "text": "赵海燕：但，你不差事儿。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 922, "text": "宋小宝：哎呀，听着真得劲儿，亲姐呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 923, "text": "赵海燕：把姐去掉，叫亲。", "meta": {}, "annotation_approver": null, "labels": [[9, 11, "Happy"]]}

@@ -1,0 +1,81 @@
+{"id": 3459, "text": "张小斐：大家好，我叫小斐。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3460, "text": "蒋诗萌：大家好，我叫诗萌。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3461, "text": "张小斐：下面由我们为大家讲讲我们的故事。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3462, "text": "蒋诗萌：对，就是俩女孩之间的那些事。", "annotations": [{"label": 12, "start_offset": 8, "end_offset": 17, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3463, "text": "张小斐：她，是我最好的闺蜜。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3464, "text": "蒋诗萌：她，是我最好的姐妹儿。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3465, "text": "张小斐：我结婚那天，她给我当伴娘，因为把舞台给踩塌了，她成了全场的焦点。", "annotations": [{"label": 12, "start_offset": 22, "end_offset": 26, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3466, "text": "蒋诗萌：我结婚那天，没敢请她当伴娘，就怕我俩同台，再把悲剧重演。", "annotations": [{"label": 12, "start_offset": 25, "end_offset": 31, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3467, "text": "张小斐：岁月如梭，婚后的生活慢慢的也就归于了平淡。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3468, "text": "蒋诗萌：时光荏苒，我家那口子对我，也少了些许的浪漫。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3469, "text": "张小斐：最近，我发现我越来越爱吐了，而且，总是吐完还想吐。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3470, "text": "蒋诗萌：最近，我发现我越来越能吃了，而且是吃完还想吃。", "annotations": [{"label": 12, "start_offset": 21, "end_offset": 26, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3471, "text": "张小斐：诗萌，你可能真的要当干妈了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3472, "text": "蒋诗萌：小斐啊，我可能真要当妈了。", "annotations": [{"label": 12, "start_offset": 11, "end_offset": 16, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3473, "text": "张小斐：拿着怀孕的化验单，我幸福的对老公说，我有了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3474, "text": "蒋诗萌：拿着医院的化验单，我兴奋的对老公说，死鬼，你行啊!", "annotations": [{"label": 12, "start_offset": 25, "end_offset": 28, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3475, "text": "张小斐：第一个月，想到肚子里的孩子。我紧张极了。心里总是莫名的慌张。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3476, "text": "蒋诗萌：第一个月，我想着，怀着老公的小宝宝。我更兴奋了，把零食塞满了冰箱。", "annotations": [{"label": 12, "start_offset": 28, "end_offset": 36, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3477, "text": "张小斐：三个月了，胃口还是不好。什么好吃的都吃不了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3478, "text": "蒋诗萌：三个月了，把家都吃穷了。一天六顿都吃不饱。", "annotations": [{"label": 12, "start_offset": 9, "end_offset": 15, "user": 1}, {"label": 12, "start_offset": 20, "end_offset": 24, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3479, "text": "张小斐：第九个月，路上遇到老同学。你怀孕了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3480, "text": "蒋诗萌：第九个月，商场碰到老领导，你又胖了。", "annotations": [{"label": 12, "start_offset": 17, "end_offset": 21, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3481, "text": "张小斐：我不好意思的笑了笑，早就怀孕了，你不知道。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3482, "text": "蒋诗萌：我没好气的喊了一嗓子，老娘怀孕了，你知不知道。", "annotations": [{"label": 12, "start_offset": 15, "end_offset": 20, "user": 1}, {"label": 12, "start_offset": 22, "end_offset": 26, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3483, "text": "张小斐：快生了，做化验。做B超的医生对我说，孩子长的真像你，真爱笑。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3484, "text": "蒋诗萌：快生了，做化验。医生在我的肚子上比划了半天，说肉太厚了，孩子没找着。", "annotations": [{"label": 12, "start_offset": 34, "end_offset": 37, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3485, "text": "张小斐：生产的那一天，我对医生说，我想剖腹产，以免身材走样。医生跟我说自己生吧，这样健康。。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3486, "text": "蒋诗萌：生产的那天，我对医生说，我不怕生产走样，我要自己生。医生说，你肉太厚，剖腹产想都别想。", "annotations": [{"label": 12, "start_offset": 25, "end_offset": 29, "user": 1}, {"label": 12, "start_offset": 42, "end_offset": 46, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3487, "text": "张小斐：家人把我推出手术室，都乐坏了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3488, "text": "蒋诗萌：家人把我抬出手术室，都累坏了。", "annotations": [{"label": 12, "start_offset": 14, "end_offset": 18, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3489, "text": "张小斐：老公望着虚弱的我说，老婆，你真棒。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3490, "text": "蒋诗萌：我望着比我虚弱的老公说，你看你那熊样。", "annotations": [{"label": 12, "start_offset": 7, "end_offset": 15, "user": 1}, {"label": 12, "start_offset": 18, "end_offset": 22, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3491, "text": "张小斐：自从有了小宝宝，我和老公没有睡过一天的安稳觉。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3492, "text": "朱天福：媳妇儿，你快看，孩子是不是又饿了。", "annotations": [{"label": 12, "start_offset": 8, "end_offset": 11, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3493, "text": "张小斐：烦死了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3494, "text": "蒋诗萌：自从有了我家大宝贝，我老公成宿成宿睡不着。老公，孩子是不是又饿了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3495, "text": "何欢：那咋办啊？我也没奶啊。", "annotations": [{"label": 12, "start_offset": 9, "end_offset": 13, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3496, "text": "朱天福：看这孩子像不像我？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3497, "text": "张小斐：嗯，像你。白。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3498, "text": "何欢：你说这孩子长的像谁呢？", "annotations": [{"label": 12, "start_offset": 8, "end_offset": 13, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3499, "text": "蒋诗萌：像你呗。傻。", "annotations": [{"label": 12, "start_offset": 8, "end_offset": 9, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3500, "text": "张小斐：孩子的名字还没起。我跟他都没有主意。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3501, "text": "朱天福：你跟诗萌那么好，要不孩子就叫萌萌吧。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3502, "text": "张小斐：嗯。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3503, "text": "蒋诗萌：咱家孩子还不知道叫啥呢？你想想啊。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3504, "text": "何欢：你跟小斐关系那么好，要不然咱家孩子就叫大壮。", "annotations": [{"label": 12, "start_offset": 22, "end_offset": 24, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3505, "text": "蒋诗萌：好。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3506, "text": "朱天福：大壮他爸，看我家孩子，长的像不像我。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3507, "text": "何欢：真像，脸蛋特别像。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3508, "text": "张小斐：就这样我们从少女变成了少妇的生活。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3509, "text": "蒋诗萌：虽然每天的生活很单调，但是也充满了欢笑。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3510, "text": "张小斐：老公，萌萌是不是又饿了？得喂奶了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3511, "text": "朱天福：别着急啊。这事我来办。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3512, "text": "蒋诗萌：老公，大壮是不是吃多了？又吐奶了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3513, "text": "何欢：完了，孩子吃饭随你了，怎么办？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3514, "text": "蒋诗萌：你给我一边待着去。", "annotations": [{"label": 12, "start_offset": 7, "end_offset": 12, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3515, "text": "张小斐：萌萌一天天的在长大，向诗萌小时候一样不听话。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3516, "text": "蒋诗萌：大壮也越来越大，跟小斐小时候一样，啥都怕。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3517, "text": "张小斐：有一天老师来到我家，你家萌萌把同桌给打哭了，还给了后桌两个嘴巴，不像话。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3518, "text": "蒋诗萌：有一天我找老师去了。老师，你看同桌把咱家大壮打的，那脸肿的比我脸巴子还大。", "annotations": [{"label": 12, "start_offset": 35, "end_offset": 40, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3519, "text": "张小斐：于是我来到了幼儿园，给被打得小朋友道歉，到了才知道对方小朋友的爸爸，是个拳击教练。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3520, "text": "蒋诗萌：我冲进教室，想给大壮报仇，结果一看打他那小姑娘，比大壮还矮一头。张小斐：我对萌萌说，女孩子要温柔，不能总打架。", "annotations": [{"label": 12, "start_offset": 28, "end_offset": 35, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3521, "text": "蒋诗萌：我对大壮说，你个完蛋玩意儿，跟你爸一个样儿。", "annotations": [{"label": 12, "start_offset": 21, "end_offset": 25, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3522, "text": "张小斐：于是我把萌萌，转到了大壮的幼儿园。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3523, "text": "蒋诗萌：从此以后又多了一个欺负大壮的小伙伴。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3524, "text": "张小斐：难道你忘了他们刚认识，就达成了统一战线。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3525, "text": "蒋诗萌：你说那事呀，两个小家伙，真是让我刮目相看。", "annotations": [{"label": 12, "start_offset": 20, "end_offset": 24, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3526, "text": "张小斐：没过几天老师又给我打电话了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3527, "text": "蒋诗萌：接到老师的电话，我贼尴尬。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3528, "text": "张小斐：什么，萌萌被欺负了？", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3529, "text": "蒋诗萌：啥，大壮打人了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3530, "text": "张小斐：萌萌对我说，妈妈他们欺负我是新来的，不过我没打架，我听话。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3531, "text": "蒋诗萌：大壮对我说妈妈，我是男孩。萌萌受欺负了，我得保护她。", "annotations": [{"label": 12, "start_offset": 25, "end_offset": 29, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3532, "text": "张小斐：我对萌萌说，好孩子，你长大了。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3533, "text": "蒋诗萌：我对大壮说，好儿子你也不咔啦。", "annotations": [{"label": 12, "start_offset": 15, "end_offset": 18, "user": 1}], "meta": {}, "annotation_approver": null}
+{"id": 3534, "text": "张小斐：从此以后，萌萌和大壮，一天都没有分开过。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3535, "text": "蒋诗萌：没错，我儿子成了她闺女的男闺蜜。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3536, "text": "张小斐：要不我们俩也封建一下，给他们定个娃娃亲。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3537, "text": "蒋诗萌：咋的，闺密当够了，想当亲家。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3538, "text": "张小斐：说对了，前二十年年的感情，在这里生根发芽。", "annotations": [], "meta": {}, "annotation_approver": null}
+{"id": 3539, "text": "蒋诗萌：后二十年的友谊，由他们结果开花。", "annotations": [{"label": 12, "start_offset": 15, "end_offset": 19, "user": 1}], "meta": {}, "annotation_approver": null}

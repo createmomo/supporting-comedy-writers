@@ -1,0 +1,95 @@
+{"id": 3364, "text": "（众人抢着上车坐座）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3365, "text": "曹贺军：（无座）让你快点你不快点。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3366, "text": "乘客A：你赖我干什么？我在车头我也没跑过呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3367, "text": "曹贺军：这一个多小时，咱俩站着不累死啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3368, "text": "乘客A：那你想办法，你是大哥。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3369, "text": "曹贺军：老办法。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3370, "text": "乘客A：明白。（跳到曹贺军怀里，装小孩）爸爸，爸爸，你累不累呀？累不累呀？", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "Happy"], [8, 15, "Happy"]]}
+{"id": 3371, "text": "曹贺军：爸爸，不累。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3372, "text": "崔志佳：不累呀，不累就站着吧。", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "Happy"]]}
+{"id": 3373, "text": "曹贺军：这孩子大了，有点累，哪个好心人给我们让个座呗。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3374, "text": "崔志佳：（使眼色）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3375, "text": "乘客B：（站起）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3376, "text": "曹贺军：你看现在我跟你说。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3377, "text": "（崔志佳、黄铭浩、乘客B三人轮流换座位）", "meta": {}, "annotation_approver": null, "labels": [[14, 19, "Happy"]]}
+{"id": 3378, "text": "曹贺军：坐这儿也行，这好心人呐，这好心人。（没座位）这孩子太大了，这都要坚持不住了，你们这些大人，能不能给抱小孩的，这个小孩让个座啊。", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "Happy"]]}
+{"id": 3379, "text": "乘客A：爸爸，爸爸。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3380, "text": "崔志佳：我们是大人？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3381, "text": "（黄铭浩、乘客B含上奶嘴）", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "Happy"]]}
+{"id": 3382, "text": "（音乐：我有一个好爸爸，好爸爸）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3383, "text": "曹贺军：你看这俩孩子比他还大呢，咱俩从后边找找看后边有座没？", "meta": {}, "annotation_approver": null, "labels": [[10, 15, "Happy"]]}
+{"id": 3384, "text": "乘客C：（上车）呀，都满了，我得想想办法，（装孕妇）", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "Happy"]]}
+{"id": 3385, "text": "（音乐：让我的爱伴着你直到永远，你有没有感觉到我为你担心）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3386, "text": "乘客C：这都九个多月了，快生了，这也站不住，谁给让让座。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3387, "text": "崔志佳：大哥，男的还能怀孕呢？", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "Happy"]]}
+{"id": 3388, "text": "乘客C：要不说现在医学发达呢。装这么像都认出我是男的来了，凭啥呀？腿毛没刮，下回我得穿丝袜，上后面看看座去。", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "Happy"], [33, 37, "Happy"], [41, 45, "Happy"]]}
+{"id": 3389, "text": "贾玲：（上车）这公交车上也太挤了，我得想点儿对策了（装扮老太太）大娘在医院待了四五个小时，这两个腿都发麻了，有没有小伙子给大娘让个座啊，哎呀，这大眼睛的小伙子，心地肯定善良，给大娘让个座呗，是不是小伙子？", "meta": {}, "annotation_approver": null, "labels": [[26, 31, "Happy"]]}
+{"id": 3390, "text": "乘客A：是，大娘（睁眼打呼噜）", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "Happy"]]}
+{"id": 3391, "text": "贾玲：死不瞑目就你这样，睁着眼睛睡，不亮啊，大娘帮你把灯关上（闭上乘客A眼睛）。哪个大小伙子给大娘让个地儿啊？这大胡子的小伙子，大胡子小伙子，给大娘。", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "Happy"], [31, 38, "Happy"]]}
+{"id": 3392, "text": "崔志佳：（睁眼打呼噜）", "meta": {}, "annotation_approver": null, "labels": [[5, 10, "Happy"]]}
+{"id": 3393, "text": "贾玲：别别别，别睡了，这大胖脸，别睡啊，给大娘让个座呗。", "meta": {}, "annotation_approver": null, "labels": [[7, 10, "Happy"]]}
+{"id": 3394, "text": "崔志佳、黄铭浩：（站起）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3395, "text": "贾玲：你说现在这小伙子，一让还让俩。", "meta": {}, "annotation_approver": null, "labels": [[4, 11, "Happy"]]}
+{"id": 3396, "text": "（崔志佳、黄铭浩换座位）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3397, "text": "贾玲：品德就是，一个不如一个。小伙子，小伙子。", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "Happy"]]}
+{"id": 3398, "text": "崔志佳：（看别处）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3399, "text": "贾玲：不理我啊（拽崔志佳腿毛）", "meta": {}, "annotation_approver": null, "labels": [[8, 14, "Happy"]]}
+{"id": 3400, "text": "崔志佳：大娘，你干啥呢？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3401, "text": "贾玲：揪你毛。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3402, "text": "崔志佳：大娘怎么了？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3403, "text": "贾玲：叫你呢，哎呀，大娘坐会儿。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3404, "text": "崔志佳：大娘你想坐下是吧？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3405, "text": "贾玲：对对，想坐。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3406, "text": "崔志佳：那大娘我扶您坐下来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3407, "text": "贾玲：你说这小伙子这品德。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3408, "text": "崔志佳：（扶贾玲坐地上）", "meta": {}, "annotation_approver": null, "labels": [[8, 11, "Happy"]]}
+{"id": 3409, "text": "贾玲：不是你干啥？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3410, "text": "崔志佳：好嘞，坐稳了大娘。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3411, "text": "贾玲：我这么坐着我还用你，我要在这儿我还能躺下呢。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3412, "text": "崔志佳：大娘，我扶您躺下。", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "Happy"]]}
+{"id": 3413, "text": "贾玲：不用了，大娘躺着凉啊，小伙子，小伙子，（揪崔志佳腿毛）", "meta": {}, "annotation_approver": null, "labels": [[23, 29, "Happy"]]}
+{"id": 3414, "text": "崔志佳：大娘，干啥？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3415, "text": "贾玲：小伙子，大娘坐这地上，它凉啊，拔屁股。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3416, "text": "崔志佳：地上凉是吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3417, "text": "贾玲：凉啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3418, "text": "崔志佳：大娘我告诉你，你用两只手忙在屁股底下，就不凉了。", "meta": {}, "annotation_approver": null, "labels": [[16, 22, "Happy"]]}
+{"id": 3419, "text": "贾玲：那还用你说啊，那大娘还是站起来吧。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3420, "text": "崔志佳：大娘，我扶您，大娘，还是站着舒服吧。", "meta": {}, "annotation_approver": null, "labels": [[16, 21, "Happy"]]}
+{"id": 3421, "text": "贾玲：比坐底下舒服点儿。小伙子，今天大夫跟我说了，说大娘这个腿脚不利索，病了呀。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3422, "text": "崔志佳：为啥呀？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3423, "text": "贾玲：说缺乏锻炼。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3424, "text": "崔志佳：那你就站着呗。", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "Happy"]]}
+{"id": 3425, "text": "贾玲：不是，你回家锻炼，在公交车上得坐着，就坐座位上，得坐着！", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "Happy"]]}
+{"id": 3426, "text": "崔志佳：大娘，我明白了，你想坐在这儿是吗？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3427, "text": "贾玲：终于明白了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3428, "text": "崔志佳：我才反应过来，你咋不早说呢，我以为还扶你坐地上，你不早说我不明白。", "meta": {}, "annotation_approver": null, "labels": [[29, 36, "Happy"]]}
+{"id": 3429, "text": "贾玲：怪大娘了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3430, "text": "黄铭浩：大娘你得说出来，你不说出来，我俩脑子笨反应不过来。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3431, "text": "（崔志佳、黄铭浩装睡）", "meta": {}, "annotation_approver": null, "labels": [[8, 10, "Happy"]]}
+{"id": 3432, "text": "贾玲：小伙子，小伙子，那我薅你呗。", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "Happy"]]}
+{"id": 3433, "text": "崔志佳：（把裤子放下来）", "meta": {}, "annotation_approver": null, "labels": [[5, 11, "Happy"]]}
+{"id": 3434, "text": "贾玲：你说我薅谁呀？我这一下。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3435, "text": "崔志佳：（把黄铭浩裤子卷上来）", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "Happy"]]}
+{"id": 3436, "text": "贾玲：坐中间也行啊，咱就坐中间。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3437, "text": "黄铭浩：（把裤子放下来，把乘客A的裤子卷上来）", "meta": {}, "annotation_approver": null, "labels": [[13, 22, "Happy"]]}
+{"id": 3438, "text": "贾玲：旁边更好。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3439, "text": "（黄铭浩、乘客A互相争执）", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "Happy"]]}
+{"id": 3440, "text": "贾玲：这俩人掰腕子呢，你就别挣扎了，就薅你了。", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "Happy"]]}
+{"id": 3441, "text": "乘客A：（跪在地上）", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "Happy"]]}
+{"id": 3442, "text": "贾玲：不是小伙子，你这么坐着能得劲吗？", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3443, "text": "乘客A：有座就行。", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "Happy"]]}
+{"id": 3444, "text": "贾玲：你说你这啊，这三个人就没一个给大娘让个座的。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3445, "text": "（急刹车）", "meta": {}, "annotation_approver": null, "labels": [[1, 4, "Happy"]]}
+{"id": 3446, "text": "（贾玲坐下，崔志佳站着）", "meta": {}, "annotation_approver": null, "labels": [[3, 5, "Happy"]]}
+{"id": 3447, "text": "贾玲：这幸福来得也太快了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3448, "text": "（急刹车，调换座位，黄铭浩站着）", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "Happy"]]}
+{"id": 3449, "text": "贾玲：怎么开的车呀你这是，坐中间也行。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3450, "text": "（急刹车，调换座位，乘客A站着）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3451, "text": "贾玲：别再刹车了啊，再刹车我也不走啊，我不管啊。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3452, "text": "（急刹车，贾玲站着）。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3453, "text": "贾玲：这边，来吧，来吧，不可能啊，来，刹，刹，你怎么开得这么稳了呢？一下刹车都没啦。", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "Happy"], [19, 20, "Happy"], [26, 33, "Happy"]]}
+{"id": 3454, "text": "（急刹车）", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3455, "text": "贾玲：来了来了。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3456, "text": "报站员：终点站到了，请各位乘客有序下车。", "meta": {}, "annotation_approver": null, "labels": [[13, 19, "Happy"]]}
+{"id": 3457, "text": "崔志佳：大娘。", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 3458, "text": "崔志佳、黄铭浩、乘客A：您坐。", "meta": {}, "annotation_approver": null, "labels": [[12, 14, "Happy"]]}
