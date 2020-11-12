@@ -22,9 +22,25 @@ We would like to express our sincere appreciation to **all comedians** and **bac
 
 > Annotated Data
 #### * Paper Experiments Data
-This folder contains the data split used for our experiments described in the paper. If you would like to run experiments in order to compare the results to that of the paper, I would recommend using the data splits in this folder. However, if you just would like to use this data to do something for fun or other things, you can also choose the data in other formats (i.e., CONLL, JSON formats). :)
+This folder contains the data split used for our experiments described in the paper. If you would like to run experiments in order to compare the results to that of the paper, I would recommend using the data splits in this folder. However, if you just would like to use this data to do something for fun or other things, you can also choose the data *in other formats* (i.e., CONLL, JSON formats). :)
 
 There are two sub-folders inside: **Classification** and **Information Extraction**.
+
+In **Classification**, the format of each file (i.e., script of each performance) is as follows:
+
+1 Actor A: ...
+
+0 Actor B: ...
+
+1 Actor A: ...
+
+...
+
+Therefore, this is actually a binary sentence classification problem. 1 indicates the audience laughed on this sentence, 0 the audience not.
+
+In **Information Extraction**, the format of each file is:
+
+Actor A : word1 word2 word3 O O O B-Happy I-Happy
 
 #### * CONLL-Format
 
