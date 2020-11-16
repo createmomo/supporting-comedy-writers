@@ -117,3 +117,19 @@ This is the command I used for bert mdoels. (You can also find how to use these 
 ```
 
 > !Note: The information extraction evaluation used relax-match precision, recall and f-scores. Please find more information in the paper.
+
+## Citation
+```
+@inproceedings{li-2020-supporting,
+    title = "Supporting Comedy Writers: Predicting Audience{'}s Response from Sketch Comedy and Crosstalk Scripts",
+    author = "Li, Maolin",
+    booktitle = "Proceedings of the First Workshop on Computational Approaches to Discourse",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.codi-1.5",
+    pages = "42--52",
+    abstract = "Sketch comedy and crosstalk are two popular types of comedy. They can relieve people{'}s stress and thus benefit their mental health, especially when performances and scripts are high-quality. However, writing a script is time-consuming and its quality is difficult to achieve. In order to minimise the time and effort needed for producing an excellent script, we explore ways of predicting the audience{'}s response from the comedy scripts. For this task, we present a corpus of annotated scripts from popular television entertainment programmes in recent years. Annotations include a) text classification labels, indicating which actor{'}s lines made the studio audience laugh; b) information extraction labels, i.e. the text spans that made the audience laughed immediately after the performers said them. The corpus will also be useful for dialogue systems and discourse analysis, since our annotations are based on entire scripts. In addition, we evaluate different baseline algorithms. Experimental results demonstrate that BERT models can achieve the best predictions among all the baseline methods. Furthermore, we conduct an error analysis and investigate predictions across scripts with different styles.",
+}
+```
